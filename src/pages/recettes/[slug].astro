@@ -1,0 +1,49 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+  const recettes = await getCollection('recettes');
+  return recettes.map((r) => ({ params: { slug: r.id }, props: { r } }));
+}
+const { r } = Astro.props;
+const { Content } = await render(r);
+const d = r.data;
+---
+<Base titre={`${d.titre} – virg's cooking`}>
+  <article>
+    <h1>{d.titre}</h1>
+    <p class="meta">{d.categorie}{d.minutes ? `, ${d.minutes} min` : ''}</p>
+
+    {d.ingredients.length > 0 && (
+    <section class="ingredients">
+      <label>Pour
+        <input id="portions" type="number" min="1" max="50" value={d.portions} data-base={d.portions} />
+        personnes
+      </label>
+      <ul>
+        {d.ingredients.map((i) => (
+          <li>
+            {i.qte !== undefined && (
+              <strong><span data-qte={i.qte}>{i.qte}</span>{i.unite ? ` ${i.unite}` : ''}</strong>
+            )} {i.nom}
+          </li>
+        ))}
+      </ul>
+    </section>
+    )}
+
+    <section class="etapes"><Content /></section>
+  </article>
+
+  <script>
+    const input = document.getElementById('portions') as HTMLInputElement;
+    const base = Number(input.dataset.base);
+    input.addEventListener('input', () => {
+      const f = Number(input.value) / base;
+      document.querySelectorAll<HTMLElement>('[data-qte]').forEach((el) => {
+        el.textContent = String(Math.round(Number(el.dataset.qte) * f * 100) / 100);
+      });
+    });
+  </script>
+</Base>

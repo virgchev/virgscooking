@@ -1,0 +1,22 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+const recettes = (await getCollection('recettes')).sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime()
+);
+---
+<Base>
+  <h1>La carte</h1>
+  <ul class="carte">
+    {recettes.map((r) => (
+      <li>
+        <a href={`/recettes/${r.id}/`}>
+          <span class="nom">{r.data.titre}</span>
+          <span class="fil" aria-hidden="true"></span>
+          {r.data.minutes && <span class="tps">{r.data.minutes} min</span>}
+        </a>
+        <small>{r.data.categorie}</small>
+      </li>
+    ))}
+  </ul>
+</Base>
