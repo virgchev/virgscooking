@@ -1,6 +1,6 @@
 ---
 titre: "Tourbillons de Courgettes et de Dinde"
-categorie: "Entrée"
+categories: ["Plat"]
 date: 2014-06-24
 ---
 

@@ -1,6 +1,6 @@
 ---
 titre: "Poêlée de Pâtisson, Lardons et Petits Champignons"
-categorie: "Romarin"
+categories: ["Plat"]
 date: 2016-10-02
 ---
 

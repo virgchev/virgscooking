@@ -1,6 +1,6 @@
 ---
 titre: "Sorbet poivron"
-categorie: "Entrée"
+categories: ["Entrée"]
 date: 2016-08-18
 ---
 

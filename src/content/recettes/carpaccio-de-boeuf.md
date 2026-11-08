@@ -1,6 +1,6 @@
 ---
 titre: "Carpaccio de Boeuf à l'Huile de Noix et Vinaigre Balsamique"
-categorie: "Entrée"
+categories: ["Entrée","Plat"]
 date: 2014-08-22
 ---
 

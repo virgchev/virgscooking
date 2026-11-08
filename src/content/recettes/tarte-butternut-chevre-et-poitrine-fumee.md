@@ -1,6 +1,6 @@
 ---
 titre: "Tarte Butternut, Chèvre et Poitrine Fumée Façon Coralie"
-categorie: "Romarin"
+categories: ["Plat"]
 date: 2016-01-24
 ---
 

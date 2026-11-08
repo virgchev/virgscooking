@@ -11,7 +11,7 @@ const texteDe = (r) =>
   norm(
     [
       r.data.titre,
-      r.data.categorie,
+      r.data.categories.join(' '),
       r.data.ingredients.map((i) => i.nom).join(' '),
       (r.body ?? '')
         .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
@@ -37,7 +37,7 @@ const texteDe = (r) =>
           <span class="fil" aria-hidden="true"></span>
           {r.data.minutes && <span class="tps">{r.data.minutes} min</span>}
         </a>
-        <small>{r.data.categorie}</small>
+        <small>{r.data.categories.join(' · ')}</small>
       </li>
     ))}
   </ul>

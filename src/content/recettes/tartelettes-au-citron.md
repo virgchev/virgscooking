@@ -1,6 +1,6 @@
 ---
 titre: "Tartelettes au citron"
-categorie: "Oeuf"
+categories: ["Dessert"]
 date: 2014-09-21
 ---
 

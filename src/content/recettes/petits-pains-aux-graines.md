@@ -1,6 +1,6 @@
 ---
 titre: "Petits Pains Aux Graines"
-categorie: "Graines de lin"
+categories: ["Pain"]
 date: 2014-12-28
 ---
 

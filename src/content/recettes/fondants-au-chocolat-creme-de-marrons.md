@@ -1,6 +1,6 @@
 ---
 titre: "Fondants au Chocolat à la Crème de Marrons"
-categorie: "Oeuf"
+categories: ["Dessert", "Goûter"]
 date: 2015-06-19
 ---
 

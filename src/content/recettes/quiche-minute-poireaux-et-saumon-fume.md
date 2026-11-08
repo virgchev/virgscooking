@@ -1,6 +1,6 @@
 ---
 titre: "Quiche Minute Poireaux et Saumon Fumé"
-categorie: "Oeuf"
+categories: ["Plat"]
 date: 2014-06-04
 ---
 

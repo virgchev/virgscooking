@@ -1,6 +1,6 @@
 ---
 titre: "Mousse de Betterave, Chips Vitelotte et Copeaux de Parmesan"
-categorie: "Pomme de Terre Vitelotte"
+categories: ["Entrée"]
 date: 2014-06-02
 ---
 

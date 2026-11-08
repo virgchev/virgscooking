@@ -1,6 +1,6 @@
 ---
 titre: "Petites Momies"
-categorie: "Saucisse"
+categories: ["Apéritif", "Halloween"]
 date: 2014-11-22
 ---
 

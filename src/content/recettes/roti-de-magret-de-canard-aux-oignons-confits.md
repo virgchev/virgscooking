@@ -1,6 +1,6 @@
 ---
 titre: "Rôti de Magret de Canard Aux Oignons Confits"
-categorie: "Magret de canard"
+categories: ["Plat"]
 date: 2015-01-18
 ---
 

@@ -1,6 +1,6 @@
 ---
 titre: "Pancakes au Sirop d'Erable"
-categorie: "Oeuf"
+categories: ["Brunch", "Dessert"]
 date: 2014-06-15
 ---
 

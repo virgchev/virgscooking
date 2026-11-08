@@ -1,6 +1,6 @@
 ---
 titre: "Doigts de Sorcières Ensanglantés"
-categorie: "Amande"
+categories: ["Dessert", "Halloween"]
 date: 2014-11-02
 ---
 

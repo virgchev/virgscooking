@@ -5,7 +5,7 @@ const recettes = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/recettes' }),
   schema: z.object({
     titre: z.string(),
-    categorie: z.string().default('Divers'),
+    categories: z.array(z.string()).default(['Divers']),
     minutes: z.number().optional(),
     portions: z.number().default(4),
     date: z.coerce.date(),

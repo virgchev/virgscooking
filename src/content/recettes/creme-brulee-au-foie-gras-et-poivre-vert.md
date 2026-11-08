@@ -1,6 +1,6 @@
 ---
 titre: "Crème Brûlée au Foie Gras et Poivre Vert"
-categorie: "Cassonade"
+categories: ["Entrée"]
 date: 2015-03-14
 ---
 

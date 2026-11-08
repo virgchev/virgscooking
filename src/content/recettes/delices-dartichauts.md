@@ -1,6 +1,6 @@
 ---
 titre: "Délices d'Artichauts"
-categorie: "Entrée"
+categories: ["Apéritif"]
 date: 2015-01-30
 ---
 

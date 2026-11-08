@@ -1,6 +1,6 @@
 ---
 titre: "Tian aux Légumes du Soleil et Chèvre façon Elodie"
-categorie: "Ail"
+categories: ["Plat"]
 date: 2015-06-16
 ---
 

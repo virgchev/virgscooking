@@ -1,6 +1,6 @@
 ---
 titre: "Muffins aux Pépites de Chocolat Blanc et Cranberries"
-categorie: "Cassonade"
+categories: ["Dessert"]
 date: 2014-11-01
 ---
 

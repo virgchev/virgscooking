@@ -1,6 +1,6 @@
 ---
 titre: "Farfalles au Blé Complet aux Épinards et Viande des Grisons"
-categorie: "Viande des Grisons"
+categories: ["Plat"]
 date: 2014-09-22
 ---
 

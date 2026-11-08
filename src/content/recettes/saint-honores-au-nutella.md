@@ -1,6 +1,6 @@
 ---
 titre: "Saint Honorés Au Nutella"
-categorie: "Oeuf"
+categories: ["Dessert"]
 date: 2017-03-25
 ---
 

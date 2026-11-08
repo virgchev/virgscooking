@@ -1,6 +1,6 @@
 ---
 titre: "Cupcakes au Caramel Beurre Salé d'Alice"
-categorie: "Farine complète"
+categories: ["Dessert", "Goûter"]
 date: 2014-11-09
 ---
 

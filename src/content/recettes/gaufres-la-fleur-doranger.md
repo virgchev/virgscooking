@@ -1,6 +1,6 @@
 ---
 titre: "Gaufres à la Fleur d'Oranger"
-categorie: "Oeuf"
+categories: ["Dessert", "Goûter"]
 date: 2015-01-31
 ---
 

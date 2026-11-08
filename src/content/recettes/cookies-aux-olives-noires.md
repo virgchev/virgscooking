@@ -1,6 +1,6 @@
 ---
 titre: "Cookies aux Olives Noires"
-categorie: "Oeuf"
+categories: ["Apéritif"]
 date: 2014-11-25
 ---
 

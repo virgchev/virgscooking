@@ -1,6 +1,6 @@
 ---
 titre: "Crevettes Épicées Flambées au Whisky"
-categorie: "Curry"
+categories: ["Entrée"]
 date: 2014-08-23
 ---
 

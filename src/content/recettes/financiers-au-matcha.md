@@ -1,6 +1,6 @@
 ---
 titre: "Petits Financiers au Thé Vert"
-categorie: "Oeuf"
+categories: ["Dessert", "Goûter"]
 date: 2014-07-13
 ---
 

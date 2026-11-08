@@ -10,10 +10,10 @@ const { r } = Astro.props;
 const { Content } = await render(r);
 const d = r.data;
 ---
-<Base titre={`${d.titre} – virg's cooking`}>
+<Base titre={`${d.titre} – Virg's Cooking`}>
   <article>
     <h1>{d.titre}</h1>
-    <p class="meta">{d.categorie}{d.minutes ? `, ${d.minutes} min` : ''}</p>
+    <p class="meta">{d.categories.join(' · ')}{d.minutes ? `, ${d.minutes} min` : ''}</p>
 
     {d.ingredients.length > 0 && (
     <section class="ingredients">

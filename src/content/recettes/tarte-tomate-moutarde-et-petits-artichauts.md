@@ -1,6 +1,6 @@
 ---
 titre: "Tarte à la Tomate, Moutarde et Petits Artichauts"
-categorie: "Comté"
+categories: ["Plat"]
 date: 2014-12-10
 ---
 

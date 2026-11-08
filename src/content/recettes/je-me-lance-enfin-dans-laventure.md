@@ -1,6 +1,6 @@
 ---
 titre: "Enfin!!! L'aventure culinaire commence..."
-categorie: "Divers"
+categories: [""]
 date: 2014-05-31
 ---
 

@@ -1,6 +1,6 @@
 ---
 titre: "Tiramisu Chocolat Blanc aux Noisettes Caramelisées"
-categorie: "Biscuit cuillère"
+categories: ["Dessert"]
 date: 2014-08-21
 ---
 

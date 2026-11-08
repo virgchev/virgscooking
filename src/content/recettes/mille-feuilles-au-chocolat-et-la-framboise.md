@@ -1,6 +1,6 @@
 ---
 titre: "Mille-Feuilles au Chocolat et à la Framboise"
-categorie: "Sucre glace"
+categories: ["Dessert"]
 date: 2015-02-01
 ---
 

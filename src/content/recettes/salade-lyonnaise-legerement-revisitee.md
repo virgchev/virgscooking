@@ -1,6 +1,6 @@
 ---
 titre: "Salade Lyonnaise Légèrement Revisitée"
-categorie: "Entrée"
+categories: ["Entrée", "Plat"]
 date: 2014-06-13
 ---
 

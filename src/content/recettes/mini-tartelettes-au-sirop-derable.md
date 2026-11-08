@@ -1,6 +1,6 @@
 ---
 titre: "Mini-Tartelettes au Sirop d'Erable"
-categorie: "Sucre Vergeoise"
+categories: ["Dessert"]
 date: 2014-09-23
 ---
 

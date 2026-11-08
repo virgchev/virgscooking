@@ -1,6 +1,6 @@
 ---
 titre: "Bouchées coco"
-categorie: "Blanc d’oeuf"
+categories: ["Dessert","Goûter"]
 date: 2014-06-07
 ---
 

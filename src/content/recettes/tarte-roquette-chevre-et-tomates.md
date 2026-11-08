@@ -1,6 +1,6 @@
 ---
 titre: "Tarte Roquette, Chèvre et Tomates"
-categorie: "Oeuf"
+categories: ["Plat"]
 date: 2014-05-31
 ---
 

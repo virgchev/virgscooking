@@ -1,6 +1,6 @@
 ---
 titre: "Crumble Rhubarbe et Framboises"
-categorie: "Cassonade"
+categories: ["Dessert"]
 date: 2016-01-27
 ---
 

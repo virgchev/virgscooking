@@ -1,6 +1,6 @@
 ---
 titre: "Le Cannelier"
-categorie: "Oeuf"
+categories: ["Dessert"]
 date: 2018-02-27
 ---
 

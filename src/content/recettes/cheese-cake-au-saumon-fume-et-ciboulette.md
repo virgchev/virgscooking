@@ -1,6 +1,6 @@
 ---
 titre: "Cheese-Cake au Saumon Fumé et Ciboulette"
-categorie: "Entrée"
+categories: ["Apéritif"]
 date: 2014-11-07
 ---
 

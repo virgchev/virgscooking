@@ -1,6 +1,6 @@
 ---
 titre: "Pot-au-Feu de Saumon"
-categorie: "Oeuf"
+categories: ["Plat"]
 date: 2014-12-22
 ---
 

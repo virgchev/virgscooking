@@ -1,6 +1,6 @@
 ---
 titre: "Coeur Framboisier"
-categorie: "Oeuf"
+categories: ["Dessert"]
 date: 2016-07-05
 ---
 

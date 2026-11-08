@@ -1,6 +1,6 @@
 ---
 titre: "Opéra au Foie Gras et Figues"
-categorie: "Entrée"
+categories: ["Entrée"]
 date: 2014-12-20
 ---
 

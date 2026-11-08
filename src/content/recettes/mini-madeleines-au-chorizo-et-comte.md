@@ -1,6 +1,6 @@
 ---
 titre: "Mini-Madeleines au Chorizo et Comté"
-categorie: "Oeuf"
+categories: ["Apéritif"]
 date: 2014-06-03
 ---
 
