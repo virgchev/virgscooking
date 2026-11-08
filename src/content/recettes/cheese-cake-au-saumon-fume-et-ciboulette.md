@@ -4,6 +4,8 @@ categorie: "Entrée"
 date: 2014-11-07
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> crackers ; fromage frais ; beurre ; fromage blanc ; œufs ; jus de citron ; saumon fumé ; poivre ; botte de ciboulette</p>
+
 [![](/images/0fd8030052.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiswCXM0tVxH0oyddhg-DYoRrpFpXoPZv1KRN4BuPMHIJT0fVe9956cGyMZAZHtSZxhQgiSMb6gX-8xd6RPjMlz0Egfm6zq59j_gY75Stif1utOr_-Y5gJfe9vCKVu0VuLKDhLo7SyHcQs/s1600/20140922_212547.jpg)
 
   

@@ -4,6 +4,8 @@ categorie: "Graines de lin"
 date: 2014-12-28
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> farine à pain ; levure boulangère ; sel ; huile ; eau tiède ; graines de pavot</p>
+
 [![](/images/6aa7e2be98.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi65Kwo4QQ5CwRjaEPme2oPPVoscm1VC2SeB86HzjgCxHP60yncdtMCEJunI-wVg-CaBfeU2uvRej_7C1O1znBATk6-PuKHPuE_k18j9xUp4MtH8cyr5bkp-lo6XV2iOIuXSv50p2SjE1Y/s1600/20141227_213757.jpg)
 
   

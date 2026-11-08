@@ -4,6 +4,8 @@ categorie: "Oeuf"
 date: 2015-01-01
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> farine ; pesto ; lait ; œufs ; crème fleurette ou liquide entière ; zeste d'un 1/2 citron ; sel ; oeuf de saumon</p>
+
 [![](/images/8dc4537153.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglB-SN4hMHgqTttE46feafs50227Juo4kChCkL65M74EqU_Az-Odqx8lasDEHltSUT_57LpoV0A0P12eHQrTN9BPuB-TP5Cxwj_i71UP0I0QFWMSGiwgcgx2b7syJQQVz3jutMj338uXU/s1600/20141231_231158.jpg)
 
   

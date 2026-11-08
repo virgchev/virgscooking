@@ -4,6 +4,8 @@ categorie: "Magret de canard"
 date: 2015-01-18
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> magrets de canard ; oignons ; noix de beurre ; huile d'olive ; vinaigre balsamique ; sauce soja ; vinaigre de vin rouge vieilli en fût ; miel ; sel ; poivre</p>
+
 [![](/images/d1e4ab8edc.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo2NTj2GjBz_67L-4dc8QiedWFhVnucQemTKI7zshVktZ3BwXCFOjwkc6Y7bITLUJdWfbh2Q-RXnDv6iAF5tPyc2AyAoQ252coopmvENiprYRFweULHLyDoxgr5ZRB4cTQvmU1k1A_0fk/s1600/20150103_142655.jpg)
 
   

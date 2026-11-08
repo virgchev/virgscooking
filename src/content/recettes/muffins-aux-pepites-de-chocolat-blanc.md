@@ -4,6 +4,8 @@ categorie: "Cassonade"
 date: 2014-11-01
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> farine ; sel ; levure chimique ; cassonade ; œufs ; beurre ; lait ; chocolat blanc ; cranberries séchées</p>
+
 [![](/images/28fdfc3ed9.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrHa_WIXE7mxuHIg7cbJRVkUq9MS7pS1a1MkFmJCFQK2Q7M_AqNiQgh4RUGzDpFPw5CeaABCz0xr78-6lJvWU5Uyve0EfgRmAEmYzfDVIIPcIFTdqb0DHfk9-SmdVisgvV7RzDRJ9aCM/s1600/20141101_162531.jpg)
 
   

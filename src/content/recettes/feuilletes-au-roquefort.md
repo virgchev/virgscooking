@@ -4,6 +4,8 @@ categorie: "Entrée"
 date: 2016-01-30
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> roquefort ; crème entière semi-épaisse ; poivre ; rouleau de Pâte Feuilletée ; œuf</p>
+
 [![](/images/9f63eb46ba.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy8aaxVqHTgBtqwytN3xvW-biOYWJ31uFibT5v2g3xLXqwDgwaAWT67OBFfnwcfT008E7jZOgqZPCA_EwPDV4isQhYoT-RVJrFyNrI7naqqPRV0dfnoscA_2W1bKQxdCQYqKsNkqQLOc4/s1600/20160130_203218.jpg)
 
   

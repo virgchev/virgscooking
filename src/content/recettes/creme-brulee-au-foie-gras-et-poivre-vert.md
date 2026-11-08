@@ -4,6 +4,8 @@ categorie: "Cassonade"
 date: 2015-03-14
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> foie gras cuit ; crème fleurette ; jaunes d’œufs ; cuillère soupe de Cassonade ; poivre vert ; sel</p>
+
 [![](/images/d954d66d49.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOgWOXt1wRquMkArlFwHAnwvrGPxjM3-d4DTnaWl4upa1O1K3bDst-NAYoXS_EVOQMaOnRA_WMpJmmLGDqVr483AJM3W-t3LjS1_SELv3jOC8JpIqeSNnqmlvo85o4MGXQtQvki0mju0/s1600/20141222_220220.jpg)
 
 Après quelques semaines d'inactivité sur la blogosphère, me revoici avec des petites recettes que je n'avais pas encore publiées. Voici une petite recette pour une entrée en amoureux, si comme moi vous raffolez du foie gras. Vous pouvez faire aussi ces petites crèmes brûlées dans de tout petits plats si vous voulez les servir lors d'un apéritif entre amis.

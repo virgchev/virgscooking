@@ -4,6 +4,8 @@ categorie: "Oeuf"
 date: 2014-12-22
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> rouleaux de pâtes feuilletée ; œuf ; jaune œuf ; oignon ; garni ; gros sel ; grains de poivre ; grosses carottes ; petites pommes de terres à chair ferme ; navet ; poireau ; botte d'aneth ; pavé de saumon</p>
+
 [![](/images/c9d62476ca.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZGQRUy8sNrW1CEpHDFAa06jK7WGRxmPZ2HB3rSvJ7m2aXkqMM14COgwHF7ilnN8k7Wri_pzBxEbAPCuu0RAIKyA7TgTB3HS-TG5ULB_6-6TEa7-KZZW1EuG4v4yBCalWdXvK2AZEG6G0/s1600/20141219_203318.jpg)
 
   

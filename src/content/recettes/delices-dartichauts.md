@@ -4,6 +4,8 @@ categorie: "Entrée"
 date: 2015-01-30
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> fonds d'artichauts surgelés ; ricotta ; basilic ciselé ; œufs ; écorces de citron vert râpées ; sel ; poivrons marinés pour la décoration ou des tomates confites</p>
+
 [![](/images/27663d457e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZa-QQC7MJm9S9JPAIxSY1pi05kyelp9UbfDLrSX6FWT5FIqDkkLR4OZX67KN4_Q3KTz1JffEXx4upZukRW86dXe6aol4AAramH-FGiW7-hdjiRie6TqzW64GjLtR7A8IJtDkgsC_NoE/s1600/20141017_184748.jpg)
 
   

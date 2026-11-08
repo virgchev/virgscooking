@@ -4,6 +4,8 @@ categorie: "Pomme de Terre Vitelotte"
 date: 2014-06-02
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> betteraves cuites ; fromage blanc ; vinaigre balsamique ; chips Vitelotte ; copeaux de Parmesan ; crème fraîche épaisse ; graines de pavot pour la décoration</p>
+
 [![](/images/77994bdc0a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6Sjt1j8V5bW0q8ckFTjRDcqLfvdMJam6CXH4rItxae6txf7H3RoURxubAgqH_U0Q2Ij-gQMQGoyf51dxjFki3wpoN0uj0816nONe1V9yrB0FPL3IeuQPo-TBqFz6t6qu4yxj8BEU6Few/s1600/Mousse+de+Betterave.jpg)
 
   

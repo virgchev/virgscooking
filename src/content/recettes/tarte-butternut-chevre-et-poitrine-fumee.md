@@ -4,6 +4,8 @@ categorie: "Romarin"
 date: 2016-01-24
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> rouleau de pâte feuilletée ; petite courge butternut ; poitrine fumée coupée finement ; chèvre frais ; romarin</p>
+
 [![](/images/82a7313bb0.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheTjnctBsGbp__CKoydBkH_TUBCwbHAcrt48HNRkSk8hNzfXxw4MhaS2Ow0Ib5_qc6XcAo0b5pVQl4zOd299cp87YqgQWdCLVV_4-meCB-LksgX-iz9L1awBEJoLYoKrMg4LGXiocp6cI/s1600/20160124_141946.jpg)
 
   

@@ -4,6 +4,8 @@ categorie: "Amande"
 date: 2014-11-02
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> farine ; sucre roux ; beurre mou ; lait ; sucre vanillé ; amandes ; sirop de grenadine ; peu de colorant rouge</p>
+
 [![](/images/ce9c396629.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieQumg7iJNWNC42OkT9VOZN_gG2Qbbtb3vL5BBdN8TCQWN0dAEOZ0Ngk8anAL83W8Y80cNHt0-qwpzfWktl5-dUjSDnEo3S-xp0cqKDi5g64NrBcTDDxnerwVVcLUPVHfJXkxW1g0ZeSk/s1600/20141102_200357.jpg)
 
   

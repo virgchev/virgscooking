@@ -4,6 +4,8 @@ categorie: "Biscuit cuillère"
 date: 2014-08-21
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> chocolat blanc ; lait ; oeufs ; mascarpone ; biscuits cuillères selon les contenants utilisés pour le service ; noisettes décortiquées ; sucre en poudre pour les noisettes + 20 g de sucre pour le sirop ; eau ; rhum brun ; cacao noir en poudre</p>
+
 [![](/images/f279157861.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9NwAuZmGUJllM3X2x7OE7vEaD8PwD3DzyWE67TnCQH_90IfRXWYDDdk-iU_xyD8-FGPhiC6Jv1MqW9vfpSM5KwZEY3iREn0arAtYhbhyvT6lC_gCn39Em11CIA92ngylA3a7TUfz9cFc/s1600/20140714_143948.jpg)
 
   

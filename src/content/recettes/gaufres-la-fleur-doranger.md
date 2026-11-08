@@ -4,6 +4,8 @@ categorie: "Oeuf"
 date: 2015-01-31
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> farine ; beurre ; sucre ; oeufs ; eau de fleur d'oranger ou plus selon votre goût ; sel</p>
+
 [![](/images/a73fcb2168.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi11QEvVBw6d4D2XVdl1m6w_CCBRUENeWJ9DRtoBHIq7W8Isfa1zFxqUxQz240bhTEaKprjyQgo64zVQSRO9gqT1vdYwk_S2K5wflROhdcnbCDGlgjfki_4CwdU6FoDhfGT7a-9ZgK4dLA/s1600/20150131_210007.jpg)
 
   

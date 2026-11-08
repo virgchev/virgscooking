@@ -4,6 +4,8 @@ categorie: "Oeuf"
 date: 2018-02-27
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> beurre ; œufs ; jaunes d’œufs ; sucre ; poudre d'amandes ; sel ; fécule de maïs ; spéculoos ; pommes golden ; eau ; miel d'acacia ; agar-agar ; gélatine ; lait ; bâton de cannelle ; bombée de cannelle en poudre ; creme fleurette entière à 30% ; chocolat au lait</p>
+
 [![](/images/a514d1db25.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJLFlK9RIeBx7Bx0DWyQwJLp0rJFev2PWfbaHcQ6ylBru36Ooy0MTgXBIMaI55eISnclimcrwxSLHRuRV7O0u04DH_3Okh3ZnBLI-YvEaHK4vaRsuxa72KxeppOYWenZs0_lRTw5UdV_0/s1600/20180224_083752.jpg)
 
   

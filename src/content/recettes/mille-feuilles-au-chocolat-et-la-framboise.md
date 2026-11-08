@@ -4,6 +4,8 @@ categorie: "Sucre glace"
 date: 2015-02-01
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> rouleau de pâte feuilletée ; sucre semoule ; sucre glace ; lait ; sucre ; jaunes d’œuf ; fécule de maïs ; crème fleurette entière ; chocolat noir ; coulis de framboises ; poudre de beurre de cacao</p>
+
 [![](/images/df35fd8ea3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaEessGzhqI8b7VjTHmiOXwJ9MtgBupyED4LpsTWPoooNSU1kJKg8UtlKUNo5wz-qzbdpoFV4yZJVwXRvSvxFBW41MhgFYkkR4aM44fLYdiv6HT67LwM4kaGFh3kILVWcc4GWoha9s5pg/s1600/20141219_235807.jpg)
 
 Voici enfin la recette de mon dessert réalisé pour Noël, un peu long à faire mais très bon et fin. Personnellement, j'ai adoré la ganache à la framboise :), j'ai encore des progrès à faire sur le feuilletage et la déco mais pour une première, c'était très bon. Nous nous sommes régalés. Une recette à essayer sans hésiter pour les passionnés de la cuisine qui n'ont pas peur de rester aux fourneaux quelques temps ;-).

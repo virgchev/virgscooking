@@ -4,6 +4,8 @@ categorie: "Oeuf"
 date: 2014-07-13
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> beurre salé ; sucre ; poudre d'amande ; œufs ; farine ; thé vert Matcha ; framboises pour la déco</p>
+
 [![](/images/e3a76460de.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz5GLBr4yu2_ZiMNd-IfAFww0Ghe5iU06Q1UTK9VxKA5dbCYg2vEddTy-9iBkbuC4UHoftSrCgydtBkSs-q2-_8eq-csAPYBkRGq8zf-8GDFwFvMPynb9ptJXgMRj0V2tkLsoFPBsSbFM/s1600/20140711_230104.jpg)
 
   

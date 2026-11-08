@@ -4,6 +4,8 @@ categorie: "Saucisse"
 date: 2014-11-22
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> saucisses de strasbourg ou knackis ; pâte brisée ; jaune d'œuf ; peu de tapenade</p>
+
 [![](/images/f02837046e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0PYgsR_lNpY6rQ_YEcGnevJ2r8-B8BbUGYeTVZF3iAicWfQ5pM-NcT-tOJ15kxSJlUYbAJLtMGPz45v8TJw5nPC493P_rrP-wD_0BSnGQ-labW492wZxZ_ujMAVm181Y75bpH3D7_fp0/s1600/20141115_111841.jpg)
 
   

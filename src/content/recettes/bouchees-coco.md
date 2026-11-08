@@ -4,6 +4,8 @@ categorie: "Blanc d’oeuf"
 date: 2014-06-07
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> noix de coco râpée ; blancs d'oeufs ; sucre</p>
+
 [![](/images/0969330068.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG9zDCVI5Pi0ZoMZAHc-RxzB6MAuyf_ZzAAl4NLVJVm76qtk7XCew2UbQC9lalXM4Kqtj-7gCVhseDWbKc1fZolrx2GIwgl8oEmhzEEml5L6n3m1KBepfHzmQkMe-kEfIND9yXU5BvjNg/s1600/20140515_125148.jpg)
 
   

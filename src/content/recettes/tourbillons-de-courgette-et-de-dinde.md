@@ -4,6 +4,8 @@ categorie: "Entrée"
 date: 2014-06-24
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> courgettes ; dinde fumée ; œufs ; crème fleurette ; maïzena ; tomates cerises ; sel</p>
+
 [![](/images/d8970f368d.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWXZKuWq72WaeoPeevzGV2Xq5M6MgCdFnuNlWj2rdlNB2P2xym7Jp_T64Bbyw8ZUQOSAIpI3ZDfw2a8xW9kCOCPZMdxxJVlZzZBaRoUKmDnjGNEijxY2QKRXQpvm0vqng3ljwPUVFX2aM/s1600/20140624_222649%25280%2529.jpg)
 
   

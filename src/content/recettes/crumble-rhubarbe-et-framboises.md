@@ -4,6 +4,8 @@ categorie: "Cassonade"
 date: 2016-01-27
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> rhubarbe en tronçons ; framboises ; cassonade ; farine ; poudre d'amande ; beurre</p>
+
 [![](/images/4bef9dc7e6.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjnskfHZqn4G6FuOLEJyFnr0O6McH6ubHVQ6vo3qZzthkxfjm9-vDa5p9vFt9aHODwpj27CWDSN3bpbBKw_zNbEh5u7TLwz5zXNEVZ2WUFpyQzkj6Zg0rZHEruFatm7Nj-IB62bSpaoaI/s1600/20160127_133613.jpg)
 
   

@@ -4,6 +4,8 @@ categorie: "Entrée"
 date: 2014-08-22
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> viande de bœuf coupée en tranches fines ; mesclun ou Roquette pour accompagner ; parmesan ; huile de Noix ; vinaigre Balsamique ; sel ; poivre ; ciboulette</p>
+
 [![](/images/aeb6e17ef7.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjodrrbTD7thwYkX7TLCJ7GJPon7OBt5OWK1W73o2qSMPohgaRmeLXumD9jsS_Fev0Cf1Jg529T2VGTYB6L2mlaIZXxqY9Hj_R5fCFNs9H7x6X4kKF2dsM5KPagHfueMD3PSUFavEAW-rI/s1600/20140819_214507.jpg)
 
   

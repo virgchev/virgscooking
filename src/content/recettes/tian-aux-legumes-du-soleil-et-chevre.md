@@ -4,6 +4,8 @@ categorie: "Ail"
 date: 2015-06-16
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> aubergine ; petite courgette ; tomates ; parmesan râpé ; chèvre frais ; ail ; gros oignon ; huile d'olive ; sel ; poivre</p>
+
 [![](/images/f304527853.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwG6zzG-MWYzXoQa05Yrc4LqQJXd5z5EyL2F4QCEZf8NT715oNUnpYH_W7h6eIOSzSImGaSgKTZXxToRjsrwJjSyaF3jvzepUkPjKsj3KdHIwvyafKB2Km9tyAGThzTeriEnAzLyZv3UM/s1600/20150514_142003.jpg)
 
   

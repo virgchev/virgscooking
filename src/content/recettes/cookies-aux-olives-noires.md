@@ -4,6 +4,8 @@ categorie: "Oeuf"
 date: 2014-11-25
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> beurre pommade ; sucre ; œuf ; farine ; rase de levure chimique ; sel ; olives noires dénoyautées ; huile d’olive ; tapenade</p>
+
 [![](/images/a8accf5f93.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_D92yvXPzvSEAYUGGVo0FgYrkePAXlP0oneC-0ppH0_xEXnS4mYtm_L0dltz4AgLPg6sykUjE-KLijx6YHmop5uGZMNJLLIMSQfQQQmzNMHKbD4uvwdzhKZqwdSo9RnGN1jPtPnE2I_0/s1600/20141115_184853.jpg)
 
   

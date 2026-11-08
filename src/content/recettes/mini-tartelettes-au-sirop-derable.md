@@ -4,6 +4,8 @@ categorie: "Sucre Vergeoise"
 date: 2014-09-23
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> rouleau de pâte brisée ; sirop d'érable ; jaunes d’œufs ; fécule de maïs ; sucre vergeoise ou sucre muscovado ; crème fleurette entière ; sel</p>
+
 [![](/images/be6755dcd6.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1k9Hw65hLVDH1DLzXs9orCDQSTeh8psghvZxdLC1uSGQAK8yRZpuhiSsBFpAg8vjVrWAAOWYaNx-1PRTLCAYCCQ8Mt7jON9a_fIpc8jA0POeonKPr9XNniq2lrjJoOtKATZa37M1zdtA/s1600/20140922_235025.jpg)
 
 Pour les accros au sirop d'érable. Voici une petite recette vite prête pour bien commencer l'automne :-).

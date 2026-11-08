@@ -4,6 +4,8 @@ categorie: "Entrée"
 date: 2014-12-20
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> bloc de foie gras ; crème fleurette à 30% MG ; figues fraîches ou décongelées ; poudre d'amande ; sucre glace ; farine ; généreuse de mélange à pain d'épices ; fécule de Maïs ; œufs ; blancs d’œufs ; sucre en poudre ; sel fin ; beurre ; figues fraîche ; confit de figue</p>
+
 [![](/images/3c5b1d5e92.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj3Wgx2h2R4DkqmOR-4F7Sz781_Msb8DGfZ0ZlbfcTTlzE21a_SiaMqJjfhz2Iwd-p1CwTYVebffocRuybzSPRCgvjwWeR0Ykd8SjRWaYxU5TPUuD4PTdbaSG7iUkKkI_DWjTDDJEE4Rk/s1600/2014-12-19+19.59.13.jpg)
 
   

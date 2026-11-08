@@ -4,6 +4,8 @@ categorie: "Entrée"
 date: 2014-06-13
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> salade verte ; copeaux de parmesan ou vous les faites vous même avec un économe/épluche-légume ; petites pommes de terre ; lardons ou allumettes ; huile  pour ma part c'est huile d'olive ou huile d'amande ; vinaigre</p>
+
 [![](/images/0968f7c57e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKVKD3UhS7wyKu50dXReiPTKwCWhcdQ7cd35EI1Vu5OohvzyOZu4XQVgPPavApTswjuufLC61hK4F0aIT0P7iqYfCEI9m3apKHu41CFlsjWWb07y09Luqr6A6K344Ncia_bZncPji2Oo0/s1600/20140612_212014.jpg)
 
 Un jour, une amie Lyonnaise m'a fait découvrir la "salade lyonnaise" et comment faire les œufs pochés. Autant vous dire que ça fait très longtemps car je suis arrivée sur Lyon depuis plus de 15 ans. C'est très bon mais je trouvais cette salade pas assez consistante pour un plat principal. J'ai donc rajouté des ingrédients selon mon goût et mon envie.

@@ -4,6 +4,8 @@ categorie: "Oeuf"
 date: 2014-09-21
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> pâte brisée ; citrons non traités ; fécule de maïs ; sucre ; beurre ; œufs</p>
+
 [![](/images/e2477d674f.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYaZTnxFdr8tMJN82VoFyM5WM-M9qGZwfPP4oDNyvAnFGDuWehEy5dG4wO8ff5c1IZXFMUgsUMbQtDFjyKo5XwwzNeHZ5X4AEXAajQamU8QZyk3f-tDVGiPEaqcCcWW6OVGO89TDdHXbk/s1600/20140921_132530.jpg)
 
   

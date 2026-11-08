@@ -4,6 +4,8 @@ categorie: "Entrée"
 date: 2016-08-18
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> poivrons rouges ; jus de citron vert ; sauce soja ; eau ; sucre en poudre</p>
+
 [![](/images/43134aef03.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8zhS0cu-gBISUzX2fG6aCtgHBDozEOAzkCQz0igM16Z_GlIPggbbLL7CNTrd-4bTVCtIFYQ0IZiSNQ7PfL5ahVf4IohTAhhe6CIlLshKCQ91FSJ9-XaJtIgosuVKQmqW9XQel_R1Tp3Y/s1600/20160816_131810.jpg)
 
   

@@ -4,6 +4,8 @@ categorie: "Comté"
 date: 2014-08-24
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> pâte brisée ; plaques de ravioles ; crème fleurette ; comté ou gruyère râpé</p>
+
 [![](/images/212fc4a3e6.jpg).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4ssINemuFDHKtG1mGOCNGvLRoiDZRw7_68G409FUn7YiPZVlq7WIf-ImzQCv3XoMp7qzQlJWE9xGC5bNN8bU9jLojfptSavCcG9-eNYaG__nDk1ThTrczU697ddZvQMUvwayCYd__8g8/s1600/20130517_182805(1).jpg)
 
 Voici une recette de tartelettes pour l'apéritif que j'ai découvert lors d'un atelier de cuisine chez la voisine d'une amie. La première fois, je me suis dit : "ça risque d'être un peu lourd " et en fait pas du tout. Ça se mange sans faim, vous êtes sûr(e) de faire un succès. En plus, c'est très rapide à faire. Sur la photo, j'ai fait deux fournées soit 48 tartelettes ;-). Recette idéale dans un buffet dînatoire et vous pouvez variez les goûts avec des ravioles au basilic que j'ai testé, mais aussi au chèvre etc...

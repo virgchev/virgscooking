@@ -4,6 +4,8 @@ categorie: "Comté"
 date: 2014-12-10
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> tomates ; petits artichauts natures ; moutarde ; comté râpé ; pâte feuilletée</p>
+
 [![](/images/3c23a62ee8.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGaNN5EGTMtx_nkYk4Lb2zmZy36keYiPj1_I0LoUHfW6p-5yqqwdwkG2xuvH1nb3yZ6KmHF8AqGcDcFDneF96yh4GwVd8dOjsDqYNW4_4_u1P1mxLdUxJb-vPMYpOduqs8M5k-f3mNmPA/s1600/20141208_125538.jpg)
 
   

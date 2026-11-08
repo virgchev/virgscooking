@@ -4,6 +4,8 @@ categorie: "Oeuf"
 date: 2014-06-03
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> oeufs ; farine ; comté rapé ; beurre salé ; levure chimique ; chorizo plus ou moins fort selon votre goût</p>
+
 [![](/images/af39b5823e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwvpVamrFIV6OspvIvpP5Avxpu64p08rSDeQhihBPJeD-3_uUd6zv8ZftOh3m8yVekHLuXjHTu297XoBjdX6M_eQJqwx3yg1rMox1dAVI5zctH1VrtyJ1dk6vdjvYcFKWRctehHr2-m1s/s1600/20140510_132827.jpg)
 
   

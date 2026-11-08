@@ -4,6 +4,8 @@ categorie: "Viande des Grisons"
 date: 2014-09-22
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> pâtes au blé complet ; viande des Grisons ( viande séchée de bœuf ; copeaux de parmesan ou parmesan râpé ; peu de crème fraîche ) ; feuilles d’épinard fraîches ou surgelées ; pignons de pin ; peu d'ail ; huile d'olive</p>
+
 [![](/images/a18efb9e6d.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1eTkPWgWjKsYSucUPlTrpl3VY246L2SrPXxqe02U5M-UqT5Ykk4OW9fvSSW9faqU3IQ04T6w4A6Zo9M1b3honseyFxUmHGN62-AEpLzU2l3z96Rib0FRxlYe2z2mHT_2ZaVqrvO4Qdak/s1600/20140920_204009.jpg)
 
   

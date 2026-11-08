@@ -4,6 +4,8 @@ categorie: "Oeuf"
 date: 2015-06-19
 ---
 
+<p class="index-ingredients"><strong>Ingrédients :</strong> œufs ; chocolat noir ; beurre ; crème de marrons ; rase de farine</p>
+
 [![](/images/354eca1ea3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQPGSLwWYm-SC4Q-jarSQAx0fuOmAhPrlHBhPjwRyMuFnHb0xP7rwyl_nLDJDRQJpzVel7IniWDNAzjlFstGSv9bMNp_yUpYEa4RWRySP_HKSlVHJxKsPwLoOUGMFIcreae_vAqgptXAI/s1600/20150525_220114.jpg)
 
   
