@@ -1,15 +1,37 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
+
 const recettes = (await getCollection('recettes')).sort(
   (a, b) => b.data.date.getTime() - a.data.date.getTime()
 );
+
+const norm = (s) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+const texteDe = (r) =>
+  norm(
+    [
+      r.data.titre,
+      r.data.categorie,
+      r.data.ingredients.map((i) => i.nom).join(' '),
+      (r.body ?? '')
+        .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
+        .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+        .slice(0, 4000),
+    ].join(' ')
+  );
 ---
 <Base>
   <h1>La carte</h1>
+
+  <label class="recherche">
+    <span class="sr">Chercher une recette</span>
+    <input id="q" type="search" placeholder="Chercher une recette, un ingrédient…" autocomplete="off" />
+  </label>
+  <p id="vide" hidden>Aucune recette trouvée.</p>
+
   <ul class="carte">
     {recettes.map((r) => (
-      <li>
+      <li data-texte={texteDe(r)}>
         <a href={`/recettes/${r.id}/`}>
           <span class="nom">{r.data.titre}</span>
           <span class="fil" aria-hidden="true"></span>
@@ -19,4 +41,22 @@ const recettes = (await getCollection('recettes')).sort(
       </li>
     ))}
   </ul>
+
+  <script>
+    const norm = (s: string) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    const champ = document.getElementById('q') as HTMLInputElement;
+    const vide = document.getElementById('vide') as HTMLElement;
+    const items = [...document.querySelectorAll<HTMLElement>('.carte li')];
+
+    champ.addEventListener('input', () => {
+      const mots = norm(champ.value).split(/\s+/).filter(Boolean);
+      let trouves = 0;
+      items.forEach((li) => {
+        const ok = mots.every((m) => (li.dataset.texte ?? '').includes(m));
+        li.hidden = !ok;
+        if (ok) trouves++;
+      });
+      vide.hidden = trouves > 0;
+    });
+  </script>
 </Base>
