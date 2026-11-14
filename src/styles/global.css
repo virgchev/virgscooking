@@ -1,11 +1,9 @@
 :root {
-  --fond: #EDF1E4; --encre: #1F2A24; --betterave: #9E1B4F; --curcuma: #E5A823; --surface: #fff;
+  --fond: #111111; --encre: #f5f1e8; --betterave: #d85f8b; --curcuma: #e7b84b; --surface: #1f1f1f;
   --titre: 'Bricolage Grotesque', system-ui, sans-serif;
   --texte: 'Source Serif 4', Georgia, serif;
 }
-@media (prefers-color-scheme: dark) {
-  :root { --fond: #161d19; --encre: #E8EEDF; --betterave: #F06A9B; --surface: #202b25; }
-}
+
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--fond); color: var(--encre); font: 1.125rem/1.7 var(--texte); }
 .page { max-width: 42rem; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
