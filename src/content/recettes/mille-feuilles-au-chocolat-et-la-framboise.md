@@ -2,6 +2,7 @@
 titre: "Mille-Feuilles au Chocolat et à la Framboise"
 categories: ["Dessert"]
 date: 2015-02-01
+difficulte: 4
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> rouleau de pâte feuilletée ; sucre semoule ; sucre glace ; lait ; sucre ; jaunes d’œuf ; fécule de maïs ; crème fleurette entière ; chocolat noir ; coulis de framboises ; poudre de beurre de cacao</p>

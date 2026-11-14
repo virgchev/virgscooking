@@ -2,6 +2,7 @@
 titre: "Sorbet poivron"
 categories: ["Entrée"]
 date: 2016-08-18
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> poivrons rouges ; jus de citron vert ; sauce soja ; eau ; sucre en poudre</p>

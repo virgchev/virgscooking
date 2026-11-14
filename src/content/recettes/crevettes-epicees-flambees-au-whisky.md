@@ -2,6 +2,7 @@
 titre: "Crevettes Épicées Flambées au Whisky"
 categories: ["Entrée"]
 date: 2014-08-23
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> crevettes décortiquées ; huile ; curcuma ; piment doux ; gingembre ; paprika ; curry ; petit verre de whisky</p>

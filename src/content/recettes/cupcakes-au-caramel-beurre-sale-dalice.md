@@ -2,6 +2,7 @@
 titre: "Cupcakes au Caramel Beurre Salé d'Alice"
 categories: ["Dessert", "Goûter"]
 date: 2014-11-09
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> sucre ; beurre salé ; beurre doux ; crème fleurette entière ; œufs ; beurre mou ; lait ; farine complète ; sucre blanc ou cassonade ; levure chimique ; sel</p>

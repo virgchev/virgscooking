@@ -2,6 +2,7 @@
 titre: "Gaufres Au Pesto, Saumon et Chantilly Citronnée"
 categories: ["Plat"]
 date: 2015-01-01
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> farine ; pesto ; lait ; œufs ; crème fleurette ou liquide entière ; zeste d'un 1/2 citron ; sel ; oeuf de saumon</p>

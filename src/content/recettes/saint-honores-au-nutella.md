@@ -2,6 +2,7 @@
 titre: "Saint Honorés Au Nutella"
 categories: ["Dessert"]
 date: 2017-03-25
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> pâtes à tartiner ; mascarpone ; farine ; œufs</p>

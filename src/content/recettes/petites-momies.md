@@ -2,6 +2,7 @@
 titre: "Petites Momies"
 categories: ["Apéritif", "Halloween"]
 date: 2014-11-22
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> saucisses de strasbourg ou knackis ; pâte brisée ; jaune d'œuf ; peu de tapenade</p>

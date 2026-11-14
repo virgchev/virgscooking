@@ -2,6 +2,7 @@
 titre: "Tartelettes aux Ravioles"
 categories: ["Apéritif"]
 date: 2014-08-24
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> pâte brisée ; plaques de ravioles ; crème fleurette ; comté ou gruyère râpé</p>

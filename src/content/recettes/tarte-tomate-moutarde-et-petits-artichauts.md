@@ -2,6 +2,7 @@
 titre: "Tarte à la Tomate, Moutarde et Petits Artichauts"
 categories: ["Plat"]
 date: 2014-12-10
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> tomates ; petits artichauts natures ; moutarde ; comté râpé ; pâte feuilletée</p>

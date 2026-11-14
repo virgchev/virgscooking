@@ -2,6 +2,7 @@
 titre: "Mini-Madeleines au Chorizo et Comté"
 categories: ["Apéritif"]
 date: 2014-06-03
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> oeufs ; farine ; comté rapé ; beurre salé ; levure chimique ; chorizo plus ou moins fort selon votre goût</p>

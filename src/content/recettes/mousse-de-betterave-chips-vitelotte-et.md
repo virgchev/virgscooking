@@ -2,6 +2,7 @@
 titre: "Mousse de Betterave, Chips Vitelotte et Copeaux de Parmesan"
 categories: ["Entrée"]
 date: 2014-06-02
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> betteraves cuites ; fromage blanc ; vinaigre balsamique ; chips Vitelotte ; copeaux de Parmesan ; crème fraîche épaisse ; graines de pavot pour la décoration</p>

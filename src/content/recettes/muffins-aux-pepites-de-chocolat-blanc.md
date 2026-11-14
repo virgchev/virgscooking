@@ -2,6 +2,7 @@
 titre: "Muffins aux Pépites de Chocolat Blanc et Cranberries"
 categories: ["Dessert"]
 date: 2014-11-01
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> farine ; sel ; levure chimique ; cassonade ; œufs ; beurre ; lait ; chocolat blanc ; cranberries séchées</p>

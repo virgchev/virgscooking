@@ -2,6 +2,7 @@
 titre: "Tiramisu Chocolat Blanc aux Noisettes Caramelisées"
 categories: ["Dessert"]
 date: 2014-08-21
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> chocolat blanc ; lait ; oeufs ; mascarpone ; biscuits cuillères selon les contenants utilisés pour le service ; noisettes décortiquées ; sucre en poudre pour les noisettes + 20 g de sucre pour le sirop ; eau ; rhum brun ; cacao noir en poudre</p>

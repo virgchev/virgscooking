@@ -6,6 +6,7 @@ const recettes = defineCollection({
   schema: z.object({
     titre: z.string(),
     categories: z.array(z.string()).default(['Divers']),
+    difficulte: z.number().min(1).max(4).optional(),
     minutes: z.number().optional(),
     portions: z.number().default(4),
     date: z.coerce.date(),

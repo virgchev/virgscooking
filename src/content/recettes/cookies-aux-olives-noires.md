@@ -2,6 +2,7 @@
 titre: "Cookies aux Olives Noires"
 categories: ["Apéritif"]
 date: 2014-11-25
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> beurre pommade ; sucre ; œuf ; farine ; rase de levure chimique ; sel ; olives noires dénoyautées ; huile d’olive ; tapenade</p>

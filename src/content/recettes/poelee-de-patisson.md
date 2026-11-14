@@ -2,6 +2,7 @@
 titre: "Poêlée de Pâtisson, Lardons et Petits Champignons"
 categories: ["Plat"]
 date: 2016-10-02
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> pâtisson ; lardons ; champignons de Paris en boîte ; romarin ; ail ; poivre ; huile d'olive</p>

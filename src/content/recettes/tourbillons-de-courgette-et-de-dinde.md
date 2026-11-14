@@ -2,6 +2,7 @@
 titre: "Tourbillons de Courgettes et de Dinde"
 categories: ["Plat"]
 date: 2014-06-24
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> courgettes ; dinde fumée ; œufs ; crème fleurette ; maïzena ; tomates cerises ; sel</p>

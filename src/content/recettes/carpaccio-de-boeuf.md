@@ -2,6 +2,7 @@
 titre: "Carpaccio de Boeuf à l'Huile de Noix et Vinaigre Balsamique"
 categories: ["Entrée","Plat"]
 date: 2014-08-22
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> viande de bœuf coupée en tranches fines ; mesclun ou Roquette pour accompagner ; parmesan ; huile de Noix ; vinaigre Balsamique ; sel ; poivre ; ciboulette</p>

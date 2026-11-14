@@ -2,6 +2,7 @@
 titre: "Salade Lyonnaise Légèrement Revisitée"
 categories: ["Entrée", "Plat"]
 date: 2014-06-13
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> salade verte ; copeaux de parmesan ou vous les faites vous même avec un économe/épluche-légume ; petites pommes de terre ; lardons ou allumettes ; huile  pour ma part c'est huile d'olive ou huile d'amande ; vinaigre</p>

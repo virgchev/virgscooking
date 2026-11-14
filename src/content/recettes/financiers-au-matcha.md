@@ -2,6 +2,7 @@
 titre: "Petits Financiers au Thé Vert"
 categories: ["Dessert", "Goûter"]
 date: 2014-07-13
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> beurre salé ; sucre ; poudre d'amande ; œufs ; farine ; thé vert Matcha ; framboises pour la déco</p>

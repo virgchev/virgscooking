@@ -2,6 +2,7 @@
 titre: "Tarte Roquette, Chèvre et Tomates"
 categories: ["Plat"]
 date: 2014-05-31
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> pâte brisée ; roquette préalablement lavée si elle vient de votre jardin 😉 ; œufs ; crème fleurette à 12% ; fromage de chèvre frais ; tomates ou plus selon votre goût ; sel</p>

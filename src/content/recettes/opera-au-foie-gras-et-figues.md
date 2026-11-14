@@ -2,6 +2,7 @@
 titre: "Opéra au Foie Gras et Figues"
 categories: ["Entrée"]
 date: 2014-12-20
+difficulte: 4
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> bloc de foie gras ; crème fleurette à 30% MG ; figues fraîches ou décongelées ; poudre d'amande ; sucre glace ; farine ; généreuse de mélange à pain d'épices ; fécule de Maïs ; œufs ; blancs d’œufs ; sucre en poudre ; sel fin ; beurre ; figues fraîche ; confit de figue</p>

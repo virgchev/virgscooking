@@ -2,6 +2,7 @@
 titre: "Petits Pains Aux Graines"
 categories: ["Pain"]
 date: 2014-12-28
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> farine à pain ; levure boulangère ; sel ; huile ; eau tiède ; graines de pavot</p>

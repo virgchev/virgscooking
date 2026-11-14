@@ -55,3 +55,6 @@ article img {
 
 .index-ingredients { font-style: italic; margin: 0 0 1.5rem; padding-bottom: 1rem; border-bottom: 2px dotted rgba(127,127,127,.5); }
 .index-ingredients strong { font-style: normal; font-family: var(--titre); color: var(--betterave); }
+.difficulte { display: inline-flex; align-items: center; gap: .4rem; font: italic .95rem var(--texte); white-space: nowrap; vertical-align: middle; }
+.difficulte svg { height: 3rem; width: auto; overflow: visible; }
+.carte small { display: flex; align-items: center; flex-wrap: wrap; gap: .3rem 1rem; }

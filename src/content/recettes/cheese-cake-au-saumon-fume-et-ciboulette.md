@@ -2,6 +2,7 @@
 titre: "Cheese-Cake au Saumon Fumé et Ciboulette"
 categories: ["Apéritif"]
 date: 2014-11-07
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> crackers ; fromage frais ; beurre ; fromage blanc ; œufs ; jus de citron ; saumon fumé ; poivre ; botte de ciboulette</p>

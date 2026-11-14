@@ -2,6 +2,7 @@
 titre: "Gaufres à la Fleur d'Oranger"
 categories: ["Dessert", "Goûter"]
 date: 2015-01-31
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> farine ; beurre ; sucre ; oeufs ; eau de fleur d'oranger ou plus selon votre goût ; sel</p>

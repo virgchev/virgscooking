@@ -2,6 +2,7 @@
 titre: "Rôti de Magret de Canard Aux Oignons Confits"
 categories: ["Plat"]
 date: 2015-01-18
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> magrets de canard ; oignons ; noix de beurre ; huile d'olive ; vinaigre balsamique ; sauce soja ; vinaigre de vin rouge vieilli en fût ; miel ; sel ; poivre</p>

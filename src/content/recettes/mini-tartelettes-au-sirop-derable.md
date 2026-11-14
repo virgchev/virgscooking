@@ -2,6 +2,7 @@
 titre: "Mini-Tartelettes au Sirop d'Erable"
 categories: ["Dessert"]
 date: 2014-09-23
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> rouleau de pâte brisée ; sirop d'érable ; jaunes d’œufs ; fécule de maïs ; sucre vergeoise ou sucre muscovado ; crème fleurette entière ; sel</p>

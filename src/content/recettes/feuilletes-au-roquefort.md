@@ -2,6 +2,7 @@
 titre: "Feuilletés Au Roquefort"
 categories: ["Apéritif"]
 date: 2016-01-30
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> roquefort ; crème entière semi-épaisse ; poivre ; rouleau de Pâte Feuilletée ; œuf</p>

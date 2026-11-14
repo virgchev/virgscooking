@@ -2,6 +2,7 @@
 titre: "Bouchées coco"
 categories: ["Dessert","Goûter"]
 date: 2014-06-07
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> noix de coco râpée ; blancs d'oeufs ; sucre</p>

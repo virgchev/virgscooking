@@ -2,6 +2,7 @@
 titre: "Doigts de Sorcières Ensanglantés"
 categories: ["Dessert", "Halloween"]
 date: 2014-11-02
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> farine ; sucre roux ; beurre mou ; lait ; sucre vanillé ; amandes ; sirop de grenadine ; peu de colorant rouge</p>

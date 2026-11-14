@@ -2,6 +2,7 @@
 titre: "Crumble Rhubarbe et Framboises"
 categories: ["Dessert"]
 date: 2016-01-27
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> rhubarbe en tronçons ; framboises ; cassonade ; farine ; poudre d'amande ; beurre</p>

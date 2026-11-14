@@ -2,6 +2,7 @@
 titre: "Quiche Minute Poireaux et Saumon Fumé"
 categories: ["Plat"]
 date: 2014-06-04
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> poireaux congelés environ : c'est tout ce qui me restait 😊 ; petit peu de vin blanc ; peu de beurre doux pour la poêle ; œufs ; crème fleurette 12% ; poivre ; peu de comté râpé ; saumon fumé ; pâte feuilletée</p>

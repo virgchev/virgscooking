@@ -1,0 +1,49 @@
+# Une ligne par recette :  nom-du-fichier ; niveau
+# Niveaux :  1 = Facile (cuillère propre)   2 = Moyen (quelques taches)   3 = Costaud (cuillère très sale)
+#             4 = Chef étoilé (cuillère très sale avec une étoile)
+# Les niveaux ci-dessous sont des suppositions d'après les titres : corrige-les.
+# Ensuite lance :  python outils/appliquer_difficultes.py --ecrire
+bouchees-coco ; 1
+carpaccio-de-boeuf ; 1
+cheese-cake-au-saumon-fume-et-ciboulette ; 1
+coeur-framboisier ; 3
+cookies-aux-olives-noires ; 1
+creme-brulee-au-foie-gras-et-poivre-vert ; 2
+crevettes-epicees-flambees-au-whisky ; 2
+crumble-rhubarbe-et-framboises ; 1
+cupcakes-au-caramel-beurre-sale-dalice ; 2
+delices-dartichauts ; 2
+doigts-de-sorcieres-ensanglantes ; 2
+farfalles-au-ble-complet-aux-epinards-et-viande-des-grisons ; 1
+feuilletes-au-roquefort ; 1
+financiers-au-matcha ; 1
+fondants-au-chocolat-creme-de-marrons ; 1
+gaufres-au-pesto-saumon-et-chantilly ; 2
+gaufres-la-fleur-doranger ; 1
+le-cannelier ; 3
+mille-feuilles-au-chocolat-et-la-framboise ; 4
+mini-madeleines-au-chorizo-et-comte ; 2
+mini-tartelettes-au-sirop-derable ; 2
+moelleux-chataigne-coeur-michoko ; 2
+mousse-de-betterave-chips-vitelotte-et ; 2
+muffins-aux-pepites-de-chocolat-blanc ; 1
+oeufs-benedicte-et-fines-tranches-de ; 3
+opera-au-foie-gras-et-figues ; 4
+pancakes-au-sirop-derable ; 1
+petites-momies ; 1
+petits-pains-aux-graines ; 2
+poelee-de-patisson ; 1
+pot-au-feu-de-saumon ; 2
+quiche-minute-poireaux-et-saumon-fume ; 1
+roti-de-magret-de-canard-aux-oignons-confits ; 2
+saint-honores-au-nutella ; 2
+salade-lyonnaise-legerement-revisitee ; 1
+sorbet-poivron ; 2
+tarte-butternut-chevre-et-poitrine-fumee ; 2
+tarte-roquette-chevre-et-tomates ; 2
+tarte-tomate-moutarde-et-petits-artichauts ; 2
+tartelettes-au-citron ; 2
+tartelettes-aux-ravioles ; 2
+tian-aux-legumes-du-soleil-et-chevre ; 2
+tiramisu-chocolat-blanc-aux-noisettes-caramelisees ; 2
+tourbillons-de-courgette-et-de-dinde ; 2

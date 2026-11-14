@@ -2,6 +2,7 @@
 titre: "Crème Brûlée au Foie Gras et Poivre Vert"
 categories: ["Entrée"]
 date: 2015-03-14
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> foie gras cuit ; crème fleurette ; jaunes d’œufs ; cuillère soupe de Cassonade ; poivre vert ; sel</p>

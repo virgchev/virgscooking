@@ -2,6 +2,7 @@
 titre: "Coeur Framboisier"
 categories: ["Dessert"]
 date: 2016-07-05
+difficulte: 3
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> génoise</p>

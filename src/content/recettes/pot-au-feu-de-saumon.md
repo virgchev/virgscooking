@@ -2,6 +2,7 @@
 titre: "Pot-au-Feu de Saumon"
 categories: ["Plat"]
 date: 2014-12-22
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> rouleaux de pâtes feuilletée ; œuf ; jaune œuf ; oignon ; garni ; gros sel ; grains de poivre ; grosses carottes ; petites pommes de terres à chair ferme ; navet ; poireau ; botte d'aneth ; pavé de saumon</p>

@@ -2,6 +2,7 @@
 titre: "Pancakes au Sirop d'Erable"
 categories: ["Brunch", "Dessert"]
 date: 2014-06-15
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> farine ; levure chimique ; sucre ; beurre ; lait ; œuf ; sel ; peu d'huile pour la cuisson ; sirop d'érable</p>

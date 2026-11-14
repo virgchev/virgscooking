@@ -2,6 +2,7 @@
 titre: "Tarte Butternut, Chèvre et Poitrine Fumée Façon Coralie"
 categories: ["Plat"]
 date: 2016-01-24
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> rouleau de pâte feuilletée ; petite courge butternut ; poitrine fumée coupée finement ; chèvre frais ; romarin</p>

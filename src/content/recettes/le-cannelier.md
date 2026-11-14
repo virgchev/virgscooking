@@ -2,6 +2,7 @@
 titre: "Le Cannelier"
 categories: ["Dessert"]
 date: 2018-02-27
+difficulte: 3
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> beurre ; œufs ; jaunes d’œufs ; sucre ; poudre d'amandes ; sel ; fécule de maïs ; spéculoos ; pommes golden ; eau ; miel d'acacia ; agar-agar ; gélatine ; lait ; bâton de cannelle ; cannelle en poudre ; creme fleurette entière à 30% ; chocolat au lait</p>

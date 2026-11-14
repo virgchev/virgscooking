@@ -2,6 +2,7 @@
 titre: "Fondants au Chocolat à la Crème de Marrons"
 categories: ["Dessert", "Goûter"]
 date: 2015-06-19
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> œufs ; chocolat noir ; beurre ; crème de marrons ; rase de farine</p>

@@ -2,6 +2,7 @@
 titre: "Délices d'Artichauts"
 categories: ["Apéritif"]
 date: 2015-01-30
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> fonds d'artichauts surgelés ; ricotta ; basilic ciselé ; œufs ; écorces de citron vert râpées ; sel ; poivrons marinés pour la décoration ou des tomates confites</p>

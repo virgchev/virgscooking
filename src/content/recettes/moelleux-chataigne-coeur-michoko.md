@@ -2,6 +2,7 @@
 titre: "Moelleux à la Châtaigne au Coeur de Michoko"
 categories: ["Dessert"]
 date: 2016-01-25
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> farine ; beurre ; sucre ; œufs ; lait ; crème fleurette entière ; levure chimique ; michokos au chocolat noir</p>

@@ -2,6 +2,7 @@
 titre: "Tian aux Légumes du Soleil et Chèvre façon Elodie"
 categories: ["Plat"]
 date: 2015-06-16
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> aubergine ; petite courgette ; tomates ; parmesan râpé ; chèvre frais ; ail ; gros oignon ; huile d'olive ; sel ; poivre</p>

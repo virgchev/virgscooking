@@ -2,6 +2,7 @@
 titre: "Farfalles au Blé Complet aux Épinards et Viande des Grisons"
 categories: ["Plat"]
 date: 2014-09-22
+difficulte: 1
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> pâtes au blé complet ; viande des Grisons ( viande séchée de bœuf ; copeaux de parmesan ou parmesan râpé ; peu de crème fraîche ) ; feuilles d’épinard fraîches ou surgelées ; pignons de pin ; peu d'ail ; huile d'olive</p>

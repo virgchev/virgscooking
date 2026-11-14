@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import Difficulte from '../../components/Difficulte.astro';
 
 export async function getStaticPaths() {
   const recettes = await getCollection('recettes');
@@ -13,6 +14,7 @@ const d = r.data;
 <Base titre={`${d.titre} – Virg's Cooking`}>
   <article>
     <h1>{d.titre}</h1>
+    {d.difficulte && <p class="meta"><Difficulte niveau={d.difficulte} /></p>}
     <p class="meta">{d.categories.join(' · ')}{d.minutes ? `, ${d.minutes} min` : ''}</p>
 
     {d.ingredients.length > 0 && (

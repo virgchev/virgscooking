@@ -2,6 +2,7 @@
 titre: "Tartelettes au citron"
 categories: ["Dessert"]
 date: 2014-09-21
+difficulte: 2
 ---
 
 <p class="index-ingredients"><strong>Ingrédients :</strong> pâte brisée ; citrons non traités ; fécule de maïs ; sucre ; beurre ; œufs</p>
