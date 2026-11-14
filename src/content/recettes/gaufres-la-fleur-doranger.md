@@ -10,7 +10,7 @@ date: 2015-01-31
 
   
 
-Avec la neige dehors, on a envie de rester au chaud avec des petits douceurs et du chocolat chaud. C'est ce que j'ai fait ;-). C'est bientôt la chandeleur mais quand on n'a pas envie de crêpes, on peut faire des gaufres :). Du coup, voici ma recette de gaufres d'enfance toute légère, que j'ai recouvertes de caramel au beurre salé et accompagné d'une tasse de chocolat Oreo : un délice. Voici une jolie idée pour le petit déjeuner demain ;-).
+Avec la neige dehors, on a envie de rester au chaud avec des petits douceurs et du chocolat chaud. C'est ce que j'ai fait 😉. C'est bientôt la chandeleur mais quand on n'a pas envie de crêpes, on peut faire des gaufres 😊. Du coup, voici ma recette de gaufres d'enfance toute légère, que j'ai recouvertes de caramel au beurre salé et accompagné d'une tasse de chocolat Oreo : un délice. Voici une jolie idée pour le petit déjeuner demain 😉.
 
   
   
@@ -45,4 +45,4 @@ Avec la neige dehors, on a envie de rester au chaud avec des petits douceurs et 
    [![](/images/9852bec1a1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmvzLErGyfemypxCCZGvnkRFqpP12w0psRkCBoedwUrqj9ZTiXGZgIfKQbvFXrJR196_AofX26ikZ2cZYebn94qmlYWSVc3qB58VFZrKzsR9URn2D9lA_YJZHGvZgIhmBho29ozXQrv4c/s1600/20150131_205526.jpg)
   
 
-Miam Miam!!! :)
+Miam Miam!!! 😊

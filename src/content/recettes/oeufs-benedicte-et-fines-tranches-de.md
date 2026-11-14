@@ -10,7 +10,7 @@ date: 2014-06-01
 
   
 
-Levé(e) tard en ce dimanche ??? Rien de tel qu'un petit brunch avec des œufs Bénédicte...je les ai découvert lors d'un voyage à Edinburgh. Personnellement, c'est mon plat préféré concernant les œufs :). Ici pas de grande cuisine, juste un petit peu de préparation.
+Levé(e) tard en ce dimanche ??? Rien de tel qu'un petit brunch avec des œufs Bénédicte...je les ai découvert lors d'un voyage à Edinburgh. Personnellement, c'est mon plat préféré concernant les œufs 😊. Ici pas de grande cuisine, juste un petit peu de préparation.
 
 **Ingrédients pour 2 œufs** :
 

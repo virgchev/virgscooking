@@ -10,7 +10,7 @@ date: 2014-06-07
 
   
   
-Il vous reste des blancs d'oeufs dont vous ne savez que faire. Voici une recette simple et rapide pour peu que vous aimiez la noix de coco bien sûr ;-).  
+Il vous reste des blancs d'oeufs dont vous ne savez que faire. Voici une recette simple et rapide pour peu que vous aimiez la noix de coco bien sûr 😉.  
   
   
 Ingrédients:  
@@ -26,7 +26,7 @@ Ingrédients:
 4. Faite cuire 15 min à 170°C dans un four préalablement préchauffé.
 5. A la sortie du four, laissez refroidir 10 min pour que les bouchées se démoulent bien.
 
-Bon goûter!!! :-)
+Bon goûter!!! 😊
 
   
   

@@ -10,7 +10,7 @@ date: 2014-12-10
 
   
 
-Voici une recette à réaliser en 10 minutes. Je l'ai faite lundi car j'avais oublié de me préparer à manger. Du coup, pendant que la tarte cuisait, j'ai pu finir de travailler en attendant de manger (quand vous avez la chance de travailler de chez vous un jour par semaine bien évidemment ;-)). J'ai utilisé les légumes que j'avais dans le congélateur d'une célèbre marque de surgelés ;-). J'avais quand même laisser décongeler toute la nuit mais j'avais complètement zappé qu'il fallait que je la prépare pendant ma pause du matin. J'espère que cette recette vous plaira...rien de compliqué :).
+Voici une recette à réaliser en 10 minutes. Je l'ai faite lundi car j'avais oublié de me préparer à manger. Du coup, pendant que la tarte cuisait, j'ai pu finir de travailler en attendant de manger (quand vous avez la chance de travailler de chez vous un jour par semaine bien évidemment 😉. J'ai utilisé les légumes que j'avais dans le congélateur d'une célèbre marque de surgelés 😉. J'avais quand même laisser décongeler toute la nuit mais j'avais complètement zappé qu'il fallait que je la prépare pendant ma pause du matin. J'espère que cette recette vous plaira...rien de compliqué 😊.
 
   
 
@@ -25,7 +25,7 @@ Voici une recette à réaliser en 10 minutes. Je l'ai faite lundi car j'avais ou
   
 
 1. Préchauffez le four à 180°C.
-2. Déroulez la pâte de feuilletée et étalez un peu de moutarde au fond, pas trop surtout si le pot de moutarde est très récent, cela risque de piquer un peu :).
+2. Déroulez la pâte de feuilletée et étalez un peu de moutarde au fond, pas trop surtout si le pot de moutarde est très récent, cela risque de piquer un peu 😊.
 3. Déposez des rondelles de tomates en alternance avec des petits artichauts dessus.
 4. Recouvrez de comté râpé et mettez au four 30 min.
 
@@ -34,4 +34,4 @@ Voici une recette à réaliser en 10 minutes. Je l'ai faite lundi car j'avais ou
   
   
 
-Bon appetit :-)
+Bon appetit 😊

@@ -22,19 +22,19 @@ Un jour, une amie Lyonnaise m'a fait découvrir la "salade lyonnaise" et comment
 
 - 100 g de lardons ou allumettes
 
-- huile (celle que vous aimez :) pour ma part c'est huile d'olive ou huile d'amande
+- huile (celle que vous aimez 😊 pour ma part c'est huile d'olive ou huile d'amande
 
 - vinaigre (celui que vous préférez, perso j'adore le balsamique)
 
 - 1 (ou 2 œufs pour les gourmands)
 
 1. Coupez les pommes de terre en petits cubes. Faites-les revenir dans une poêle avec un peu d'huile et de beurre. En principe cela prend 20-25 min en remuant très régulièrement.
-2. Faites revenir les lardons/allumettes dans une poêle ou mieux vous les ajouter à vos pommes de terres à mi-cuisson et dans ces cas-là pas besoin de mettre trop de matières grasses ;-).
+2. Faites revenir les lardons/allumettes dans une poêle ou mieux vous les ajouter à vos pommes de terres à mi-cuisson et dans ces cas-là pas besoin de mettre trop de matières grasses 😉.
 3. Faite bouillir de l'eau pour pocher l’œuf. Ajouter un peu de vinaigre blanc quand l'eau bout puis couper le feu avant de casser l’œuf dans l'eau. Ramenez bien le blanc sur le jaune avec l'écumoire. Il faudra compter 5-6 minutes de cuisson.
 4. Pour le dressage, mettez vos feuilles de salade sur une assiette, puis mettez vos pommes de terres sautées, lardons et disposez l’œuf poché sur le dessus. Parsemez de copeaux de parmesan. Ajoutez un filet d'huile et de vinaigre pour l’assaisonnement.
 
   
 
-Et voilà c'est prêt :)
+Et voilà c'est prêt 😊
 
 Le plus dur dans cette recette c'est de bien synchroniser les différentes étapes pour que tout soit chaud en même temps au moment de servir.

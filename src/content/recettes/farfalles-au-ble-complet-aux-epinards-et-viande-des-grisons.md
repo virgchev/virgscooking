@@ -10,7 +10,7 @@ date: 2014-09-22
 
   
 
-En panne d'idée pour un petit repas du soir ou le déjeuner ??? voici une idée que j'ai eu avec ce qu'il me restait dans mes placards, frigo et congélo :-). Personnellement, j'adore manger des choses colorées et bien présentées, cela ouvre toujours l'appétit même si dans ce cas c'est juste un plat de pâtes :-). Voici une idée qui égaillera je l'espère votre soirée. Vous pouvez imaginez toutes les variantes possibles en fonction de vos restes ;-).
+En panne d'idée pour un petit repas du soir ou le déjeuner ??? voici une idée que j'ai eu avec ce qu'il me restait dans mes placards, frigo et congélo 😊. Personnellement, j'adore manger des choses colorées et bien présentées, cela ouvre toujours l'appétit même si dans ce cas c'est juste un plat de pâtes 😊. Voici une idée qui égaillera je l'espère votre soirée. Vous pouvez imaginez toutes les variantes possibles en fonction de vos restes 😉.
 
   
 
@@ -24,7 +24,7 @@ En panne d'idée pour un petit repas du soir ou le déjeuner ??? voici une idée
 
 - des copeaux de parmesan ou parmesan râpé
 
-- un peu de crème fraîche (ou mascarpone comme dans mon cas :-))
+- un peu de crème fraîche (ou mascarpone comme dans mon cas 😊
 
 - des feuilles d’épinard fraîches ou surgelées
 
@@ -46,4 +46,4 @@ En panne d'idée pour un petit repas du soir ou le déjeuner ??? voici une idée
   
   
 
-Bon appétit :-)
+Bon appétit 😊

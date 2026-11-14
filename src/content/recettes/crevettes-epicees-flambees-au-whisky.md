@@ -8,7 +8,7 @@ date: 2014-08-23
 
 [![](/images/00b79862e0.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVoF09VPpKJsuEO_X2W0-QA6l3LaKgyYSAGxKMvf_7lbtY07LU2YekSLnbNh7WIbaAFCLN157uRl3AHsP6NX8pDdpwxEaaOq014zBggChCX4IZ1GPjKaV3JXxIyi91tsW03V6-fSLFbpE/s1600/20140823_164137.jpg)
 
-Vous voulez changer des apéros classiques. Voici une petite recette vite prête pour l'apéritif de ce soir. A part les crevettes, ce sont des ingrédients que vous devez certainement avoir dans vos placards :). Faites attention quand vous les ferez flamber ;-).
+Vous voulez changer des apéros classiques. Voici une petite recette vite prête pour l'apéritif de ce soir. A part les crevettes, ce sont des ingrédients que vous devez certainement avoir dans vos placards 😊. Faites attention quand vous les ferez flamber 😉.
 
 ****Ingrédients :****
 
@@ -42,8 +42,8 @@ Vous voulez changer des apéros classiques. Voici une petite recette vite prête
 >
 > Versez ensuite le petit verre de whisky (style shooter) sur les crevettes. Ne versez jamais directement le whisky avec la bouteille dans la poêle. c'est très dangereux. Vous risqueriez de mettre le feu à votre cuisine.
 >
-> Puis, tout de suite après, approchez une allumette de la poêle. Attention au souffle qui va se produire. Retirer vite l'allumette et vos doigts :). prenez le manche de la poêle et faite tourner doucement pour bien flamber toutes les crevettes.
+> Puis, tout de suite après, approchez une allumette de la poêle. Attention au souffle qui va se produire. Retirer vite l'allumette et vos doigts 😊. prenez le manche de la poêle et faite tourner doucement pour bien flamber toutes les crevettes.
 >
 > [![](/images/e664c8aabf.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDufQKKknVCa0-qKDEQGTlpZp2A1X3BXY8IgqTa5LKK4zxDl8LaEVi0bUVILwrN9QXZJHhTsJyUAO3EVMm9lrlpubFM6nHEabbMaGH4HFHhYyok50e_RZ5Os4SNHIFXOax-xmfZjc-Q4/s1600/20140823_163624.jpg)
 >
-> Servez les crevettes chaudes avec des petits pics. Bon appétit :)
+> Servez les crevettes chaudes avec des petits pics. Bon appétit 😊

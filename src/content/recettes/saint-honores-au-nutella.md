@@ -4,12 +4,12 @@ categories: ["Dessert"]
 date: 2017-03-25
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> nutella ou autres pâtes à tartiner à la noisette et chocolat ; mascarpone ; farine ; œufs</p>
+<p class="index-ingredients"><strong>Ingrédients :</strong> pâtes à tartiner ; mascarpone ; farine ; œufs</p>
 
 [![](/images/3b501009ad.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqHLZdy5yubUgjjwpHUM4cXWN3FGlOsggZ5yO12y9qS5lDRSqUuGK62JKr9QcD9_myz1FFH8GjsMjiaEaCprti4_f9AvXc1v9QfgslJ0ALlMBTy3JkBK9ZAUfMDhO4Nf5nAtF-wk3YyVw/s1600/20161221_215215.jpg)
 
   
-Pour les gourmands et fan de Nutella, voici une recette super facile et un pur délice. Mais attention aux calories :-)  
+Pour les gourmands et fan de Nutella, voici une recette super facile et un pur délice. Mais attention aux calories 😊  
   
   
 **Ingrédients :**  
@@ -43,8 +43,8 @@ Pour les gourmands et fan de Nutella, voici une recette super facile et un pur d
 [![](/images/eea8712f14.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsdzdfVhU_0rUflh60C-huhmo-cXZ9h5wV4HuW9HS61XNZ6bbMHdi4vaFRl2CglDuSdrDWw6CYIdEgTJtxJUqfXu4Xh5dduTFVjGEnkjyb76hefR5-DVsDdcHzooV2Km_c8ZSuG0lAzJs/s1600/20161221_205456.jpg)
 
   
-5. Garnissez, les saint honorés de crème de Nutella au mascarpone et soyez généreux ça n'en sera que plus délicieux :). Si la crème est trop dure, laissez-là quelques minutes à température ambiante pour qu'elle soit facile à pocher.
+5. Garnissez, les saint honorés de crème de Nutella au mascarpone et soyez généreux ça n'en sera que plus délicieux 😊. Si la crème est trop dure, laissez-là quelques minutes à température ambiante pour qu'elle soit facile à pocher.
 
 [![](/images/ca1163fe7d.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLaQLjMSno6hkcEqFnIoy4u2wayu7vY7nC3RdAZMDCAQK7GLA9uIgj6jQV3Hae8eelHWxVO2OBmwN2MBcraCQgBhAxQASm7qkz5H7Cub-l-c1a86TqfgmP-0WlsNza3ebCnyPyl5VgTjY/s1600/20161221_215039.jpg)
 
-Régalez-vous et attention aux moustaches de chocolat :-)
+Régalez-vous et attention aux moustaches de chocolat 😊

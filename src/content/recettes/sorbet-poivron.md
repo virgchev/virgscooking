@@ -9,7 +9,7 @@ date: 2016-08-18
 [![](/images/43134aef03.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8zhS0cu-gBISUzX2fG6aCtgHBDozEOAzkCQz0igM16Z_GlIPggbbLL7CNTrd-4bTVCtIFYQ0IZiSNQ7PfL5ahVf4IohTAhhe6CIlLshKCQ91FSJ9-XaJtIgosuVKQmqW9XQel_R1Tp3Y/s1600/20160816_131810.jpg)
 
   
-Envie de fraîcheur, voici une petite entrée facile à faire par grande chaleur. Pour ma part, cela m'a permis de sortir ma sorbetière de mes placards et faire des heureux. :-)  
+Envie de fraîcheur, voici une petite entrée facile à faire par grande chaleur. Pour ma part, cela m'a permis de sortir ma sorbetière de mes placards et faire des heureux. 😊  
   
   
 **Ingrédients :**  
@@ -26,4 +26,4 @@ Envie de fraîcheur, voici une petite entrée facile à faire par grande chaleur
 3. Épluchez les poivrons et mettez-les dans un mixeur. Puis, ajoutez la sauce soja et le citron vert. Ajoutez le sirop de sucre contenu dans la casserole et mixez le tout.
 4. Allumez la sorbetière et versez la préparation doucement. Pour ma part, j'ai choisi texture glace italienne. Du coup, au bout de 20 min, j'avais un beau sorbet rouge vif fondant et facile à attaquer à la cuillère.
 
-Bon été et bon appétit ;-)
+Bon été et bon appétit 😉

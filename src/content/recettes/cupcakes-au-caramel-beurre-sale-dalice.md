@@ -10,7 +10,7 @@ date: 2014-11-09
 
   
 
-Voici des cupcakes au goût inimitable. Si comme moi, vous êtes une fondue de caramel au beurre salé, vous allez craquer. Pour la petite histoire, je les ai fait après avoir raté mon caramel au beurre salé pour mes macarons, raté c'est vite dit mais il y avait des petits cristaux de sucre et du coup j'avais rajouté un peu de crème en espérant les faire fondre, ce qui fait que mon caramel a fini par être trop liquide pour fourrer les macarons. Le caramel était quand même très bon. Du coup, en discutant cuisine avec une collègue et amie, Alice (d'où ma petite dédicace), je me suis dit que je pourrais faire vite fait des cupcakes et utiliser le caramel pour le glaçage (ou topping pour les experts du cupcake) ;-).  J'espère qu'ils vous plairont :)
+Voici des cupcakes au goût inimitable. Si comme moi, vous êtes une fondue de caramel au beurre salé, vous allez craquer. Pour la petite histoire, je les ai fait après avoir raté mon caramel au beurre salé pour mes macarons, raté c'est vite dit mais il y avait des petits cristaux de sucre et du coup j'avais rajouté un peu de crème en espérant les faire fondre, ce qui fait que mon caramel a fini par être trop liquide pour fourrer les macarons. Le caramel était quand même très bon. Du coup, en discutant cuisine avec une collègue et amie, Alice (d'où ma petite dédicace), je me suis dit que je pourrais faire vite fait des cupcakes et utiliser le caramel pour le glaçage (ou topping pour les experts du cupcake) 😉.  J'espère qu'ils vous plairont 😊
 
 **Ingrédients pour le caramel au beurre salé :**  
 
@@ -62,7 +62,7 @@ Voici des cupcakes au goût inimitable. Si comme moi, vous êtes une fondue de c
 
    [![](/images/1035872406.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtvYQEiqZFNX5GLbIIgO980ecBRq18mJGx8kQaE7qWNB-GlehNaCKZqheXE5JRiiI3bVXg-x-DBPltKuTFD-xpfJ8ZaKDGCdfL2rHCX6lNzJdqEeLus22P0DOWfnURywBQYJdbLr2_wGg/s1600/20141023_234323.jpg)
   
-9. Pour décorer, remplissez une poche à douille et utiliser une douille en forme d'étoile. Faites plein de petits tas :-). Vous pouvez décorer comme vous le souhaitez.
+9. Pour décorer, remplissez une poche à douille et utiliser une douille en forme d'étoile. Faites plein de petits tas 😊. Vous pouvez décorer comme vous le souhaitez.
 
      
 
@@ -70,4 +70,4 @@ Voici des cupcakes au goût inimitable. Si comme moi, vous êtes une fondue de c
 
   
 
-Amusez-vous :)
+Amusez-vous 😊

@@ -9,7 +9,7 @@ date: 2016-01-25
 [![](/images/57da4fa0a6.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Xza8sQwMP84_fh1baySIX6rPYP2gEMyM74luDsCXhJ_a4jFQNiryZA79u8LJRFbl6z3-lUbWGWbh3Id12zQ6MTRMuetx5PCUMZ-jhyIe5OGZe32_AFKvz-AWEeeWGSo2Up5H0tBD33E/s1600/20150525_220050.jpg)
 
   
-Aujourd'hui quelques douceurs pour le goûter, c'est une petite recette que nous avons faite la première fois en atelier de cuisine entre copines. Nous l'avions réalisée avec des caramels un peu plus durs mais avec des Michokos c'est beaucoup plus fondant et en prime une petite pointe de chocolat pour les gourmands ;-).  
+Aujourd'hui quelques douceurs pour le goûter, c'est une petite recette que nous avons faite la première fois en atelier de cuisine entre copines. Nous l'avions réalisée avec des caramels un peu plus durs mais avec des Michokos c'est beaucoup plus fondant et en prime une petite pointe de chocolat pour les gourmands 😉.  
   
 
 **Ingrédients :**  
@@ -45,6 +45,6 @@ Aujourd'hui quelques douceurs pour le goûter, c'est une petite recette que nous
    [![](/images/dcf9de2a9d.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinSIi-0RcCLCnSf5J3-4UBtaPChysu0hSHa5XBj0Uk3HM16485MM544vK9uLtO59l-eOBzREvxUvbofMcW1hZNXo2zQW5sEwGYRJwYfmdzZ2uH1G6ouFGlPO1R9e18bF2ledL-il2rh6A/s1600/20150525_200603.jpg)
   
 
-Régalez-vous :-)
+Régalez-vous 😊
 
 Recette inspirée du livre chevalet "Petits et Grands Muffins" - Demarle

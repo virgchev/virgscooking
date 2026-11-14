@@ -10,7 +10,7 @@ date: 2014-12-28
 
   
 
-Plus de pain à la maison un soir, mais du bon fromage que faire ? Faire ses petits pains soi-même et en plus ils seront tout chauds :). Vous trouverez différentes recettes sur les paquets de farine à pain pour préparer votre propre pain, je partage avec vous celle-ci que je trouve la meilleure. J'ai déjà testé la machine à pain mais je préfère pétrir ma pâte au robot (vous pouvez le faire à la main aussi ;-)) et ensuite façonner mes petits pains comme je le souhaite. L'avantage des petits pains est qu'ils cuisent plus vite. L'odeur du pain chaud emplira aussi la maison, un vrai bonheur :).
+Plus de pain à la maison un soir, mais du bon fromage que faire ? Faire ses petits pains soi-même et en plus ils seront tout chauds 😊. Vous trouverez différentes recettes sur les paquets de farine à pain pour préparer votre propre pain, je partage avec vous celle-ci que je trouve la meilleure. J'ai déjà testé la machine à pain mais je préfère pétrir ma pâte au robot (vous pouvez le faire à la main aussi 😉 et ensuite façonner mes petits pains comme je le souhaite. L'avantage des petits pains est qu'ils cuisent plus vite. L'odeur du pain chaud emplira aussi la maison, un vrai bonheur 😊.
 
   
 
@@ -34,7 +34,7 @@ Plus de pain à la maison un soir, mais du bon fromage que faire ? Faire ses pet
    [![](/images/5217e46952.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYvivqY-lETqUfvmNUZjJVnwmi1TpF3VNAOhWhXpe3ijJKOMSHRUnHCKFpkiiITqGy70nnluhm6_PUHDRrrbywmHnBX5FuUoWLYjmMrRxQs5hHfMb_JmK0jqeitAhHdWA1VCKx3BtI3dI/s1600/20141227_202551.jpg)
   
 4. Faites préchauffer votre four à 240°C, 15 min avant la fin du repos.
-5. Après le repos de la pâte, incisez avec une pointe de couteau vos petits pains pour faire un petit quadrillage. Passez un peu d'eau au pinceau sur chaque petit pain et ajoutez les graines de pavot, de li ou sésame selon votre envie :).
+5. Après le repos de la pâte, incisez avec une pointe de couteau vos petits pains pour faire un petit quadrillage. Passez un peu d'eau au pinceau sur chaque petit pain et ajoutez les graines de pavot, de li ou sésame selon votre envie 😊.
 
      
 
@@ -46,4 +46,4 @@ Plus de pain à la maison un soir, mais du bon fromage que faire ? Faire ses pet
 
    [![](/images/e774c8b98f.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW6pGJLasFFqKSXHdk-zXQ8_rP9a00bytqr80qTf-3WkelhLUXuX3PP8d3m_tVGFK3ChTqQ0v3LRbmIqtcgKy91ZJprrBOm1U6elbaBBerq3Kt54eoivdhm29BMp_LWXL_1PqPdQ4c1gQ/s1600/20141227_213519.jpg)
 
-Et voilà des petits pains chaud maison :)
+Et voilà des petits pains chaud maison 😊

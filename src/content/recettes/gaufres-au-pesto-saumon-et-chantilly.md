@@ -10,7 +10,7 @@ date: 2015-01-01
 
   
 
-Voici ma petite recette sur le pouce de réveillon du Jour de l'An. Pourquoi ne pas la faire pour un petit brunch aussi ? ;-). Très rapide à faire et c'est très bon.
+Voici ma petite recette sur le pouce de réveillon du Jour de l'An. Pourquoi ne pas la faire pour un petit brunch aussi ? 😉. Très rapide à faire et c'est très bon.
 
   
 **Ingrédients :**  
@@ -43,4 +43,4 @@ Voici ma petite recette sur le pouce de réveillon du Jour de l'An. Pourquoi ne 
 
    [![](/images/fedbe3460b.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaG50BfQJEouQrK5VIcvFVk-RLHEFQyDgd1qz3XsxKTHR4e5yYdUqv9trOJHktABM0-AhNpO4NQflsK6HGLSdKbDnRH2XBIQC7BWK0hA5baTPeZoa36As1iX7ygwkFQCVFT0mAGHyMtPk/s1600/20141231_231233.jpg)[![](/images/2a77f41efd.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghWDPGfCa0XawEw-bJkVRi-PcWggWcIB4bgjQRsWnM2k5bj26uUJLXdPwzwnAONmiMr4At-wrSoNesZosDGsxRWjbP0Kgob-tiDoheeX9ErHGAn6zTLLVU4tVDtVaf20OiClxqbSLnw-I/s1600/20141231_231327.jpg)
 
-Bon appétit :)
+Bon appétit 😊

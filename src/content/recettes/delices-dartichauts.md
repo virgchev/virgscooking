@@ -10,7 +10,7 @@ date: 2015-01-30
 
   
 
-Voici une entrée originale toute fraîche et haute en couleurs. J'ai fait cette recette deux fois : en petites bouchées pour un apéritif dînatoire ou en véritable entrée servie avec une salade comme présenté ici. Il faut bien sûr aimer les artichauts ;-). Je les ai décoré avec des poivrons marinés dans l'huile d'olive, thym et ail que j'avais préparé quelques jours auparavant :) mais vous pouvez décorez selon vos envies. Bon appétit!
+Voici une entrée originale toute fraîche et haute en couleurs. J'ai fait cette recette deux fois : en petites bouchées pour un apéritif dînatoire ou en véritable entrée servie avec une salade comme présenté ici. Il faut bien sûr aimer les artichauts 😉. Je les ai décoré avec des poivrons marinés dans l'huile d'olive, thym et ail que j'avais préparé quelques jours auparavant 😊 mais vous pouvez décorez selon vos envies. Bon appétit!
 
 **Ingrédients**  
 - 120 g de fonds d'artichauts surgelés  
@@ -45,7 +45,7 @@ Voici une entrée originale toute fraîche et haute en couleurs. J'ai fait cette
 
    [![](/images/4795248cca.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_rP1ulFW0TxZYWydF0wMVQ9PAGuDo5IRcMIxzkWmwiX9Mfq0BXEoT9zF0zmmF4NJ-Lg2LqZhNqh0Jeb-rAf3Ct5UBbKI4XuyiYVXosaE7wQo0hGcUDna_IG_lJidz-ZhtOKUmLNsmdS8/s1600/20141017_184802.jpg)
 
-Régalez-vous!!! :)
+Régalez-vous!!! 😊
 
   
   

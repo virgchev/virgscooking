@@ -9,7 +9,7 @@ date: 2015-06-19
 [![](/images/354eca1ea3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQPGSLwWYm-SC4Q-jarSQAx0fuOmAhPrlHBhPjwRyMuFnHb0xP7rwyl_nLDJDRQJpzVel7IniWDNAzjlFstGSv9bMNp_yUpYEa4RWRySP_HKSlVHJxKsPwLoOUGMFIcreae_vAqgptXAI/s1600/20150525_220114.jpg)
 
   
-Pour le goûter, ça vous dit des fondants au chocolat à la crème de marrons. C'est pas très diététique mais très bon pour les amateurs de chocolat ;-).   
+Pour le goûter, ça vous dit des fondants au chocolat à la crème de marrons. C'est pas très diététique mais très bon pour les amateurs de chocolat 😉.   
   
   
 
@@ -39,7 +39,7 @@ Pour le goûter, ça vous dit des fondants au chocolat à la crème de marrons. 
 4. Versez la préparation dans les empreintes/moules.
 
    [![](/images/c01bab4388.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioQH1x2PXFe2mUg0NTkI_mea__-GVSwsfD-jKyxG0MTrYIe-ldg3Ve9n-p0EmxJsoU0RZpzsYcvnfK9DFniWzUiDAzk7ybTX0ITzw7m_8fuvRd4PK3EUkSbvUSorPfO2g-wNtdWNTTETc/s1600/20150525_201234.jpg)
-5. Mettez au four 30 minutes à 180°C. Démoulez et voilà c'est prêt. :)
+5. Mettez au four 30 minutes à 180°C. Démoulez et voilà c'est prêt. 😊
 
   
 

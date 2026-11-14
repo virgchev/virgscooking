@@ -10,7 +10,7 @@ date: 2016-01-30
 
   
 
-En panne d'inspiration ce soir pour le dîner, j'ai trouvé un morceau de roquefort et une pâte feuilletée et hop, c'était parti. Je me suis un peu amusée pour la déco en utilisant enfin un de mes ustensiles insolites que je n'avais pas encore testé ;-). Il faut bien sûr que vous aimiez le roquefort, moi j'adore :). C'est tout simplement délicieux avec une petite salade. Pour plus de craquant, vous pouvez ajouter des noix ou des pignons de pin.
+En panne d'inspiration ce soir pour le dîner, j'ai trouvé un morceau de roquefort et une pâte feuilletée et hop, c'était parti. Je me suis un peu amusée pour la déco en utilisant enfin un de mes ustensiles insolites que je n'avais pas encore testé 😉. Il faut bien sûr que vous aimiez le roquefort, moi j'adore 😊. C'est tout simplement délicieux avec une petite salade. Pour plus de craquant, vous pouvez ajouter des noix ou des pignons de pin.
 
   
 **Ingrédients :**  

@@ -10,7 +10,7 @@ date: 2014-11-07
 
   
 
-Cela faisait longtemps que je voulais essayer de faire un cheese-cake et pourquoi pas un cheese-cake salé pour innover un peu. Pour l'été, c'est idéal : bien frais avec une salade. Vous pouvez aussi le proposer pour un brunch :).
+Cela faisait longtemps que je voulais essayer de faire un cheese-cake et pourquoi pas un cheese-cake salé pour innover un peu. Pour l'été, c'est idéal : bien frais avec une salade. Vous pouvez aussi le proposer pour un brunch 😊.
 
   
   
@@ -52,6 +52,6 @@ Cela faisait longtemps que je voulais essayer de faire un cheese-cake et pourquo
 
    [![](/images/73c5919f05.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnCC3GZ-1lgi39wdsdKdOkC1t0Rhyphenhyphen-32AeeK2zVwMxgfcdjR20iDiZUonikSxXsKIrkavXXg3UPU6kcnEVKWU5f6YUYVdnU3RLGgllDYoARz_m2dGt_fRTFvUlTjWvDhIHjZOZxjXOb2I/s1600/20140922_211229.jpg)
 
-Bon Appétit :)
+Bon Appétit 😊
 
 Recette inspirée du livre "Flexipan au quotidien", Ed Guy Demarle

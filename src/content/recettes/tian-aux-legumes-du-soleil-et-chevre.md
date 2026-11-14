@@ -11,7 +11,7 @@ date: 2015-06-16
   
   
 
-Me revoilà avec une recette que j'adore. Il s'agit de la recette familiale du tian de mon amie Elodie qu'elle m'a fait découvrir le jour de mon anniversaire l'année dernière : un vrai délice. C'est celui que je trouve le plus savoureux, les légumes fondants et la présentation est très belle. Le petit truc en plus : du fromage de chèvre frais ;-) et un plat à terrine pour la cuisson au four. Une petite dédicace à Elodie et sa maman pour cette merveilleuse recette que je n'arrête pas de refaire.
+Me revoilà avec une recette que j'adore. Il s'agit de la recette familiale du tian de mon amie Elodie qu'elle m'a fait découvrir le jour de mon anniversaire l'année dernière : un vrai délice. C'est celui que je trouve le plus savoureux, les légumes fondants et la présentation est très belle. Le petit truc en plus : du fromage de chèvre frais 😉 et un plat à terrine pour la cuisson au four. Une petite dédicace à Elodie et sa maman pour cette merveilleuse recette que je n'arrête pas de refaire.
 
 **Ingrédients :**  
 
@@ -58,4 +58,4 @@ Me revoilà avec une recette que j'adore. Il s'agit de la recette familiale du t
   
 7. Remettez le tian au four pour les 15 dernières minutes afin qu'il dore sur le dessus.
 
-Régalez-vous :)
+Régalez-vous 😊

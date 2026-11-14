@@ -8,7 +8,7 @@ date: 2016-07-05
 
 [![](/images/3de0817001.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK5YmwxNgDqCuwM-0cu_KpVSjfkZtcfuQzgd8mVXQ8geE1syAekPvjk0fSdS2stiO-K530IeQWy3IZSFxWgj8kz-pBCdl_jG90bDwa_-lrwYzNmsmuczW6g9IWMk4_JEBNa4wSVyoL5LQ/s1600/20160702_183835.jpg)
 
-Pas beaucoup de temps pour poster mes recettes ou cuisiner tout court avec la reprise du travail et bébé. Je ne reviens donc qu'épisodiquement sur mon blog, cela me manque je dois dire. Me revoilà aujourd'hui pour l'anniversaire de mon homme. Il adore les framboises et j'avais un moule à utiliser dans mes placards :), donc voici un gâteau savoureux qui m'a permis de m'essayer enfin à la pâte à sucre et à l'écriture sur gâteau :-), ce n'était pas une mince affaire :p. Cerise sur le gâteau ou plutôt Framboise, je l'ai goûté et trouver très bon. Pour la petite histoire, je détestais les fruits depuis toute petite et depuis quelques années je les cuisine pour faire plaisir à ma famille et mes ami(e)s. Du coup, petit à petit ils s'intègrent mon alimentation après être rentrés dans ma cuisine...comme quoi tout arrive :-).
+Pas beaucoup de temps pour poster mes recettes ou cuisiner tout court avec la reprise du travail et bébé. Je ne reviens donc qu'épisodiquement sur mon blog, cela me manque je dois dire. Me revoilà aujourd'hui pour l'anniversaire de mon homme. Il adore les framboises et j'avais un moule à utiliser dans mes placards 😊, donc voici un gâteau savoureux qui m'a permis de m'essayer enfin à la pâte à sucre et à l'écriture sur gâteau 😊, ce n'était pas une mince affaire 😛. Cerise sur le gâteau ou plutôt Framboise, je l'ai goûté et trouver très bon. Pour la petite histoire, je détestais les fruits depuis toute petite et depuis quelques années je les cuisine pour faire plaisir à ma famille et mes ami(e)s. Du coup, petit à petit ils s'intègrent mon alimentation après être rentrés dans ma cuisine...comme quoi tout arrive 😊.
 
 **Ingrédients :**  
 
@@ -104,7 +104,7 @@ Pas beaucoup de temps pour poster mes recettes ou cuisiner tout court avec la re
 
    [![](/images/218840b447.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDbFynXxNBUhhlS_L48uidNqR2IQGfE63RSi6iefqcn6NDyxVbmD29uhN-9fUIIgpSYBs9jov5BEjO8kLHfKakbL1fzNJff_rddOnndIqiRu4I9BH7U8WG9TVfjb6JeqSst84oLvge7NA/s1600/20160702_165851.jpg)[![](/images/5d7cf9993b.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuNVO0V6-WhimQopzEimQhfh7c-OWJXhKURHOdoLP2AjRqp03e1UPn9ABZBE2ntzkaOXiQ94pt4d94kai37wgsVKfVm7WV_5OnflauLaCU17pQmfSC1wbVe5yQNq2Za3AzArmwwbhPMeg/s1600/20160702_170209.jpg)
   
-5. Pendant ce temps, colorez la pâte à sucre avec une petite pointe de couteau de colorant rose guimauve dilué avec un tout petit peu d'eau et malaxez bien la pâte. Attention, cela tâche les doigts. Pour ma part, je pense que j'ai mis trop de colorant car je voulais du rose clair et je me retrouve avec du rose fuchsia :-) mais c'est joli quand même...
+5. Pendant ce temps, colorez la pâte à sucre avec une petite pointe de couteau de colorant rose guimauve dilué avec un tout petit peu d'eau et malaxez bien la pâte. Attention, cela tâche les doigts. Pour ma part, je pense que j'ai mis trop de colorant car je voulais du rose clair et je me retrouve avec du rose fuchsia 😊 mais c'est joli quand même...
 
    [![](/images/9a816745a4.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkLGsd5afwsJEYUG65NqScDyfIaDZ7pLuAwtxnrqwwRzgakHqq3RJvpG_vapMTVjuvvChXEQFuuGgmYZqTvlafUUeRH051r7QU2G_PVpyEXuOJ3yUbsHapF6N1h5z6GUR9mZJu3E_KXgc/s1600/20160702_174410.jpg)
 6. Démoulez le gâteau sur un plat.
@@ -117,7 +117,7 @@ Pas beaucoup de temps pour poster mes recettes ou cuisiner tout court avec la re
    [![](/images/6ec7aa6694.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg317ENBZcqfeQgXba6uBTd-tUYbY_NqyC1aoK57xPRVyzymCtvbWI7frYwTeKIg6OGAfVKNZDSU6NxROyhlsQgvb8JB4IvbRa-EE9TTfpJ1N5PfvZCF27Z4SoWLgnoKRmzlRaf8UYbP7c/s1600/20160702_174746.jpg)
 
      
-   Recouvrez le gâteau de la pâte à sucre et découpez les bords. Attention, très fragile ;-).
+   Recouvrez le gâteau de la pâte à sucre et découpez les bords. Attention, très fragile 😉.
 
    [![](/images/e6095194e7.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6DsRlntQ0qBs5EIeUTf10Z9DZPPlQ-v06lMfhJmoRpbX-lgLUxl6u6gobWO8rnXcV4VVa6DrgshhV9azMgmmgvKNg4q_il1wk4QHEDDbHJXbAnX6PVuDNVk9bFKt2yFDZqrbcgZwsfx0/s1600/20160702_180951.jpg)
 7. Ensuite, préparez le glaçage qui va vous permettre d'écrire sur le gâteau à l'aide d'un petit cornet que vous fabriquerez avec du papier sulfurisé. Pour cela, mélangez les blancs d’œufs avec le sucre glace avec une petite cuillère jusqu'à obtenir un mélange homogène.
@@ -125,7 +125,7 @@ Pas beaucoup de temps pour poster mes recettes ou cuisiner tout court avec la re
    [![](/images/554a0dad87.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxe2I9iX2g7_7twSetDAofGZKVRtx9ULRxXT9MYVKK9M_-wSz-Jmz7Py76KFNlJZYpgwEZcpOkNPdloo-96V0mSkVeRZDJ2hobMrHP-NjXXiIV5cUYkjzbP_hfkgm-Sqha9tctBB7lkT4/s1600/20160702_174403.jpg)
 
      
-   Et là faites-vous plaisir écrivez et décorez comme vous voulez :)
+   Et là faites-vous plaisir écrivez et décorez comme vous voulez 😊
 
    [![](/images/071359387c.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxhdCJ7Hvotrtf4jg0-_V2R_KDQLstYN8QVDSjVx0yVf1LsosGB3OItR_TOQ0ds_Ljs39Xn5oA9njCo5NHK50CIB_Znuqnk05GiWxn-Pknv16MfEk8K3VUOBAjiAc-AxnqOy_7eMicbtI/s1600/20160702_183747.jpg)[![](/images/7ff352b98c.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ8Mgn2XECw-IUvYfAgBb3yrjBdFpqgD6dptkvlA9rp7ZHfVdEgO5vE8CpQcR7GMIQFRAxnAmGNNlsSOsk68rka5AywQOrHeIHdOYx1TzpcPAzDo2EGtFjxYo4Hg1JcTAF5psreArpJic/s1600/20160702_220844.jpg)
 

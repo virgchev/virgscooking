@@ -10,7 +10,7 @@ date: 2018-02-27
 
   
 
-Me voici de retour avec une petite recette de gâteau digne de ce nom pour les fans de  cannelle et de légèreté en tous cas en apparence :). Je devais préparer deux gâteaux d'anniversaire en 24 h, j'ai donc pris le parti de faire un énorme gâteau et de le couper en deux. On s'est régalé. Il s'agit d'une base pain de Gênes, un palet gélifié aux pommes et d'une bavaroise à la cannelle. Vous pouvez tout à fait réaliser cette recette en divisant par deux les proportions mais attention prévoyez de le préparer la veille.
+Me voici de retour avec une petite recette de gâteau digne de ce nom pour les fans de  cannelle et de légèreté en tous cas en apparence 😊. Je devais préparer deux gâteaux d'anniversaire en 24 h, j'ai donc pris le parti de faire un énorme gâteau et de le couper en deux. On s'est régalé. Il s'agit d'une base pain de Gênes, un palet gélifié aux pommes et d'une bavaroise à la cannelle. Vous pouvez tout à fait réaliser cette recette en divisant par deux les proportions mais attention prévoyez de le préparer la veille.
 
   
   
@@ -50,7 +50,7 @@ Me voici de retour avec une petite recette de gâteau digne de ce nom pour les f
 
    [![](/images/75f669b10e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8uezUHrfDQfbfEMuLuzua8eNLffYxp-Bo5ANSIjcvyzba3yRLBYf8MPSGe7pJtYXQDZKktHmbfJ-VqpYPcZLkzMUxnXXcOzmPqlVzxzwHRpAtNcjUSE60Y5uoKrNxlUwCy323H6GrRJY/s1600/20180224_082600.jpg)[![](/images/1311dad7fa.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQTOEugFK_F5ZNxWNO5QFNhbECOOWRJJj2aaCTczQ1jN2CWOIZQdFlSThHzMFshntVVFxAIoRaXLpgB0zD6Dd95p2fXEdeLRZAUBp51nilNACRDdrRZiKljxBiY_CQ9GSTqSdrjOIkgZg/s1600/20180224_083103.jpg)
   
-7. Laissez ensuite décongeler le gâteau pendant 40 min à température ambiante, puis mettez-le au réfrigérateur pendant 6 heures ou plus. Donc prévoyez de faire le gâteau la veille ;-).
+7. Laissez ensuite décongeler le gâteau pendant 40 min à température ambiante, puis mettez-le au réfrigérateur pendant 6 heures ou plus. Donc prévoyez de faire le gâteau la veille 😉.
 
    [![](/images/e35f3ed664.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZRiRopocOku5skuRPfNSBxQx8alcqaXuAkd-ziIxsFUusBB29qurL8_rK4d8zrpJc8TY3xg6zZEyA8q65Yfv1uDR6NCmKx0iRkWmTChfRvriZZNBHvoaUyfrYmdk10RT7YjCiqmsW9j0/s1600/20180224_142535.jpg)
 

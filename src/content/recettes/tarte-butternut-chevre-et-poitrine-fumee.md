@@ -10,7 +10,7 @@ date: 2016-01-24
 
   
 
-Après des mois d'absence et un bébé plus tard, je commence à me remettre aux fourneaux et tester des recettes ; pas facile de trouver du temps pour cuisiner et publier des recettes dans mon nouvel emploi du temps de Maman ;-). Voici la recette qu'un couple d'amis m'a fait goûter, il y a déjà quelques temps. Ma maman m'ayant donné une courge butternut, il fallait trouver une recette pour la consommer. Cette tarte est vraiment très bonne avec le fromage de chèvre frais et la poitrine fumée un peu croustillante. j'espère que vous vous régalerez ;-).
+Après des mois d'absence et un bébé plus tard, je commence à me remettre aux fourneaux et tester des recettes ; pas facile de trouver du temps pour cuisiner et publier des recettes dans mon nouvel emploi du temps de Maman 😉. Voici la recette qu'un couple d'amis m'a fait goûter, il y a déjà quelques temps. Ma maman m'ayant donné une courge butternut, il fallait trouver une recette pour la consommer. Cette tarte est vraiment très bonne avec le fromage de chèvre frais et la poitrine fumée un peu croustillante. j'espère que vous vous régalerez 😉.
 
 **Ingrédients :**  
 
@@ -39,4 +39,4 @@ Après des mois d'absence et un bébé plus tard, je commence à me remettre aux
 
    [![](/images/9cde26e792.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0ZSVJnnv1qaaliRqRb3cJ8pt_glSSKKeTCoDCk2yl_hop5WJev8i7fZ47Dy2usixGNFTp8tHdi7NALbrdOCq5KXwlL0J4CFNY8iIJe965eRDdHM-IrqvodahLA1nhcdMbv75raBfQ0zM/s1600/20160124_141938.jpg)
 
-Bon appétit :)
+Bon appétit 😊

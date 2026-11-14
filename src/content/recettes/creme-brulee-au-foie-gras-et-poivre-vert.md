@@ -54,11 +54,11 @@ Puis, à l'aide d'un torche à crème brûlée ou petit chalumeau, venez caram�
 
   
 
-Ne les caramélisez pas l'avance si vous les remettez au frigo ensuite car le caramel avec l'humidité va fondre et vous perdrez le craquant si caractéristique d'une crème brûlée ;-).   
+Ne les caramélisez pas l'avance si vous les remettez au frigo ensuite car le caramel avec l'humidité va fondre et vous perdrez le craquant si caractéristique d'une crème brûlée 😉.   
 
   
 
-Bonne dégustation :-)
+Bonne dégustation 😊
 
   
 

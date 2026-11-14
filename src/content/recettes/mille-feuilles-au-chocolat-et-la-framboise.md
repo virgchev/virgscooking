@@ -8,7 +8,7 @@ date: 2015-02-01
 
 [![](/images/df35fd8ea3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaEessGzhqI8b7VjTHmiOXwJ9MtgBupyED4LpsTWPoooNSU1kJKg8UtlKUNo5wz-qzbdpoFV4yZJVwXRvSvxFBW41MhgFYkkR4aM44fLYdiv6HT67LwM4kaGFh3kILVWcc4GWoha9s5pg/s1600/20141219_235807.jpg)
 
-Voici enfin la recette de mon dessert réalisé pour Noël, un peu long à faire mais très bon et fin. Personnellement, j'ai adoré la ganache à la framboise :), j'ai encore des progrès à faire sur le feuilletage et la déco mais pour une première, c'était très bon. Nous nous sommes régalés. Une recette à essayer sans hésiter pour les passionnés de la cuisine qui n'ont pas peur de rester aux fourneaux quelques temps ;-).
+Voici enfin la recette de mon dessert réalisé pour Noël, un peu long à faire mais très bon et fin. Personnellement, j'ai adoré la ganache à la framboise 😊, j'ai encore des progrès à faire sur le feuilletage et la déco mais pour une première, c'était très bon. Nous nous sommes régalés. Une recette à essayer sans hésiter pour les passionnés de la cuisine qui n'ont pas peur de rester aux fourneaux quelques temps 😉.
 
   
   
@@ -99,11 +99,11 @@ Voici enfin la recette de mon dessert réalisé pour Noël, un peu long à faire
 
     [![](/images/6c4c9ef7df.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-HOCp8OGZgDCC7Fp7-9xD7yZiBZnLmj9ndVCG2EmYOZKdIM_C_ttzjGtg3aGr0kWBdxT2rKYZg5jOPg_WOqQhGB423t8Spi63r65MOPSGvFMJNP0yKWqMXtQo513bWAlJiOYD-ZdyB8/s1600/20141219_160519.jpg)[![](/images/3be422e541.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAtxSm0pbHK6KOIEU_Fmw_PgWVPvf5vQ6vd71Er7kJkeMUd4M_p8WGpitCatqvO70anaXX9S2SkOXjcN_stCvnBZ85TSIo_O9N2SPvTM5q_5zAat8ph9Wg-Gdy3JzRCsJG4v2YcBnBsdI/s1600/20141219_160557.jpg)
   
-11. Pour la décoration, amusez-vous. Pour ma part, j'ai mis un peu de poudre argenté alimentaire au pinceau sur le chocolat tempéré. J'ai mis le coulis de framboise dans un flacon décor souple pour pouvoir dessiner des petites vagues et mis une petite framboise sur chacun des mille-feuilles. Avec le reste de coulis, faite la décoration de l'assiette ou laissez-le à disposition pour vos invités s'ils veulent en rajouter ;-).
+11. Pour la décoration, amusez-vous. Pour ma part, j'ai mis un peu de poudre argenté alimentaire au pinceau sur le chocolat tempéré. J'ai mis le coulis de framboise dans un flacon décor souple pour pouvoir dessiner des petites vagues et mis une petite framboise sur chacun des mille-feuilles. Avec le reste de coulis, faite la décoration de l'assiette ou laissez-le à disposition pour vos invités s'ils veulent en rajouter 😉.
 
     [![](/images/46ffc73d3d.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC6Y5thUM4ukY9RcpdiU2odE_W662qc61Ke2Mt41DFHlDuWiQOEfmJY7o_coJmm1_HMOZ1EHPveTK_A_py9Rj3rOBW8OJeetww_pBrFzC4OMrGZxECOiq60fcCefHfcbrTmxsg2zTyDIs/s1600/20141219_235815.jpg)
 
-Régalez-vous !!! Vous avez bien méritez de la dégustation à présent :)
+Régalez-vous !!! Vous avez bien méritez de la dégustation à présent 😊
 
   
 

@@ -11,7 +11,7 @@ date: 2014-06-24
   
   
 
-Pour voir la vie en couleurs et s'ouvrir l'appétit, rien de tel que des recettes toutes simples et colorées. Voici une petite recette à réaliser vite prête mais qui fait son effet ;-).
+Pour voir la vie en couleurs et s'ouvrir l'appétit, rien de tel que des recettes toutes simples et colorées. Voici une petite recette à réaliser vite prête mais qui fait son effet 😉.
 
 **Ingrédients :**
 
@@ -30,8 +30,8 @@ Pour voir la vie en couleurs et s'ouvrir l'appétit, rien de tel que des recette
 
 - du sel, du poivre
 
-1. Coupez vos courgettes en lamelle fine, avec un couteau, épluche-légume ou mandoline comme vous préférez :).
-2. Roulez ensuite les tranches de dinde avec les courgettes pour faire des petits rouleaux que vous mettrez dans des moules à mini-muffins ou ce que vous avez sous la main :).
+1. Coupez vos courgettes en lamelle fine, avec un couteau, épluche-légume ou mandoline comme vous préférez 😊.
+2. Roulez ensuite les tranches de dinde avec les courgettes pour faire des petits rouleaux que vous mettrez dans des moules à mini-muffins ou ce que vous avez sous la main 😊.
 3. Dans un petit saladier ou directement dans un verre mesureur, mélangez les 2 œufs, la crème fleurette, du poivre, un peu de sel et une bonne cuillère à soupe de Maïzena (ou fleurs de maïs).
 
    [![](/images/4deb1ee555.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik5ZD7zvDBsgjD7UdI6-8zMK0_dEkMYaGguhq0BSQLyZhPMILeavyotnYCgeTKKzbDKretUR_iY_VGRSM-78O0BePQ02Dl_1cegrMx6tKejVuDMIYIpwPziY7uyCKwAQieM24G5A9I-mk/s1600/20140624_211432.jpg)

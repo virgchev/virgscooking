@@ -10,7 +10,7 @@ date: 2014-06-15
 
   
 
-En ce dimanche, pourquoi pas un petit brunch avec des pancakes au sirop d'érable ;). J'adore cette recette car ils sont tout légers et c'est super rapide. C'est une vieille recette que j'avais trouvé dans le journal de Mickey, autant vous dire que ça fait une éternité :). Le sirop d'érable, vous ne connaissez pas ??? c'est une spécialité canadienne faite à partir de sève de cet arbre, au goût inimitable. A l'heure actuelle, on en trouve partout mais dans les années 90 ce n'était pas vraiment le cas en France ;-).
+En ce dimanche, pourquoi pas un petit brunch avec des pancakes au sirop d'érable 😉. J'adore cette recette car ils sont tout légers et c'est super rapide. C'est une vieille recette que j'avais trouvé dans le journal de Mickey, autant vous dire que ça fait une éternité 😊. Le sirop d'érable, vous ne connaissez pas ??? c'est une spécialité canadienne faite à partir de sève de cet arbre, au goût inimitable. A l'heure actuelle, on en trouve partout mais dans les années 90 ce n'était pas vraiment le cas en France 😉.
 
   
   
@@ -59,6 +59,6 @@ En ce dimanche, pourquoi pas un petit brunch avec des pancakes au sirop d'érabl
   
   
 
-Pour déguster, arrosez de sirop d'érable selon votre envie et à l'attaque :)
+Pour déguster, arrosez de sirop d'érable selon votre envie et à l'attaque 😊
 
-Petite variante, vous pouvez aussi remplacer le sirop d'arable par du caramel au beurre salé liquide, j'ai testé ce matin, c'était trop bon :)
+Petite variante, vous pouvez aussi remplacer le sirop d'arable par du caramel au beurre salé liquide, j'ai testé ce matin, c'était trop bon 😊

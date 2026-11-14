@@ -38,10 +38,10 @@ J'aime beaucoup le principe de partir de recettes sucrées classiques pour trouv
 4. Mélangez bien la farine et la levure. Ajoutez ensuite les œufs entiers et mélangez bien.
 5. Versez le beurre bien refroidi sur le mélange, puis incorporez le comté et le chorizo.
 6. Remplissez vos moules à mini-madeleines avec la préparation à l'aide d'une cuillère et en prenant soin qu'il y ait bien un morceau de chorizo dans chacune des mini-madeleines.
-7. Mettez vos madeleines au four mais à 180°C pendant 10-15 min (Pensez à abaisser la température du four ;-) ).
+7. Mettez vos madeleines au four mais à 180°C pendant 10-15 min (Pensez à abaisser la température du four 😉 ).
 8. Démoulez les madeleines à la sortie du four
 
-Petit conseil : Servez-les tièdes, c'est bien meilleur :)
+Petit conseil : Servez-les tièdes, c'est bien meilleur 😊
 
   
   

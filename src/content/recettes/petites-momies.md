@@ -9,7 +9,7 @@ date: 2014-11-22
 [![](/images/f02837046e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0PYgsR_lNpY6rQ_YEcGnevJ2r8-B8BbUGYeTVZF3iAicWfQ5pM-NcT-tOJ15kxSJlUYbAJLtMGPz45v8TJw5nPC493P_rrP-wD_0BSnGQ-labW492wZxZ_ujMAVm181Y75bpH3D7_fp0/s1600/20141115_111841.jpg)
 
   
-Voici une autre petite recette à faire pour Halloween ou pour l'apéritif avec effet garanti. Elle est toute simple mais armez-vous de patience car enrubanner ces petits momies demandent un peu de temps. :)  
+Voici une autre petite recette à faire pour Halloween ou pour l'apéritif avec effet garanti. Elle est toute simple mais armez-vous de patience car enrubanner ces petits momies demandent un peu de temps. 😊  
   
 **Ingrédients :**  
 - 10 saucisses de strasbourg ou knackis  
@@ -31,4 +31,4 @@ Voici une autre petite recette à faire pour Halloween ou pour l'apéritif avec 
 
 [![](/images/e8588e86f4.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv969vO3FSWUP291GTa63gZzYQz1dbp8CSSpV5GPhX6Seo5QzzvDj23T-7spnYZ5z8PanWjEQuAFMKeWkhh08l_QxJEXlAmofHLW3ZddghCVVp8Y0MNhmiusJVLaENs-BlOm_hDKDRKmY/s1600/20141114_003301.jpg)  
   
-Servez-les avec de la moutarde ;)
+Servez-les avec de la moutarde 😉

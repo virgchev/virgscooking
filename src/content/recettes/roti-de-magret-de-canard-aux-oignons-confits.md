@@ -10,7 +10,7 @@ date: 2015-01-18
 
   
 
-Si comme moi vous adorez le magret de canard et le sucré-salé, voici une recette que j'ai faite pour le Noël avec ma famille. Un pure délice servi avec des frites de patates douces et des haricots verts :), nous nous sommes régalés. C'est une recette qui trouvera sa place sans difficulté sur nos tables pour changer des traditionnels rôtis du dimanche sur nos tables familiales.
+Si comme moi vous adorez le magret de canard et le sucré-salé, voici une recette que j'ai faite pour le Noël avec ma famille. Un pure délice servi avec des frites de patates douces et des haricots verts 😊, nous nous sommes régalés. C'est une recette qui trouvera sa place sans difficulté sur nos tables pour changer des traditionnels rôtis du dimanche sur nos tables familiales.
 
   
 **Ingrédients:**  
@@ -50,7 +50,7 @@ Si comme moi vous adorez le magret de canard et le sucré-salé, voici une recet
 
   
 
-Bon appétit :)
+Bon appétit 😊
 
   
   

@@ -10,7 +10,7 @@ date: 2014-12-20
 
   
 
-Et oui c'est bientôt Noël, ce n'est peut-être pas un opéra classique que vous servirez en dessert pour Noël cette année mais un opéra au foie gras en entrée :).  cela changera de la traditionnelle terrine que l'on prépare habituellement pour nos fêtes de fin d'année et vous impressionnerez vos convives. J'ai fait cette recette pour ma soirée jeu mensuelle avec mes amis. J'adore le foie gras et je voulais changer un peu et tester cette nouvelle recette. On a adoré ! :)
+Et oui c'est bientôt Noël, ce n'est peut-être pas un opéra classique que vous servirez en dessert pour Noël cette année mais un opéra au foie gras en entrée 😊.  cela changera de la traditionnelle terrine que l'on prépare habituellement pour nos fêtes de fin d'année et vous impressionnerez vos convives. J'ai fait cette recette pour ma soirée jeu mensuelle avec mes amis. J'adore le foie gras et je voulais changer un peu et tester cette nouvelle recette. On a adoré ! 😊
 
 **Ingrédients :**  
 ***Mousse de foie gras***  
@@ -71,7 +71,7 @@ Et oui c'est bientôt Noël, ce n'est peut-être pas un opéra classique que vou
    [![](/images/aeaee4b12e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQCdPp5i8bljs4lePkkHdWvIZV7YFw_5coFo883bl2rlx7Eh1ne3j1bqRPGw_3xQLlBqhu7-Kx9ZZJogQ7wPD6O9Ca20ev0Ysj1_IT1j16Q0pQvZSE40VvhGAfgII869ubzhaJ4wUJ90M/s1600/2014-12-18+21.04.04.jpg)
 
      
-   Enfin, ajoutez la mousse de foie gras nature qui vous restait et lissez bien à la spatule. Mettez votre gâteau au frais au moins 4h recouvert d'un film plastique. L'idéal est de faire la recette la veille ;-).  
+   Enfin, ajoutez la mousse de foie gras nature qui vous restait et lissez bien à la spatule. Mettez votre gâteau au frais au moins 4h recouvert d'un film plastique. L'idéal est de faire la recette la veille 😉.  
 
    [![](/images/cfeaa5647a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXC_90qpk5sP_296sqzYAgDySe8Y4DlrQDnTWxs2kPBNgWkGRJWqjKsEjUhGJdMizM0Jzs7O2RlBO7JFKfIV2Jsg4SzoSWyjIBNjLrjE54f5ge2uf47CrJHA-KzYwmEOz3O-jjmKset9I/s1600/2014-12-18+21.09.51.jpg)
 7. A la sortie du réfrigérateur, passez une lame de couteau doucement sur tout le tour du cadre inox pour démoulez l'opéra. Puis, enlevez délicatement le cadre.
@@ -80,6 +80,6 @@ Et oui c'est bientôt Noël, ce n'est peut-être pas un opéra classique que vou
 
    [![](/images/7e9bca4dcf.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-wX8RJOQGKZ2-oN3zh5JNEOWZ_HJpzQh700mer7sMcvKxTomr-xUxaOLNQ-pp3GI7QePY6GJm5mMZJtpBMvVEt6W_ZUzZpB-Ocyni9npkCqIUJb0I7JAOJGnZ_mZjgXMhqZr-bn7q-14/s1600/2014-12-19+19.51.12.jpg)[![](/images/b7c7ee0273.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6FdAnWMhz7ARtoTn1gmjyp9aXo0PZEhll3lhH_97gqyX84CfhI5qmM5MDhsYDXWGYsJR-uPyRI4xiEd9tBn2yIqMUD-WPfSIvb5WOr7VMeewaviEZI0OJa-lQ7NmSVj6YnKq2UgehUis/s1600/2014-12-19+20.08.58.jpg)
   
-9. Vous pouvez servir cet opéra avec une salade de mesclun et un petit pot de confit de figue à côté pour en rajouter dessus au moment de la dégustation. Vous pouvez aussi faire griller légèrement des tranches de pain d'épices pour mettre en décoration ou servir avec (une idée de mon ami Fabrice :)). C'est très bon avec de la crème de balsamique aussi. Faites marcher votre imagination :)
+9. Vous pouvez servir cet opéra avec une salade de mesclun et un petit pot de confit de figue à côté pour en rajouter dessus au moment de la dégustation. Vous pouvez aussi faire griller légèrement des tranches de pain d'épices pour mettre en décoration ou servir avec (une idée de mon ami Fabrice 😊. C'est très bon avec de la crème de balsamique aussi. Faites marcher votre imagination 😊
 
 Recette inspirée du livre Demarle "Le traiteur, c'est moi !"

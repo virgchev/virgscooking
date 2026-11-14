@@ -10,7 +10,7 @@ date: 2014-12-22
 
   
 
-Les températures commencent à descendre? Vous avez besoin d'un plat qui vous réchauffe les papilles et le corps. Voici une recette revisitée du célèbre Pot-au-feu. Beaucoup plus savoureux et odorant que le plat traditionnel. Nous nous sommes régalés :). Pour ma part, rien que l’agréable fumet se dégageant dans la cuisine lors de la préparation et l'ouverture du four m'a pleinement réchauffé le cœur...
+Les températures commencent à descendre? Vous avez besoin d'un plat qui vous réchauffe les papilles et le corps. Voici une recette revisitée du célèbre Pot-au-feu. Beaucoup plus savoureux et odorant que le plat traditionnel. Nous nous sommes régalés 😊. Pour ma part, rien que l’agréable fumet se dégageant dans la cuisine lors de la préparation et l'ouverture du four m'a pleinement réchauffé le cœur...
 
 **Ingrédients pour 5 pots :**  
 

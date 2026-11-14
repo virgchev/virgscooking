@@ -10,7 +10,7 @@ date: 2014-08-21
 
   
 
-Voici une recette de tiramisu pour ceux qui n'aiment pas le café ;-). J'ai découvert cette recette il y a quelques années lorsque je cherchais un dessert à faire avec du mascarpone mais comme mes invités n'aimaient pas le café, il fallait trouver autre chose que le tiramisu classique :). C'est un pur délice et surtout les petites noisettes caramélisées car quand on commence à les goûter, on ne s'arrête plus alors faites-en un peu plus pour être sûr d'en avoir encore pour la décoration :).
+Voici une recette de tiramisu pour ceux qui n'aiment pas le café 😉. J'ai découvert cette recette il y a quelques années lorsque je cherchais un dessert à faire avec du mascarpone mais comme mes invités n'aimaient pas le café, il fallait trouver autre chose que le tiramisu classique 😊. C'est un pur délice et surtout les petites noisettes caramélisées car quand on commence à les goûter, on ne s'arrête plus alors faites-en un peu plus pour être sûr d'en avoir encore pour la décoration 😊.
 
   
   
@@ -47,6 +47,6 @@ Voici une recette de tiramisu pour ceux qui n'aiment pas le café ;-). J'ai déc
    [![](/images/fb9073f887.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA4PsdobSH3i3Kr-xSRslOR8MyzjJWn1HchrzUX3hP_ZT_sQzi-BXDyyDeEo75QDCUlBnhQsJ5HtrRlfy2dleti9XHzi9xVS0WW9KqhoCZFnahMDOzTvZ8vDumdtHDmBDWoG0UOow0Xyk/s1600/20140711_215811.jpg)
 5. Avant de servir, disposez les noisettes caramélisées sur les tiramisus. Ne les mettez pas avant le passage au réfrigérateur car elles ne seront plus craquantes et le caramel va fondre dans la préparation.
 
-Régalez-vous :)
+Régalez-vous 😊
 
 Recette inspirée de la petite bibliothèque du chocolat, Larousse

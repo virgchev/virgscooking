@@ -11,7 +11,7 @@ date: 2014-11-25
   
   
 
-Voici une petite recette originale de cookies salés à déguster pour l'apéritif. On peut imaginer ajouter du parmesan, des tomates confites ou des petites graines diverses (sésame, pignons de pin, graines de lin...) ou tout ce qui vous passe par la tête ;-).
+Voici une petite recette originale de cookies salés à déguster pour l'apéritif. On peut imaginer ajouter du parmesan, des tomates confites ou des petites graines diverses (sésame, pignons de pin, graines de lin...) ou tout ce qui vous passe par la tête 😉.
 
   
 **Ingrédients :**  
