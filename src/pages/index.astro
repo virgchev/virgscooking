@@ -38,7 +38,18 @@ const texteDe = (r) =>
           <span class="fil" aria-hidden="true"></span>
           {r.data.minutes && <span class="tps">{r.data.minutes} min</span>}
         </a>
-        <small>{r.data.categories.join(' · ')}{r.data.difficulte && <Difficulte niveau={r.data.difficulte} />}</small>
+        <small>
+  {r.data.categories?.join(' · ')}
+
+  {r.data.categories?.length > 0 && r.data.difficulte && (
+    <span class="sep" aria-hidden="true">·</span>
+  )}
+
+  {r.data.difficulte && (
+    <Difficulte niveau={r.data.difficulte} />
+  )}
+</small>
+
       </li>
     ))}
   </ul>

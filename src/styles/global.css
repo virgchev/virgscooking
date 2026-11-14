@@ -55,6 +55,37 @@ article img {
 
 .index-ingredients { font-style: italic; margin: 0 0 1.5rem; padding-bottom: 1rem; border-bottom: 2px dotted rgba(127,127,127,.5); }
 .index-ingredients strong { font-style: normal; font-family: var(--titre); color: var(--betterave); }
-.difficulte { display: inline-flex; align-items: center; gap: .4rem; font: italic .95rem var(--texte); white-space: nowrap; vertical-align: middle; }
-.difficulte svg { height: 3rem; width: auto; overflow: visible; }
+
+.difficulte {
+  display: inline-flex;
+  align-items: center;
+  gap: .45rem;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+.difficulte .label {
+  
+  
+  letter-spacing: .02em;
+}
+
+.difficulte .emojis {
+  font-size: 1.15rem;
+  line-height: 1;
+  letter-spacing: .08em;
+}
+
+.difficulte .niveau {
+  font-style: italic;
+  color: var(--encre);
+  opacity: .75;
+}
+
+.sep {
+  color: var(--betterave);
+  opacity: .7;
+  margin: 0 .3rem;
+  font-weight: 700;
+}
 .carte small { display: flex; align-items: center; flex-wrap: wrap; gap: .3rem 1rem; }
