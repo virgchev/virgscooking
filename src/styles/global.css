@@ -36,13 +36,22 @@ footer { margin-top: 4rem; font-style: italic; opacity: .7; }
 
 article img {
   display: block;
-  max-width: min(100%, 26rem);
+  max-width: min(92%, 26rem);
   max-height: 24rem;
   width: auto;
   height: auto;
-  margin: 1.5rem auto;
-  border-radius: 6px;
+  object-fit: contain;
+  margin: 2rem auto;
+  padding: .7rem .7rem 2.8rem;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, .22);
+  border-radius: 2px;
+  transition: transform .2s ease;
 }
+.etapes p:nth-of-type(3n+1) img { transform: rotate(-1.5deg); }
+.etapes p:nth-of-type(3n+2) img { transform: rotate(1.2deg); }
+.etapes a:hover img { transform: rotate(0) scale(1.02); }
+@media (prefers-reduced-motion: reduce) { article img { transition: none; } }
 
 .index-ingredients { font-style: italic; margin: 0 0 1.5rem; padding-bottom: 1rem; border-bottom: 2px dotted rgba(127,127,127,.5); }
 .index-ingredients strong { font-style: normal; font-family: var(--titre); color: var(--betterave); }
