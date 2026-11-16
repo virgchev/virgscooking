@@ -6,9 +6,17 @@
 
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--fond); color: var(--encre); font: 1.125rem/1.7 var(--texte); }
-.page { max-width: 42rem; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+.page { max-width: 55rem; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+
 a { color: inherit; }
-a:focus-visible, input:focus-visible { outline: 3px solid var(--curcuma); outline-offset: 3px; }
+a:focus-visible { outline: 3px solid var(--curcuma); outline-offset: 3px; }
+
+.recherche input:focus,
+.recherche input:focus-visible {
+  outline: none;
+  border-color: var(--betterave);
+  box-shadow: 0 0 0 3px rgba(216, 95, 139, .25);
+}
 
 header.site { background: #000; }
 header.site { padding: 0 0 2rem; }
@@ -105,3 +113,37 @@ input[type="text"] {
   font: inherit;
 }
 input::placeholder { color: var(--encre); opacity: .5; }
+
+.sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.recherche {
+  position: relative;
+  display: block;
+  max-width: 28rem;
+  margin: 1rem 0 0;
+}
+.recherche .loupe {
+  position: absolute;
+  left: .8rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--betterave);
+  pointer-events: none;
+}
+.recherche input {
+  width: 100%;
+  padding: .6rem .9rem .6rem 2.6rem;
+  background: var(--surface);
+  color: var(--encre);
+  border: 1px solid rgba(245, 241, 232, .25);
+  border-radius: 999px;
+  font: inherit;
+}
+.recherche input::placeholder { color: var(--encre); opacity: .5; }

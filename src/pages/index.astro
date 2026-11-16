@@ -25,9 +25,13 @@ const texteDe = (r) =>
   <h1>La carte</h1>
 
   <label class="recherche">
-    <span class="sr">Chercher une recette</span>
-    <input id="q" type="search" placeholder="Chercher une recette, un ingrédient…" autocomplete="off" />
-  </label>
+  <span class="sr">Chercher une recette</span>
+  <svg class="loupe" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+    <circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2" />
+    <line x1="15.5" y1="15.5" x2="21" y2="21" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+  </svg>
+  <input id="q" type="search" placeholder="Une recette, un ingrédient…" autocomplete="off" />
+</label>
   <p id="vide" hidden>Aucune recette trouvée.</p>
 
   <ul class="carte">
