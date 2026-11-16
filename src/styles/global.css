@@ -1,5 +1,5 @@
 :root {
-  --fond: #111111; --encre: #f5f1e8; --betterave: #d85f8b; --curcuma: #e7b84b; --surface: #1f1f1f;
+  --fond: #000000; --encre: #f5f1e8; --betterave: #d85f8b; --curcuma: #e7b84b; --surface: #1f1f1f;
   --titre: 'Bricolage Grotesque', system-ui, sans-serif;
   --texte: 'Source Serif 4', Georgia, serif;
 }
@@ -10,9 +10,16 @@ body { margin: 0; background: var(--fond); color: var(--encre); font: 1.125rem/1
 a { color: inherit; }
 a:focus-visible, input:focus-visible { outline: 3px solid var(--curcuma); outline-offset: 3px; }
 
-header.site { padding: 2rem 0 2.5rem; }
-header.site a { font: 800 clamp(2.8rem, 12vw, 5.5rem)/.9 var(--titre); letter-spacing: -.035em; color: var(--betterave); text-decoration: none; }
-h1 { font: 800 2rem/1.1 var(--titre); letter-spacing: -.02em; margin: 0 0 .5rem; }
+header.site { background: #000; }
+header.site { padding: 0 0 2rem; }
+header.site a { display: block; line-height: 0; }
+header.site img {
+  display: block;
+  width: 100%;
+  height: auto;    -webkit-mask-image: linear-gradient(to bottom, #000 80%, transparent 100%);
+  mask-image: linear-gradient(to bottom, #000 80%, transparent 100%);      /* garde les proportions */
+}
+h1 { font: 800 2rem/1.1 var(--titre); letter-spacing: -.02em; margin: 0 0 .5rem; text-align: center;}
 
 .carte { list-style: none; padding: 0; margin: 1.5rem 0 0; }
 .carte li { padding: .9rem 0; }
@@ -87,3 +94,14 @@ article img {
   font-weight: 700;
 }
 .carte small { display: flex; align-items: center; flex-wrap: wrap; gap: .3rem 1rem; }
+
+input[type="search"],
+input[type="text"] {
+  background: var(--surface);
+  color: var(--encre);
+  border: 1px solid rgba(245, 241, 232, .25);
+  border-radius: 6px;
+  padding: .45rem .7rem;
+  font: inherit;
+}
+input::placeholder { color: var(--encre); opacity: .5; }

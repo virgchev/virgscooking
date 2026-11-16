@@ -1,6 +1,14 @@
 ---
 import '../styles/global.css';
-const { titre = "Virg's Cooking" } = Astro.props;
+import { Image } from 'astro:assets';
+import logo from '../assets/logo-rectangle.png';
+
+const {
+  titre = "Virg's Cooking",
+  description = "Recettes et gourmandises, entre cuisine et geek.",
+} = Astro.props;
+
+const ogImage = new URL('/og-image.png', Astro.url);
 ---
 <!doctype html>
 <html lang="fr">
@@ -8,15 +16,31 @@ const { titre = "Virg's Cooking" } = Astro.props;
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{titre}</title>
+    <meta name="description" content={description} />
+
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={titre} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet" />
   </head>
   <body>
     <div class="page">
-      <header class="site"><a href="/">Virg's Cooking</a></header>
+      <header class="site">
+        <a href="/" aria-label="Virg's Cooking, retour à l'accueil">
+         <Image src={logo} alt="Virg's Cooking" width={1600} loading="eager" />
+        </a>
+      </header>
       <main><slot /></main>
       <footer>© Virg’s Cooking</footer>
     </div>
   </body>
 </html>
+
