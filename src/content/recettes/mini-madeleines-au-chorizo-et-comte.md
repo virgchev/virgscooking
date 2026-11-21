@@ -1,11 +1,19 @@
 ---
 titre: "Mini-Madeleines au Chorizo et Comté"
 categories: ["Apéritif"]
+themes: []
+regimes: []
 date: 2014-06-03
 difficulte: 2
+index_ingredients:
+  - "oeufs"
+  - "farine"
+  - "comté rapé"
+  - "beurre salé"
+  - "levure chimique"
+  - "chorizo plus ou moins fort selon votre goût"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> oeufs ; farine ; comté rapé ; beurre salé ; levure chimique ; chorizo plus ou moins fort selon votre goût</p>
 
 [![](/images/af39b5823e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwvpVamrFIV6OspvIvpP5Avxpu64p08rSDeQhihBPJeD-3_uUd6zv8ZftOh3m8yVekHLuXjHTu297XoBjdX6M_eQJqwx3yg1rMox1dAVI5zctH1VrtyJ1dk6vdjvYcFKWRctehHr2-m1s/s1600/20140510_132827.jpg)
 
@@ -47,4 +55,6 @@ Petit conseil : Servez-les tièdes, c'est bien meilleur 😊
   
   
 
-Recette inspirée de la [Recette de Martin Sophie sur le site de 750g](http://www.750g.com/madeleines-au-chorizo-r26220.htm)
+
+> Recette inspirée de la [Recette de Martin Sophie sur le site de 750g](http://www.750g.com/madeleines-au-chorizo-r26220.htm)
+

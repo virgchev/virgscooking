@@ -1,11 +1,22 @@
 ---
 titre: "Quiche Minute Poireaux et Saumon Fumé"
 categories: ["Plat"]
+themes: []
+regimes: []
 date: 2014-06-04
 difficulte: 1
+index_ingredients:
+  - "poireaux congelés environ : c'est tout ce qui me restait 😊"
+  - "petit peu de vin blanc"
+  - "peu de beurre doux pour la poêle"
+  - "œufs"
+  - "crème fleurette 12%"
+  - "poivre"
+  - "peu de comté râpé"
+  - "saumon fumé"
+  - "pâte feuilletée"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> poireaux congelés environ : c'est tout ce qui me restait 😊 ; petit peu de vin blanc ; peu de beurre doux pour la poêle ; œufs ; crème fleurette 12% ; poivre ; peu de comté râpé ; saumon fumé ; pâte feuilletée</p>
 
 [![](/images/fcecd4aa3a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCViKPCQRxz4b-eE3X-gZluES4qWQ6gcpNrqm38rR0ajQL833cg2SnlPPixOUZ_Td5lLsHHUjE0mcXfD537FDflIAq5s8Rig3PLwZpOCIcj_ijxPn6w_wFp6xCU5Ck_WT-kywOtXWvSik/s1600/20140604_000850.jpg)
 
@@ -16,7 +27,7 @@ Voici une recette improvisée pour ce midi, un reste de poireaux dans le congél
   
   
 
-**Ingrédients :**
+**Liste des ingrédients :**
 
 - 200 g de poireaux congelés environ : c'est tout ce qui me restait 😊
 

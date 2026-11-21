@@ -1,11 +1,19 @@
 ---
 titre: "Tartelettes au citron"
-categories: ["Dessert"]
+categories: ["Dessert","Goûter"]
+themes: []
+regimes: []
 date: 2014-09-21
 difficulte: 2
+index_ingredients:
+  - "pâte brisée"
+  - "citron"
+  - "fécule de maïs"
+  - "sucre"
+  - "beurre"
+  - "œuf"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> pâte brisée ; citrons non traités ; fécule de maïs ; sucre ; beurre ; œufs</p>
 
 [![](/images/e2477d674f.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYaZTnxFdr8tMJN82VoFyM5WM-M9qGZwfPP4oDNyvAnFGDuWehEy5dG4wO8ff5c1IZXFMUgsUMbQtDFjyKo5XwwzNeHZ5X4AEXAajQamU8QZyk3f-tDVGiPEaqcCcWW6OVGO89TDdHXbk/s1600/20140921_132530.jpg)
 
@@ -15,7 +23,7 @@ En ce dimanche, une petite recette de tartelettes au citron. une petite recette 
 
   
   
-**Ingrédients pour 12 tartelettes (ou plutôt 11):**  
+**Liste des Ingrédients pour 12 tartelettes (ou plutôt 11):** 
 - 1 pâte brisée  
 - 2 citrons non traités  
 - 20 g de fécule de maïs  
@@ -46,4 +54,6 @@ En ce dimanche, une petite recette de tartelettes au citron. une petite recette 
   
   
 
-Recette inspirée de "Tartelettes selon vos envies" de Demarle
+
+> Recette inspirée de "Tartelettes selon vos envies" de Demarle
+

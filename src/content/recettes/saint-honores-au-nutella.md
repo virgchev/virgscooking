@@ -1,11 +1,17 @@
 ---
 titre: "Saint Honorés Au Nutella"
 categories: ["Dessert"]
+themes: []
+regimes: []
 date: 2017-03-25
 difficulte: 2
+index_ingredients:
+  - "pâtes à tartiner"
+  - "mascarpone"
+  - "farine"
+  - "œufs"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> pâtes à tartiner ; mascarpone ; farine ; œufs</p>
 
 [![](/images/3b501009ad.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqHLZdy5yubUgjjwpHUM4cXWN3FGlOsggZ5yO12y9qS5lDRSqUuGK62JKr9QcD9_myz1FFH8GjsMjiaEaCprti4_f9AvXc1v9QfgslJ0ALlMBTy3JkBK9ZAUfMDhO4Nf5nAtF-wk3YyVw/s1600/20161221_215215.jpg)
 
@@ -13,7 +19,7 @@ difficulte: 2
 Pour les gourmands et fan de Nutella, voici une recette super facile et un pur délice. Mais attention aux calories 😊  
   
   
-**Ingrédients :**  
+**Liste des ingrédients :**
  - 400g de Nutella ou autres pâtes à tartiner à la noisette et chocolat.  
 - 250g de mascarpone  
 - 100g de farine   

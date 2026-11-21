@@ -1,11 +1,24 @@
 ---
 titre: "Mille-Feuilles au Chocolat et à la Framboise"
 categories: ["Dessert"]
+themes: []
+regimes: []
 date: 2015-02-01
 difficulte: 4
+index_ingredients:
+  - "rouleau de pâte feuilletée"
+  - "sucre semoule"
+  - "sucre glace"
+  - "lait"
+  - "sucre"
+  - "jaunes d’œuf"
+  - "fécule de maïs"
+  - "crème fleurette entière"
+  - "chocolat noir"
+  - "coulis de framboises"
+  - "poudre de beurre de cacao"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> rouleau de pâte feuilletée ; sucre semoule ; sucre glace ; lait ; sucre ; jaunes d’œuf ; fécule de maïs ; crème fleurette entière ; chocolat noir ; coulis de framboises ; poudre de beurre de cacao</p>
 
 [![](/images/df35fd8ea3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaEessGzhqI8b7VjTHmiOXwJ9MtgBupyED4LpsTWPoooNSU1kJKg8UtlKUNo5wz-qzbdpoFV4yZJVwXRvSvxFBW41MhgFYkkR4aM44fLYdiv6HT67LwM4kaGFh3kILVWcc4GWoha9s5pg/s1600/20141219_235807.jpg)
 
@@ -108,4 +121,6 @@ Régalez-vous !!! Vous avez bien méritez de la dégustation à présent 😊
 
   
 
-Recette inspirée du livre Demarle "Plaisir des yeux "
+
+> Recette inspirée du livre Demarle "Plaisir des yeux "
+

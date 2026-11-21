@@ -1,18 +1,24 @@
 ---
 titre: "Petites Momies"
 categories: ["Apéritif", "Halloween"]
+themes: []
+regimes: []
 date: 2014-11-22
 difficulte: 1
+index_ingredients:
+  - "saucisses de strasbourg ou knackis"
+  - "pâte brisée"
+  - "jaune d'œuf"
+  - "peu de tapenade"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> saucisses de strasbourg ou knackis ; pâte brisée ; jaune d'œuf ; peu de tapenade</p>
 
 [![](/images/f02837046e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0PYgsR_lNpY6rQ_YEcGnevJ2r8-B8BbUGYeTVZF3iAicWfQ5pM-NcT-tOJ15kxSJlUYbAJLtMGPz45v8TJw5nPC493P_rrP-wD_0BSnGQ-labW492wZxZ_ujMAVm181Y75bpH3D7_fp0/s1600/20141115_111841.jpg)
 
   
 Voici une autre petite recette à faire pour Halloween ou pour l'apéritif avec effet garanti. Elle est toute simple mais armez-vous de patience car enrubanner ces petits momies demandent un peu de temps. 😊  
   
-**Ingrédients :**  
+**Liste des ingrédients :**
 - 10 saucisses de strasbourg ou knackis  
 - une pâte brisée   
 - 1 jaune d'œuf  

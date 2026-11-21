@@ -1,11 +1,18 @@
 ---
 titre: "Tarte à la Tomate, Moutarde et Petits Artichauts"
 categories: ["Plat"]
+themes: []
+regimes: []
 date: 2014-12-10
 difficulte: 2
+index_ingredients:
+  - "tomates"
+  - "petits artichauts natures"
+  - "moutarde"
+  - "comté râpé"
+  - "pâte feuilletée"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> tomates ; petits artichauts natures ; moutarde ; comté râpé ; pâte feuilletée</p>
 
 [![](/images/3c23a62ee8.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGaNN5EGTMtx_nkYk4Lb2zmZy36keYiPj1_I0LoUHfW6p-5yqqwdwkG2xuvH1nb3yZ6KmHF8AqGcDcFDneF96yh4GwVd8dOjsDqYNW4_4_u1P1mxLdUxJb-vPMYpOduqs8M5k-f3mNmPA/s1600/20141208_125538.jpg)
 
@@ -15,7 +22,7 @@ Voici une recette à réaliser en 10 minutes. Je l'ai faite lundi car j'avais ou
 
   
 
-**Ingrédients:**
+**Liste des ingrédients :**
 
 - Tomates  
 - Petits artichauts natures  

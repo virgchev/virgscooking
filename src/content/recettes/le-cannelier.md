@@ -1,11 +1,31 @@
 ---
 titre: "Le Cannelier"
 categories: ["Dessert"]
+themes: []
+regimes: []
 date: 2018-02-27
 difficulte: 3
+index_ingredients:
+  - "beurre"
+  - "œufs"
+  - "jaunes d’œufs"
+  - "sucre"
+  - "poudre d'amandes"
+  - "sel"
+  - "fécule de maïs"
+  - "spéculoos"
+  - "pommes golden"
+  - "eau"
+  - "miel d'acacia"
+  - "agar-agar"
+  - "gélatine"
+  - "lait"
+  - "bâton de cannelle"
+  - "cannelle en poudre"
+  - "creme fleurette entière à 30%"
+  - "chocolat au lait"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> beurre ; œufs ; jaunes d’œufs ; sucre ; poudre d'amandes ; sel ; fécule de maïs ; spéculoos ; pommes golden ; eau ; miel d'acacia ; agar-agar ; gélatine ; lait ; bâton de cannelle ; cannelle en poudre ; creme fleurette entière à 30% ; chocolat au lait</p>
 
 [![](/images/a514d1db25.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJLFlK9RIeBx7Bx0DWyQwJLp0rJFev2PWfbaHcQ6ylBru36Ooy0MTgXBIMaI55eISnclimcrwxSLHRuRV7O0u04DH_3Okh3ZnBLI-YvEaHK4vaRsuxa72KxeppOYWenZs0_lRTw5UdV_0/s1600/20180224_083752.jpg)
 
@@ -15,7 +35,7 @@ Me voici de retour avec une petite recette de gâteau digne de ce nom pour les f
 
   
   
-**Ingrédients :**  
+**Liste des ingrédients :**
 - 160 g de beurre  
 - 4 œufs  
 - 4 jaunes d’œufs  
@@ -55,4 +75,6 @@ Me voici de retour avec une petite recette de gâteau digne de ce nom pour les f
 
    [![](/images/e35f3ed664.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZRiRopocOku5skuRPfNSBxQx8alcqaXuAkd-ziIxsFUusBB29qurL8_rK4d8zrpJc8TY3xg6zZEyA8q65Yfv1uDR6NCmKx0iRkWmTChfRvriZZNBHvoaUyfrYmdk10RT7YjCiqmsW9j0/s1600/20180224_142535.jpg)
 
-Recette adaptée du livre Demarle "Du relief dans l'assiette"
+
+> Recette adaptée du livre Demarle "Du relief dans l'assiette"
+

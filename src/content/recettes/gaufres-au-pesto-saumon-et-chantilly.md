@@ -1,11 +1,21 @@
 ---
 titre: "Gaufres Au Pesto, Saumon et Chantilly Citronnée"
 categories: ["Plat"]
+themes: []
+regimes: []
 date: 2015-01-01
 difficulte: 2
+index_ingredients:
+  - "farine"
+  - "pesto"
+  - "lait"
+  - "œufs"
+  - "crème fleurette ou liquide entière"
+  - "zeste d'un 1/2 citron"
+  - "sel"
+  - "oeuf de saumon"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> farine ; pesto ; lait ; œufs ; crème fleurette ou liquide entière ; zeste d'un 1/2 citron ; sel ; oeuf de saumon</p>
 
 [![](/images/8dc4537153.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglB-SN4hMHgqTttE46feafs50227Juo4kChCkL65M74EqU_Az-Odqx8lasDEHltSUT_57LpoV0A0P12eHQrTN9BPuB-TP5Cxwj_i71UP0I0QFWMSGiwgcgx2b7syJQQVz3jutMj338uXU/s1600/20141231_231158.jpg)
 
@@ -14,7 +24,7 @@ difficulte: 2
 Voici ma petite recette sur le pouce de réveillon du Jour de l'An. Pourquoi ne pas la faire pour un petit brunch aussi ? 😉. Très rapide à faire et c'est très bon.
 
   
-**Ingrédients :**  
+**Liste des ingrédients :**
 - 125 g de farine  
 - 60 g de pesto  
 - 18 cl de lait  

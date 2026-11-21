@@ -1,0 +1,25 @@
+---
+interface Item { label: string; href?: string }
+const { items } = Astro.props as { items: Item[] };
+---
+<nav class="ariane" aria-label="Fil d'Ariane">
+  <ol>
+    {items.map((it) => (
+      <li>
+        {it.href
+          ? <a href={it.href}>{it.label}</a>
+          : <span aria-current="page">{it.label}</span>}
+      </li>
+    ))}
+  </ol>
+</nav>
+
+<style>
+  .ariane { margin: 0 0 1rem; font: 500 .95rem/1.4 var(--titre); }
+  .ariane ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .4rem; }
+  .ariane li { display: flex; align-items: center; gap: .4rem; }
+  .ariane li + li::before { content: "›"; color: var(--betterave); font-weight: 800; }
+  .ariane a { text-decoration: none; opacity: .75; transition: color .2s, opacity .2s; }
+  .ariane a:hover { color: var(--betterave); opacity: 1; }
+  .ariane [aria-current] { color: var(--curcuma); }
+</style>

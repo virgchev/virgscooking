@@ -1,11 +1,21 @@
 ---
 titre: "Moelleux à la Châtaigne au Coeur de Michoko"
 categories: ["Dessert"]
+themes: []
+regimes: []
 date: 2016-01-25
 difficulte: 2
+index_ingredients:
+  - "farine"
+  - "beurre"
+  - "sucre"
+  - "œufs"
+  - "lait"
+  - "crème fleurette entière"
+  - "levure chimique"
+  - "michokos au chocolat noir"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> farine ; beurre ; sucre ; œufs ; lait ; crème fleurette entière ; levure chimique ; michokos au chocolat noir</p>
 
 [![](/images/57da4fa0a6.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Xza8sQwMP84_fh1baySIX6rPYP2gEMyM74luDsCXhJ_a4jFQNiryZA79u8LJRFbl6z3-lUbWGWbh3Id12zQ6MTRMuetx5PCUMZ-jhyIe5OGZe32_AFKvz-AWEeeWGSo2Up5H0tBD33E/s1600/20150525_220050.jpg)
 
@@ -13,7 +23,7 @@ difficulte: 2
 Aujourd'hui quelques douceurs pour le goûter, c'est une petite recette que nous avons faite la première fois en atelier de cuisine entre copines. Nous l'avions réalisée avec des caramels un peu plus durs mais avec des Michokos c'est beaucoup plus fondant et en prime une petite pointe de chocolat pour les gourmands 😉.  
   
 
-**Ingrédients :**  
+**Liste des ingrédients :**
 - 200 g de farine  
 - 60 g de beurre  
 - 80 g de sucre  
@@ -48,4 +58,6 @@ Aujourd'hui quelques douceurs pour le goûter, c'est une petite recette que nous
 
 Régalez-vous 😊
 
-Recette inspirée du livre chevalet "Petits et Grands Muffins" - Demarle
+
+> Recette inspirée du livre chevalet "Petits et Grands Muffins" - Demarle
+

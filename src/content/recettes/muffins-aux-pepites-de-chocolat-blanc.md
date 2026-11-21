@@ -1,11 +1,22 @@
 ---
 titre: "Muffins aux Pépites de Chocolat Blanc et Cranberries"
 categories: ["Dessert"]
+themes: []
+regimes: []
 date: 2014-11-01
 difficulte: 1
+index_ingredients:
+  - "farine"
+  - "sel"
+  - "levure chimique"
+  - "cassonade"
+  - "œufs"
+  - "beurre"
+  - "lait"
+  - "chocolat blanc"
+  - "cranberries séchées"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> farine ; sel ; levure chimique ; cassonade ; œufs ; beurre ; lait ; chocolat blanc ; cranberries séchées</p>
 
 [![](/images/28fdfc3ed9.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrHa_WIXE7mxuHIg7cbJRVkUq9MS7pS1a1MkFmJCFQK2Q7M_AqNiQgh4RUGzDpFPw5CeaABCz0xr78-6lJvWU5Uyve0EfgRmAEmYzfDVIIPcIFTdqb0DHfk9-SmdVisgvV7RzDRJ9aCM/s1600/20141101_162531.jpg)
 
@@ -14,7 +25,7 @@ difficulte: 1
 Etant invitée pour le goûter, je ne pouvais pas venir sans rien 😉 Je regarde dans mes placards, aucune envie de se casser la tête et de refaire une recette que j'ai déjà faite des dizaines de fois...Et là, qu'est-ce que je trouve dans le placard : des cranberries séchées qui étaient destinées à de futurs cookies mais aucune envie de faire des cookies. En pleine période cupcakes, pourquoi pas des muffins avec pépites au chocolat blanc et des cranberries, ma voisine m'en avait fait une fois...et hop me voilà partie 😊 et 45 min plus tard, voilà un petit goûter qui sort de l'ordinaire...Alors n'hésitez pas, laissez-vous tenter 😊
 
   
-**Ingrédients :**  
+**Liste des ingrédients :**
 - 275 g de farine  
 - 1/2 cuilère à café de sel  
 - 1 sachet de levure chimique  
@@ -42,4 +53,6 @@ Etant invitée pour le goûter, je ne pouvais pas venir sans rien 😉 Je regard
 
 Bon goûter 😊
 
-Recette inspirée de la [Recette de Amanite sur le site de 750g](http://www.750g.com/muffins-aux-cranberries-et-chocolat-blanc-r78635.htm)
+
+> Recette inspirée de la [Recette de Amanite sur le site de 750g](http://www.750g.com/muffins-aux-cranberries-et-chocolat-blanc-r78635.htm)
+

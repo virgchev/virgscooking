@@ -1,11 +1,23 @@
 ---
 titre: "Tiramisu Chocolat Blanc aux Noisettes Caramelisées"
 categories: ["Dessert"]
+themes: []
+regimes: []
 date: 2014-08-21
 difficulte: 2
+index_ingredients:
+  - "chocolat blanc"
+  - "lait"
+  - "oeufs"
+  - "mascarpone"
+  - "biscuits cuillères selon les contenants utilisés pour le service"
+  - "noisettes décortiquées"
+  - "sucre en poudre pour les noisettes + 20 g de sucre pour le sirop"
+  - "eau"
+  - "rhum brun"
+  - "cacao noir en poudre"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> chocolat blanc ; lait ; oeufs ; mascarpone ; biscuits cuillères selon les contenants utilisés pour le service ; noisettes décortiquées ; sucre en poudre pour les noisettes + 20 g de sucre pour le sirop ; eau ; rhum brun ; cacao noir en poudre</p>
 
 [![](/images/f279157861.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9NwAuZmGUJllM3X2x7OE7vEaD8PwD3DzyWE67TnCQH_90IfRXWYDDdk-iU_xyD8-FGPhiC6Jv1MqW9vfpSM5KwZEY3iREn0arAtYhbhyvT6lC_gCn39Em11CIA92ngylA3a7TUfz9cFc/s1600/20140714_143948.jpg)
 
@@ -15,7 +27,7 @@ Voici une recette de tiramisu pour ceux qui n'aiment pas le café 😉. J'ai dé
 
   
   
-**Ingrédients :**  
+**Liste des ingrédients :**
 - 100 g de chocolat blanc  
 - 3 cuillères à soupe de lait  
 - 3 oeufs  
@@ -50,4 +62,6 @@ Voici une recette de tiramisu pour ceux qui n'aiment pas le café 😉. J'ai dé
 
 Régalez-vous 😊
 
-Recette inspirée de la petite bibliothèque du chocolat, Larousse
+
+> Recette inspirée de la petite bibliothèque du chocolat, Larousse
+

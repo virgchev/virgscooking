@@ -1,11 +1,20 @@
 ---
 titre: "Petits Financiers au Thé Vert"
 categories: ["Dessert", "Goûter"]
+themes: []
+regimes: []
 date: 2014-07-13
 difficulte: 1
+index_ingredients:
+  - "beurre salé"
+  - "sucre"
+  - "poudre d'amande"
+  - "œufs"
+  - "farine"
+  - "thé vert Matcha"
+  - "framboises pour la déco"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> beurre salé ; sucre ; poudre d'amande ; œufs ; farine ; thé vert Matcha ; framboises pour la déco</p>
 
 [![](/images/e3a76460de.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz5GLBr4yu2_ZiMNd-IfAFww0Ghe5iU06Q1UTK9VxKA5dbCYg2vEddTy-9iBkbuC4UHoftSrCgydtBkSs-q2-_8eq-csAPYBkRGq8zf-8GDFwFvMPynb9ptJXgMRj0V2tkLsoFPBsSbFM/s1600/20140711_230104.jpg)
 
@@ -13,7 +22,7 @@ difficulte: 1
 Voici une petite recette que j'adore, je l'ai découverte lors d'un atelier Demarle chez moi en début d'année. Le seul souci c'est que dès qu'on en finit un, on a envie d'en reprendre un deuxième et c'est sans fin 😊. Depuis le début de l'année je l'ai faite des dizaines de fois sous forme de muffins, de mini-madeleines, de fingers, vous pouvez faire les formes que vous souhaitez, ici de ce sont des petits dômes savarins. je vous laisse découvrir cette petite recette.  
   
   
-**Ingrédients :**  
+**Liste des ingrédients :**
 - 170 g de beurre salé  
 - 100 g de sucre  
 - 125 g de poudre d'amande  
@@ -56,4 +65,6 @@ Bonne dégustation 😊
 
   
 
-Recette inspirée du livre Demarle "Simplissime"
+
+> Recette inspirée du livre Demarle "Simplissime"
+

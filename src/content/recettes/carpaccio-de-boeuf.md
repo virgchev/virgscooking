@@ -1,18 +1,28 @@
 ---
 titre: "Carpaccio de Boeuf à l'Huile de Noix et Vinaigre Balsamique"
 categories: ["Entrée","Plat"]
+themes: []
+regimes: []
 date: 2014-08-22
 difficulte: 1
+index_ingredients:
+  - "viande de bœuf coupée en tranches fines"
+  - "mesclun ou Roquette pour accompagner"
+  - "parmesan"
+  - "huile de Noix"
+  - "vinaigre Balsamique"
+  - "sel"
+  - "poivre"
+  - "ciboulette"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> viande de bœuf coupée en tranches fines ; mesclun ou Roquette pour accompagner ; parmesan ; huile de Noix ; vinaigre Balsamique ; sel ; poivre ; ciboulette</p>
 
 [![](/images/aeb6e17ef7.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjodrrbTD7thwYkX7TLCJ7GJPon7OBt5OWK1W73o2qSMPohgaRmeLXumD9jsS_Fev0Cf1Jg529T2VGTYB6L2mlaIZXxqY9Hj_R5fCFNs9H7x6X4kKF2dsM5KPagHfueMD3PSUFavEAW-rI/s1600/20140819_214507.jpg)
 
   
 Voici un petit plat rapide, enfin si votre viande est déjà coupée 😊. Depuis quelques mois, je raffole de ce plat et pourtant pendant des années, je mangeais ma viande de bœuf façon semelle 😃. Après avoir goûter des carpaccios de bœuf dans plusieurs restaurants, pourquoi ne pas essayer à la maison 😉. Ce n'est pas de la grande cuisine mais c'est délicieux pour peu que vous aimez la viande crue 😊.   
   
-**Ingrédients :**  
+**Liste des ingrédients :**
 - 200 g de viande de bœuf coupée en tranches fines  
 - Mesclun ou Roquette pour accompagner  
 - Parmesan  

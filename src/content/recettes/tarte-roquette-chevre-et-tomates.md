@@ -1,11 +1,20 @@
 ---
 titre: "Tarte Roquette, Chèvre et Tomates"
 categories: ["Plat"]
+themes: []
+regimes: []
 date: 2014-05-31
 difficulte: 2
+index_ingredients:
+  - "pâte brisée"
+  - "roquette préalablement lavée si elle vient de votre jardin 😉"
+  - "œufs"
+  - "crème fleurette à 12%"
+  - "fromage de chèvre frais"
+  - "tomates ou plus selon votre goût"
+  - "sel"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> pâte brisée ; roquette préalablement lavée si elle vient de votre jardin 😉 ; œufs ; crème fleurette à 12% ; fromage de chèvre frais ; tomates ou plus selon votre goût ; sel</p>
 
 [![](/images/ca6595b83e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaaYHoBY-zrQtcoJff_4heebh3Yrg_ZIkMc_svJJLzKTcN5jeKuvj64ZLTxandJlKuKKXO7vrozq9vhGIS9IByRAoOGdTwR_Fxbtr4ePMh2bWXyWOox9GSLctQpKYpkmySqgaEd8iW3ZQ/s1600/20140530_131024.jpg)
 
@@ -14,7 +23,7 @@ difficulte: 2
 Ma roquette poussant à vue d’œil sur mon balcon, il faut bien trouver une recette qui permettra de la couper un peu et d'apprécier son goût.  
   
   
-**Ingrédients :**  
+**Liste des ingrédients :**
 - 1 pâte brisée  
 - 100 g de roquette préalablement lavée si elle vient de votre jardin 😉  
 - 3 œufs  

@@ -2,6 +2,8 @@
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import Difficulte from '../components/Difficulte.astro';
+import CategoryTiles from "../components/CategoryTiles.astro";
+import { premiereImage } from '../utils/recettes';
 
 const recettes = (await getCollection('recettes')).sort(
   (a, b) => b.data.date.getTime() - a.data.date.getTime()
@@ -13,7 +15,10 @@ const texteDe = (r) =>
     [
       r.data.titre,
       r.data.categories.join(' '),
+      r.data.themes.join(' '),
+r.data.regimes.join(' '),
       r.data.ingredients.map((i) => i.nom).join(' '),
+      r.data.index_ingredients.join(' '), 
       (r.body ?? '')
         .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
         .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
@@ -22,7 +27,8 @@ const texteDe = (r) =>
   );
 ---
 <Base>
-  <h1>La carte</h1>
+  <h1>Toutes les recettes</h1>
+  <CategoryTiles />
 
   <label class="recherche">
   <span class="sr">Chercher une recette</span>
@@ -35,44 +41,131 @@ const texteDe = (r) =>
   <p id="vide" hidden>Aucune recette trouvée.</p>
 
   <ul class="carte">
-    {recettes.map((r) => (
-      <li data-texte={texteDe(r)}>
+   {recettes.map((r) => {
+  const img = premiereImage(r);
+  return (
+    <li data-texte={texteDe(r)}>
+      <a class="vignette" href={`/recettes/${r.id}/`} tabindex="-1" aria-hidden="true">
+        {img ? <img src={img} alt="" loading="lazy" /> : <span class="sans-photo">🍽️</span>}
+      </a>
+      <div class="contenu">
         <a href={`/recettes/${r.id}/`}>
           <span class="nom">{r.data.titre}</span>
           <span class="fil" aria-hidden="true"></span>
           {r.data.minutes && <span class="tps">{r.data.minutes} min</span>}
         </a>
         <small>
-  {r.data.categories?.join(' · ')}
-
-  {r.data.categories?.length > 0 && r.data.difficulte && (
-    <span class="sep" aria-hidden="true">·</span>
-  )}
-
-  {r.data.difficulte && (
-    <Difficulte niveau={r.data.difficulte} />
-  )}
-</small>
-
-      </li>
-    ))}
-  </ul>
+          {r.data.categories?.join(' · ')}
+          {r.data.categories?.length > 0 && r.data.difficulte && (
+            <span class="sep" aria-hidden="true">·</span>
+          )}
+          {r.data.difficulte && <Difficulte niveau={r.data.difficulte} />}
+        </small>
+      </div>
+    </li>
+  );
+})}
+  </ul><nav id="pager" class="pager" aria-label="Pagination" hidden>
+  <button id="prec" type="button">← Précédent</button>
+  <span id="info"></span>
+  <button id="suiv" type="button">Suivant →</button>
+</nav>
 
   <script>
-    const norm = (s: string) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
-    const champ = document.getElementById('q') as HTMLInputElement;
-    const vide = document.getElementById('vide') as HTMLElement;
-    const items = [...document.querySelectorAll<HTMLElement>('.carte li')];
+  const PAR_PAGE = 10;
 
-    champ.addEventListener('input', () => {
-      const mots = norm(champ.value).split(/\s+/).filter(Boolean);
-      let trouves = 0;
-      items.forEach((li) => {
-        const ok = mots.every((m) => (li.dataset.texte ?? '').includes(m));
-        li.hidden = !ok;
-        if (ok) trouves++;
-      });
-      vide.hidden = trouves > 0;
-    });
-  </script>
+  const norm = (s: string) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+  const champ = document.getElementById('q') as HTMLInputElement;
+  const vide = document.getElementById('vide') as HTMLElement;
+  const pager = document.getElementById('pager') as HTMLElement;
+  const prec = document.getElementById('prec') as HTMLButtonElement;
+  const suiv = document.getElementById('suiv') as HTMLButtonElement;
+  const info = document.getElementById('info') as HTMLElement;
+  const liste = document.querySelector('.carte') as HTMLElement;
+  const items = [...document.querySelectorAll<HTMLElement>('.carte li')];
+
+  let filtres = items;
+  let page = 1;
+
+  function afficher() {
+    const total = Math.max(1, Math.ceil(filtres.length / PAR_PAGE));
+    page = Math.min(page, total);
+
+    items.forEach((li) => (li.hidden = true));
+    filtres.slice((page - 1) * PAR_PAGE, page * PAR_PAGE).forEach((li) => (li.hidden = false));
+
+    vide.hidden = filtres.length > 0;
+    pager.hidden = total <= 1;
+    prec.disabled = page === 1;
+    suiv.disabled = page === total;
+    info.textContent = `Page ${page} / ${total}`;
+  }
+
+  champ.addEventListener('input', () => {
+    const mots = norm(champ.value).split(/\s+/).filter(Boolean);
+    filtres = items.filter((li) => mots.every((m) => (li.dataset.texte ?? '').includes(m)));
+    page = 1;
+    afficher();
+  });
+
+  prec.addEventListener('click', () => { page--; afficher(); liste.scrollIntoView({ behavior: 'smooth' }); });
+  suiv.addEventListener('click', () => { page++; afficher(); liste.scrollIntoView({ behavior: 'smooth' }); });
+
+  afficher();
+</script>
 </Base>
+<style>
+  .carte li { display: flex; align-items: center; gap: 1.2rem; }
+  .carte li[hidden] { display: none; }
+  .contenu { flex: 1; min-width: 0; }
+
+  .vignette {
+    flex: none;
+    width: 5.5rem;
+    padding: .3rem .3rem 1rem;
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, .45);
+    transform: rotate(-3deg);
+    transition: transform .2s ease;
+  }
+  .carte li:nth-child(even) .vignette { transform: rotate(2.5deg); }
+  .carte li:hover .vignette { transform: rotate(0) scale(1.05); }
+  .vignette img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+  }
+  .sans-photo {
+    display: grid;
+    place-items: center;
+    aspect-ratio: 1;
+    background: #ddd;
+    font-size: 1.6rem;
+  }
+  @media (prefers-reduced-motion: reduce) { .vignette { transition: none; } }
+
+  .pager {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin: 2rem 0 0;
+    font-family: var(--titre);
+  }
+  .pager[hidden] { display: none; }
+  .pager button {
+    background: var(--surface);
+    color: var(--encre);
+    border: 1px solid rgba(245, 241, 232, .25);
+    border-radius: 999px;
+    padding: .45rem 1rem;
+    font: 500 1rem var(--titre);
+    cursor: pointer;
+    transition: border-color .2s, color .2s;
+  }
+  .pager button:hover:not(:disabled) { border-color: var(--betterave); color: var(--betterave); }
+  .pager button:disabled { opacity: .35; cursor: default; }
+  #info { opacity: .75; font-size: .95rem; }
+</style>

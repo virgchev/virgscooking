@@ -1,11 +1,18 @@
 ---
 titre: "Feuilletés Au Roquefort"
 categories: ["Apéritif"]
+themes: []
+regimes: []
 date: 2016-01-30
 difficulte: 1
+index_ingredients:
+  - "roquefort"
+  - "crème entière semi-épaisse"
+  - "poivre"
+  - "rouleau de Pâte Feuilletée"
+  - "œuf"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> roquefort ; crème entière semi-épaisse ; poivre ; rouleau de Pâte Feuilletée ; œuf</p>
 
 [![](/images/9f63eb46ba.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy8aaxVqHTgBtqwytN3xvW-biOYWJ31uFibT5v2g3xLXqwDgwaAWT67OBFfnwcfT008E7jZOgqZPCA_EwPDV4isQhYoT-RVJrFyNrI7naqqPRV0dfnoscA_2W1bKQxdCQYqKsNkqQLOc4/s1600/20160130_203218.jpg)
 
@@ -14,7 +21,7 @@ difficulte: 1
 En panne d'inspiration ce soir pour le dîner, j'ai trouvé un morceau de roquefort et une pâte feuilletée et hop, c'était parti. Je me suis un peu amusée pour la déco en utilisant enfin un de mes ustensiles insolites que je n'avais pas encore testé 😉. Il faut bien sûr que vous aimiez le roquefort, moi j'adore 😊. C'est tout simplement délicieux avec une petite salade. Pour plus de craquant, vous pouvez ajouter des noix ou des pignons de pin.
 
   
-**Ingrédients :**  
+**Liste des ingrédients :**
 - 75 g de Roquefort  
 - 10 cl de crème entière semi-épaisse  
 - Poivre  

@@ -1,11 +1,18 @@
 ---
 titre: "Fondants au Chocolat à la Crème de Marrons"
 categories: ["Dessert", "Goûter"]
+themes: []
+regimes: []
 date: 2015-06-19
 difficulte: 1
+index_ingredients:
+  - "œufs"
+  - "chocolat noir"
+  - "beurre"
+  - "crème de marrons"
+  - "rase de farine"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> œufs ; chocolat noir ; beurre ; crème de marrons ; rase de farine</p>
 
 [![](/images/354eca1ea3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQPGSLwWYm-SC4Q-jarSQAx0fuOmAhPrlHBhPjwRyMuFnHb0xP7rwyl_nLDJDRQJpzVel7IniWDNAzjlFstGSv9bMNp_yUpYEa4RWRySP_HKSlVHJxKsPwLoOUGMFIcreae_vAqgptXAI/s1600/20150525_220114.jpg)
 
@@ -14,7 +21,7 @@ Pour le goûter, ça vous dit des fondants au chocolat à la crème de marrons. 
   
   
 
-**Ingrédients :**
+**Liste des ingrédients :**
 
   
 
@@ -44,4 +51,6 @@ Pour le goûter, ça vous dit des fondants au chocolat à la crème de marrons. 
 
   
 
-Recette inspirée d'une amie Angélique dont voici le blog : http://figueetolive.overblog.com/
+
+> Recette inspirée d'une amie Angélique dont voici le blog : http://figueetolive.overblog.com/
+

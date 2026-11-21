@@ -1,11 +1,16 @@
 ---
 titre: "Bouchées coco"
 categories: ["Dessert","Goûter"]
+themes: []
+regimes: ["Sans Gluten"]
 date: 2014-06-07
 difficulte: 1
+index_ingredients:
+  - "noix de coco"
+  - "blancs d'oeufs"
+  - "sucre"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> noix de coco râpée ; blancs d'oeufs ; sucre</p>
 
 [![](/images/0969330068.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG9zDCVI5Pi0ZoMZAHc-RxzB6MAuyf_ZzAAl4NLVJVm76qtk7XCew2UbQC9lalXM4Kqtj-7gCVhseDWbKc1fZolrx2GIwgl8oEmhzEEml5L6n3m1KBepfHzmQkMe-kEfIND9yXU5BvjNg/s1600/20140515_125148.jpg)
 
@@ -14,7 +19,7 @@ difficulte: 1
 Il vous reste des blancs d'oeufs dont vous ne savez que faire. Voici une recette simple et rapide pour peu que vous aimiez la noix de coco bien sûr 😉.  
   
   
-Ingrédients:  
+**Liste des ingrédients :**
 - 140 g de noix de coco râpée  
 - 2 blancs d'oeufs  
 - 100 g de sucre  

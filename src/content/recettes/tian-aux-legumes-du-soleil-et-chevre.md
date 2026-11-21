@@ -1,11 +1,23 @@
 ---
 titre: "Tian aux Légumes du Soleil et Chèvre façon Elodie"
 categories: ["Plat"]
+themes: []
+regimes: []
 date: 2015-06-16
 difficulte: 2
+index_ingredients:
+  - "aubergine"
+  - "petite courgette"
+  - "tomates"
+  - "parmesan râpé"
+  - "chèvre frais"
+  - "ail"
+  - "gros oignon"
+  - "huile d'olive"
+  - "sel"
+  - "poivre"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> aubergine ; petite courgette ; tomates ; parmesan râpé ; chèvre frais ; ail ; gros oignon ; huile d'olive ; sel ; poivre</p>
 
 [![](/images/f304527853.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwG6zzG-MWYzXoQa05Yrc4LqQJXd5z5EyL2F4QCEZf8NT715oNUnpYH_W7h6eIOSzSImGaSgKTZXxToRjsrwJjSyaF3jvzepUkPjKsj3KdHIwvyafKB2Km9tyAGThzTeriEnAzLyZv3UM/s1600/20150514_142003.jpg)
 
@@ -14,7 +26,7 @@ difficulte: 2
 
 Me revoilà avec une recette que j'adore. Il s'agit de la recette familiale du tian de mon amie Elodie qu'elle m'a fait découvrir le jour de mon anniversaire l'année dernière : un vrai délice. C'est celui que je trouve le plus savoureux, les légumes fondants et la présentation est très belle. Le petit truc en plus : du fromage de chèvre frais 😉 et un plat à terrine pour la cuisson au four. Une petite dédicace à Elodie et sa maman pour cette merveilleuse recette que je n'arrête pas de refaire.
 
-**Ingrédients :**  
+**Liste des ingrédients :**
 
 - 1 kg d'Aubergine
 

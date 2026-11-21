@@ -1,11 +1,19 @@
 ---
 titre: "Salade Lyonnaise Légèrement Revisitée"
 categories: ["Entrée", "Plat"]
+themes: []
+regimes: []
 date: 2014-06-13
 difficulte: 1
+index_ingredients:
+  - "salade verte"
+  - "copeaux de parmesan ou vous les faites vous même avec un économe/épluche-légume"
+  - "petites pommes de terre"
+  - "lardons ou allumettes"
+  - "huile  pour ma part c'est huile d'olive ou huile d'amande"
+  - "vinaigre"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> salade verte ; copeaux de parmesan ou vous les faites vous même avec un économe/épluche-légume ; petites pommes de terre ; lardons ou allumettes ; huile  pour ma part c'est huile d'olive ou huile d'amande ; vinaigre</p>
 
 [![](/images/0968f7c57e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKVKD3UhS7wyKu50dXReiPTKwCWhcdQ7cd35EI1Vu5OohvzyOZu4XQVgPPavApTswjuufLC61hK4F0aIT0P7iqYfCEI9m3apKHu41CFlsjWWb07y09Luqr6A6K344Ncia_bZncPji2Oo0/s1600/20140612_212014.jpg)
 

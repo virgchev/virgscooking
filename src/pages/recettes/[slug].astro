@@ -2,6 +2,8 @@
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Difficulte from '../../components/Difficulte.astro';
+import FilAriane from '../../components/FilAriane.astro';
+import { slugify } from '../../utils/recettes';
 
 export async function getStaticPaths() {
   const recettes = await getCollection('recettes');
@@ -10,13 +12,41 @@ export async function getStaticPaths() {
 const { r } = Astro.props;
 const { Content } = await render(r);
 const d = r.data;
+
+const accord = (n: number, mot: string) => (n > 1 ? `${mot}s` : mot);
+
+// Une recette peut avoir plusieurs catégories : on prend la première pour le chemin
+const cat = d.categories[0];
 ---
 <Base titre={`${d.titre} – Virg's Cooking`}>
   <article>
-    <h1>{d.titre}</h1>
-    {d.difficulte && <p class="meta"><Difficulte niveau={d.difficulte} /></p>}
-    <p class="meta">{d.categories.join(' · ')}{d.minutes ? `, ${d.minutes} min` : ''}</p>
+    <FilAriane items={[
+      { label: 'Accueil', href: '/' },
+      { label: cat, href: `/categorie/${slugify(cat)}/` },
+      { label: d.titre },
+    ]} />
 
+    <h1>{d.titre}</h1>
+
+    <div class="infos">
+      <p class="meta">
+        <span class="etiquette">{accord(d.categories.length, 'Catégorie')} :</span> {d.categories.join(' · ')}
+      </p>
+      {d.themes.length > 0 && (
+        <p class="meta">
+          <span class="etiquette">{accord(d.themes.length, 'Thème')} :</span> {d.themes.join(' · ')}
+        </p>
+      )}
+      {d.regimes.length > 0 && (
+        <p class="meta">
+          <span class="etiquette">{accord(d.regimes.length, 'Régime')} :</span> {d.regimes.join(' · ')}
+        </p>
+      )}
+      {d.minutes && (
+        <p class="meta"><span class="etiquette">Temps :</span> {d.minutes} min</p>
+      )}
+      {d.difficulte && <p class="meta"><Difficulte niveau={d.difficulte} /></p>}
+    </div>
     {d.ingredients.length > 0 && (
     <section class="ingredients">
       <label>Pour
@@ -35,17 +65,38 @@ const d = r.data;
     </section>
     )}
 
+    {d.index_ingredients.length > 0 && (
+      <p class="index-ingredients">
+        <strong>Ingrédients clés :</strong> {d.index_ingredients.join(' ; ')}
+      </p>
+    )}
+
     <section class="etapes"><Content /></section>
   </article>
 
   <script>
-    const input = document.getElementById('portions') as HTMLInputElement;
-    const base = Number(input.dataset.base);
-    input.addEventListener('input', () => {
-      const f = Number(input.value) / base;
-      document.querySelectorAll<HTMLElement>('[data-qte]').forEach((el) => {
-        el.textContent = String(Math.round(Number(el.dataset.qte) * f * 100) / 100);
+    const input = document.getElementById('portions') as HTMLInputElement | null;
+    if (input) {
+      const base = Number(input.dataset.base);
+      input.addEventListener('input', () => {
+        const f = Number(input.value) / base;
+        document.querySelectorAll<HTMLElement>('[data-qte]').forEach((el) => {
+          el.textContent = String(Math.round(Number(el.dataset.qte) * f * 100) / 100);
+        });
       });
-    });
+    }
   </script>
 </Base>
+
+<style>
+  h1 { margin-bottom: 2rem; }
+  .infos { margin-bottom: .6rem; }
+.infos .meta:last-child { margin-bottom: 0; }
+  .infos .meta { margin: 0 0 .4rem; opacity: 1; color: rgba(245, 241, 232, .8); }
+  .etiquette {
+    font-family: var(--titre);
+    font-style: normal;
+    font-weight: 800;
+    color: var(--betterave);
+  }
+</style>

@@ -1,11 +1,19 @@
 ---
 titre: "Petits Pains Aux Graines"
 categories: ["Pain"]
+themes: []
+regimes: []
 date: 2014-12-28
 difficulte: 2
+index_ingredients:
+  - "farine à pain"
+  - "levure boulangère"
+  - "sel"
+  - "huile"
+  - "eau tiède"
+  - "graines de pavot"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> farine à pain ; levure boulangère ; sel ; huile ; eau tiède ; graines de pavot</p>
 
 [![](/images/6aa7e2be98.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi65Kwo4QQ5CwRjaEPme2oPPVoscm1VC2SeB86HzjgCxHP60yncdtMCEJunI-wVg-CaBfeU2uvRej_7C1O1znBATk6-PuKHPuE_k18j9xUp4MtH8cyr5bkp-lo6XV2iOIuXSv50p2SjE1Y/s1600/20141227_213757.jpg)
 
@@ -15,7 +23,7 @@ Plus de pain à la maison un soir, mais du bon fromage que faire ? Faire ses pet
 
   
 
-**Ingrédients :**  
+**Liste des ingrédients :**
 - 500 g de farine à pain  
 - 2 sachets de levure boulangère  
 - 1 cuillère à café de sel  

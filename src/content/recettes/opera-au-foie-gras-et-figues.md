@@ -1,11 +1,28 @@
 ---
 titre: "Opéra au Foie Gras et Figues"
 categories: ["Entrée"]
+themes: []
+regimes: []
 date: 2014-12-20
 difficulte: 4
+index_ingredients:
+  - "bloc de foie gras"
+  - "crème fleurette à 30% MG"
+  - "figues fraîches ou décongelées"
+  - "poudre d'amande"
+  - "sucre glace"
+  - "farine"
+  - "généreuse de mélange à pain d'épices"
+  - "fécule de Maïs"
+  - "œufs"
+  - "blancs d’œufs"
+  - "sucre en poudre"
+  - "sel fin"
+  - "beurre"
+  - "figues fraîche"
+  - "confit de figue"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> bloc de foie gras ; crème fleurette à 30% MG ; figues fraîches ou décongelées ; poudre d'amande ; sucre glace ; farine ; généreuse de mélange à pain d'épices ; fécule de Maïs ; œufs ; blancs d’œufs ; sucre en poudre ; sel fin ; beurre ; figues fraîche ; confit de figue</p>
 
 [![](/images/3c5b1d5e92.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj3Wgx2h2R4DkqmOR-4F7Sz781_Msb8DGfZ0ZlbfcTTlzE21a_SiaMqJjfhz2Iwd-p1CwTYVebffocRuybzSPRCgvjwWeR0Ykd8SjRWaYxU5TPUuD4PTdbaSG7iUkKkI_DWjTDDJEE4Rk/s1600/2014-12-19+19.59.13.jpg)
 
@@ -13,7 +30,7 @@ difficulte: 4
 
 Et oui c'est bientôt Noël, ce n'est peut-être pas un opéra classique que vous servirez en dessert pour Noël cette année mais un opéra au foie gras en entrée 😊.  cela changera de la traditionnelle terrine que l'on prépare habituellement pour nos fêtes de fin d'année et vous impressionnerez vos convives. J'ai fait cette recette pour ma soirée jeu mensuelle avec mes amis. J'adore le foie gras et je voulais changer un peu et tester cette nouvelle recette. On a adoré ! 😊
 
-**Ingrédients :**  
+**Liste des ingrédients :**
 ***Mousse de foie gras***  
 - 300 g de bloc de foie gras  
 - 250 g de crème fleurette à 30% MG  
@@ -83,4 +100,6 @@ Et oui c'est bientôt Noël, ce n'est peut-être pas un opéra classique que vou
   
 9. Vous pouvez servir cet opéra avec une salade de mesclun et un petit pot de confit de figue à côté pour en rajouter dessus au moment de la dégustation. Vous pouvez aussi faire griller légèrement des tranches de pain d'épices pour mettre en décoration ou servir avec (une idée de mon ami Fabrice 😊. C'est très bon avec de la crème de balsamique aussi. Faites marcher votre imagination 😊
 
-Recette inspirée du livre Demarle "Le traiteur, c'est moi !"
+
+> Recette inspirée du livre Demarle "Le traiteur, c'est moi !"
+

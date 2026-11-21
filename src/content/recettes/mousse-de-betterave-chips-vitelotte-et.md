@@ -1,11 +1,20 @@
 ---
 titre: "Mousse de Betterave, Chips Vitelotte et Copeaux de Parmesan"
 categories: ["Entrée"]
+themes: []
+regimes: []
 date: 2014-06-02
 difficulte: 2
+index_ingredients:
+  - "betteraves cuites"
+  - "fromage blanc"
+  - "vinaigre balsamique"
+  - "chips Vitelotte"
+  - "copeaux de Parmesan"
+  - "crème fraîche épaisse"
+  - "graines de pavot pour la décoration"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> betteraves cuites ; fromage blanc ; vinaigre balsamique ; chips Vitelotte ; copeaux de Parmesan ; crème fraîche épaisse ; graines de pavot pour la décoration</p>
 
 [![](/images/77994bdc0a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6Sjt1j8V5bW0q8ckFTjRDcqLfvdMJam6CXH4rItxae6txf7H3RoURxubAgqH_U0Q2Ij-gQMQGoyf51dxjFki3wpoN0uj0816nONe1V9yrB0FPL3IeuQPo-TBqFz6t6qu4yxj8BEU6Few/s1600/Mousse+de+Betterave.jpg)
 
@@ -13,7 +22,7 @@ difficulte: 2
 Envie d'une petite recette pour l'apéritif toute en fraîcheur et en couleurs 😊  
   
   
-Ingrédients :  
+**Liste des ingrédients :**
 - 500 g de betteraves cuites  
 - 500 g de fromage blanc  
 - 2 cuillères à soupe de vinaigre balsamique  

@@ -1,0 +1,198 @@
+---
+import { getCollection } from "astro:content";
+import Base from "../../layouts/Base.astro";
+import Difficulte from "../../components/Difficulte.astro";
+import { getCategories, premiereImage, slugify } from "../../utils/recettes";
+import FilAriane from "../../components/FilAriane.astro";
+
+export async function getStaticPaths() {
+  const cats = await getCategories();
+  const toutes = await getCollection("recettes");
+  return cats.map((c) => ({
+    params: { slug: c.slug },
+    props: {
+      nom: c.nom,
+      recettes: toutes
+        .filter((r) => r.data.categories.some((n) => slugify(n) === c.slug))
+        .sort((a, b) => b.data.date.getTime() - a.data.date.getTime()),
+    },
+  }));
+}
+const { nom, recettes } = Astro.props;
+
+// Même texte de recherche que sur l'accueil
+const norm = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+const texteDe = (r) =>
+  norm(
+    [
+      r.data.titre,
+      r.data.categories.join(" "),
+      r.data.themes.join(' '),
+r.data.regimes.join(' '),
+      r.data.ingredients.map((i) => i.nom).join(" "),
+      r.data.index_ingredients.join(' '), 
+      (r.body ?? "")
+        .replace(/!\[[^\]]*\]\([^)]*\)/g, " ")
+        .replace(/\[([^\]]*)\]\([^)]*\)/g, "$1")
+        .slice(0, 4000),
+    ].join(" ")
+  );
+---
+<Base>
+<FilAriane items={[{ label: "Accueil", href: "/" }, { label: nom }]} />
+  <h1 class="titre-categorie">{nom}</h1>
+
+  <label class="recherche">
+    <span class="sr">Chercher une recette</span>
+    <svg class="loupe" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+      <circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2" />
+      <line x1="15.5" y1="15.5" x2="21" y2="21" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+    </svg>
+    <input id="q" type="search" placeholder="Une recette, un ingrédient…" autocomplete="off" />
+  </label>
+  <p id="vide" hidden>Aucune recette trouvée.</p>
+
+  <div class="cards">
+    {recettes.map((r) => {
+      const img = premiereImage(r);
+      return (
+        <a class="card" href={`/recettes/${r.id}/`} data-texte={texteDe(r)}>
+          {img ? <img src={img} alt={r.data.titre} loading="lazy" /> : <div class="noimg">🍽️</div>}
+          <div class="body">
+            {r.data.difficulte && <Difficulte niveau={r.data.difficulte} />}
+            <h2>{r.data.titre}</h2>
+          </div>
+        </a>
+      );
+    })}
+  </div>
+
+  <nav id="pager" class="pager" aria-label="Pagination" hidden>
+    <button id="prec" type="button">← Précédent</button>
+    <span id="info"></span>
+    <button id="suiv" type="button">Suivant →</button>
+  </nav>
+
+  <script>
+    const PAR_PAGE = 12;
+
+    const norm = (s: string) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    const champ = document.getElementById('q') as HTMLInputElement;
+    const vide = document.getElementById('vide') as HTMLElement;
+    const pager = document.getElementById('pager') as HTMLElement;
+    const prec = document.getElementById('prec') as HTMLButtonElement;
+    const suiv = document.getElementById('suiv') as HTMLButtonElement;
+    const info = document.getElementById('info') as HTMLElement;
+    const liste = document.querySelector('.cards') as HTMLElement;
+    const cards = [...document.querySelectorAll<HTMLElement>('.cards .card')];
+
+    let filtres = cards;
+    let page = 1;
+
+    function afficher() {
+      const total = Math.max(1, Math.ceil(filtres.length / PAR_PAGE));
+      page = Math.min(page, total);
+
+      cards.forEach((c) => (c.hidden = true));
+      filtres.slice((page - 1) * PAR_PAGE, page * PAR_PAGE).forEach((c) => (c.hidden = false));
+
+      vide.hidden = filtres.length > 0;
+      pager.hidden = total <= 1;
+      prec.disabled = page === 1;
+      suiv.disabled = page === total;
+      info.textContent = `Page ${page} / ${total}`;
+    }
+
+    champ.addEventListener('input', () => {
+      const mots = norm(champ.value).split(/\s+/).filter(Boolean);
+      filtres = cards.filter((c) => mots.every((m) => (c.dataset.texte ?? '').includes(m)));
+      page = 1;
+      afficher();
+    });
+
+    prec.addEventListener('click', () => { page--; afficher(); liste.scrollIntoView({ behavior: 'smooth' }); });
+    suiv.addEventListener('click', () => { page++; afficher(); liste.scrollIntoView({ behavior: 'smooth' }); });
+
+    afficher();
+  </script>
+</Base>
+
+<style>
+  .titre-categorie {
+    font-size: clamp(1.8rem, 5vw, 2.6rem);
+    color: var(--curcuma);
+    margin: 1.5rem 0 2.5rem;
+  }
+  .recherche { margin-bottom: 2rem; }
+  #vide { text-align: center; opacity: .75; }
+
+  /* Cards polaroid */
+  .cards {
+    display: grid;
+    gap: 2rem 1.6rem;
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    padding: .5rem;
+  }
+  .card {
+    display: block;
+    padding: .7rem .7rem 1rem;
+    background: #fff;
+    color: #1a1a1a;
+    text-decoration: none;
+    border-radius: 2px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, .5);
+    transform: rotate(-1.5deg);
+    transition: transform .2s ease, box-shadow .2s ease;
+  }
+  .card:nth-child(even) { transform: rotate(1.3deg); }
+  .card[hidden] { display: none; }
+  .card:hover {
+    transform: rotate(0) scale(1.03);
+    box-shadow: 0 10px 26px rgba(0, 0, 0, .6);
+  }
+  .card img, .noimg {
+    display: block;
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+  }
+  .noimg {
+    display: grid;
+    place-items: center;
+    font-size: 3rem;
+    background: #ddd;
+  }
+  .body { padding: .8rem .2rem 0; text-align: center; }
+  .body h2 {
+    margin: .4rem 0 0;
+    font: 800 1.1rem/1.25 var(--titre);
+    color: #1a1a1a;
+  }
+  .card:hover .body h2 { color: var(--betterave); }
+  .card :global(.niveau) { color: #333; opacity: .85; }
+  @media (prefers-reduced-motion: reduce) { .card { transition: none; } }
+
+  /* Pagination */
+  .pager {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin: 2rem 0 0;
+    font-family: var(--titre);
+  }
+  .pager[hidden] { display: none; }
+  .pager button {
+    background: var(--surface);
+    color: var(--encre);
+    border: 1px solid rgba(245, 241, 232, .25);
+    border-radius: 999px;
+    padding: .45rem 1rem;
+    font: 500 1rem var(--titre);
+    cursor: pointer;
+    transition: border-color .2s, color .2s;
+  }
+  .pager button:hover:not(:disabled) { border-color: var(--betterave); color: var(--betterave); }
+  .pager button:disabled { opacity: .35; cursor: default; }
+  #info { opacity: .75; font-size: .95rem; }
+</style>

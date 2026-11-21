@@ -1,11 +1,22 @@
 ---
 titre: "Pancakes au Sirop d'Erable"
 categories: ["Brunch", "Dessert"]
+themes: []
+regimes: []
 date: 2014-06-15
 difficulte: 1
+index_ingredients:
+  - "farine"
+  - "levure chimique"
+  - "sucre"
+  - "beurre"
+  - "lait"
+  - "œuf"
+  - "sel"
+  - "peu d'huile pour la cuisson"
+  - "sirop d'érable"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> farine ; levure chimique ; sucre ; beurre ; lait ; œuf ; sel ; peu d'huile pour la cuisson ; sirop d'érable</p>
 
 [![](/images/8092a5ed3d.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioCXQ-BjHL0AZXTE0Sly1zsUuCsX0xBJKHL4kmNNqFPt9oxQrV6O5BkjFs4k5xWMl0sSWHKGt4hVc_qIhPGz8NlzcqKc9fl5PsXh0farTT_SY4mZeD2d4FHvW2OMmh6B8bhoH6AKKOJZA/s1600/20140615_115459.jpg)
 
@@ -16,7 +27,7 @@ En ce dimanche, pourquoi pas un petit brunch avec des pancakes au sirop d'érabl
   
   
 
-**Ingrédients :**
+**Liste des ingrédients :**
 
 - 120 g de farine
 

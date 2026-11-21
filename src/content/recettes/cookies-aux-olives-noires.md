@@ -1,11 +1,22 @@
 ---
 titre: "Cookies aux Olives Noires"
 categories: ["Apéritif"]
+themes: []
+regimes: []
 date: 2014-11-25
 difficulte: 1
+index_ingredients:
+  - "beurre pommade"
+  - "sucre"
+  - "œuf"
+  - "farine"
+  - "rase de levure chimique"
+  - "sel"
+  - "olives noires dénoyautées"
+  - "huile d’olive"
+  - "tapenade"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> beurre pommade ; sucre ; œuf ; farine ; rase de levure chimique ; sel ; olives noires dénoyautées ; huile d’olive ; tapenade</p>
 
 [![](/images/a8accf5f93.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_D92yvXPzvSEAYUGGVo0FgYrkePAXlP0oneC-0ppH0_xEXnS4mYtm_L0dltz4AgLPg6sykUjE-KLijx6YHmop5uGZMNJLLIMSQfQQQmzNMHKbD4uvwdzhKZqwdSo9RnGN1jPtPnE2I_0/s1600/20141115_184853.jpg)
 
@@ -15,7 +26,7 @@ difficulte: 1
 Voici une petite recette originale de cookies salés à déguster pour l'apéritif. On peut imaginer ajouter du parmesan, des tomates confites ou des petites graines diverses (sésame, pignons de pin, graines de lin...) ou tout ce qui vous passe par la tête 😉.
 
   
-**Ingrédients :**  
+**Liste des ingrédients :**
 - 125 g de beurre pommade  
 - 30 g de sucre  
 - 1 œuf  
@@ -36,4 +47,6 @@ Voici une petite recette originale de cookies salés à déguster pour l'apérit
 
   
 
-Recette inspirée du livre Demarle "Délices en Relief"
+
+> Recette inspirée du livre Demarle "Délices en Relief"
+

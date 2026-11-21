@@ -1,11 +1,20 @@
 ---
 titre: "Délices d'Artichauts"
 categories: ["Apéritif"]
+themes: []
+regimes: []
 date: 2015-01-30
 difficulte: 2
+index_ingredients:
+  - "fonds d'artichauts surgelés"
+  - "ricotta"
+  - "basilic ciselé"
+  - "œufs"
+  - "écorces de citron vert râpées"
+  - "sel"
+  - "poivrons marinés pour la décoration ou des tomates confites"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> fonds d'artichauts surgelés ; ricotta ; basilic ciselé ; œufs ; écorces de citron vert râpées ; sel ; poivrons marinés pour la décoration ou des tomates confites</p>
 
 [![](/images/27663d457e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZa-QQC7MJm9S9JPAIxSY1pi05kyelp9UbfDLrSX6FWT5FIqDkkLR4OZX67KN4_Q3KTz1JffEXx4upZukRW86dXe6aol4AAramH-FGiW7-hdjiRie6TqzW64GjLtR7A8IJtDkgsC_NoE/s1600/20141017_184748.jpg)
 
@@ -13,7 +22,7 @@ difficulte: 2
 
 Voici une entrée originale toute fraîche et haute en couleurs. J'ai fait cette recette deux fois : en petites bouchées pour un apéritif dînatoire ou en véritable entrée servie avec une salade comme présenté ici. Il faut bien sûr aimer les artichauts 😉. Je les ai décoré avec des poivrons marinés dans l'huile d'olive, thym et ail que j'avais préparé quelques jours auparavant 😊 mais vous pouvez décorez selon vos envies. Bon appétit!
 
-**Ingrédients**  
+**Liste des ingrédients :**
 - 120 g de fonds d'artichauts surgelés  
 - 400 g de ricotta  
 - 2 cuillères à soupe de basilic ciselé  
@@ -52,4 +61,6 @@ Régalez-vous!!! 😊
   
   
 
-Recette inspirée du livre chevalet Demarle "Bien plus que des briochettes"
+
+> Recette inspirée du livre chevalet Demarle "Bien plus que des briochettes"
+

@@ -1,11 +1,20 @@
 ---
 titre: "Poêlée de Pâtisson, Lardons et Petits Champignons"
 categories: ["Plat"]
+themes: []
+regimes: []
 date: 2016-10-02
 difficulte: 1
+index_ingredients:
+  - "pâtisson"
+  - "lardons"
+  - "champignons de Paris en boîte"
+  - "romarin"
+  - "ail"
+  - "poivre"
+  - "huile d'olive"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> pâtisson ; lardons ; champignons de Paris en boîte ; romarin ; ail ; poivre ; huile d'olive</p>
 
 [![](/images/b2145cd461.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguDmvhRMUsgkDv-KsIt6-x2XWjrTZHyqyQ-tf4i48Ac31oJyBXkO5rW0AdL8JPsz4D0b2r7QadLGKvNL7hdSOpp9hM98QOTYz8wW-Kb-9ninS9dQyww7Ao7hnxCJ0IHgJEUYkLVpe5mpQ/s1600/20160924_143520.jpg)
 
@@ -13,7 +22,7 @@ difficulte: 1
 
 Voici une recette simple pour un légume que vous ne connaissez peut-être pas : le [pâtisson](https://fr.wikipedia.org/wiki/P%C3%A2tisson). Ma sœur, grande spécialiste du jardinage, fait pousser toute sorte de légumes dans son jardin. Elle me donne parfois des légumes oubliés ou sortant de l'ordinaire. Le pâtisson est un une cucurbitacée (courge) blanche, ronde, un peu aplatie qui a un léger goût d'artichaut. J'ai décidé de le faire en poêlée avec une petite escalope hachée de veau, j'avais besoin d'une recette rapide et pas trop compliquée. Vous m'en direz des nouvelles. 😊
 
-**Ingrédients :**  
+**Liste des ingrédients :**
 
 - 1 pâtisson
 

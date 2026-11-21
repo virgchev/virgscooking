@@ -1,11 +1,17 @@
 ---
 titre: "Oeufs Bénédicte et Fines Tranches de Poitrine Fumée Grillées"
 categories: ["Plat"]
+themes: []
+regimes: []
 date: 2014-06-01
 difficulte: 3
+index_ingredients:
+  - "muffins anglais nature ou complet selon votre envie"
+  - "œufs"
+  - "sauce hollandaise que vous faites vous même ou que vous achetez en brique au rayon sauce et épices"
+  - "fines tranches de poitrine fumée"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> muffins anglais nature ou complet selon votre envie ; œufs ; sauce hollandaise que vous faites vous même ou que vous achetez en brique au rayon sauce et épices ; fines tranches de poitrine fumée</p>
 
 [![](/images/f6c71a7141.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigDbiyHsUoBCWJl4Uv52T1F6PyPBOjmYXx61ZM5rEoL5ONSigAOkW7WRBh40uZpZFtQcvGdf029vjpcntQAqx5BQaAML1oIdXIPSpWwG9fJae0xHISCduxSme67pv7VmFSAV8aQXLed-U/s1600/20140531_081406.jpg)
 

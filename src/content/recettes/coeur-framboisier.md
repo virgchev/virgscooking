@@ -1,17 +1,20 @@
 ---
 titre: "Coeur Framboisier"
 categories: ["Dessert"]
+themes: []
+regimes: []
 date: 2016-07-05
 difficulte: 3
+index_ingredients:
+  - "génoise"
 ---
 
-<p class="index-ingredients"><strong>Ingrédients :</strong> génoise</p>
 
 [![](/images/3de0817001.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK5YmwxNgDqCuwM-0cu_KpVSjfkZtcfuQzgd8mVXQ8geE1syAekPvjk0fSdS2stiO-K530IeQWy3IZSFxWgj8kz-pBCdl_jG90bDwa_-lrwYzNmsmuczW6g9IWMk4_JEBNa4wSVyoL5LQ/s1600/20160702_183835.jpg)
 
 Pas beaucoup de temps pour poster mes recettes ou cuisiner tout court avec la reprise du travail et bébé. Je ne reviens donc qu'épisodiquement sur mon blog, cela me manque je dois dire. Me revoilà aujourd'hui pour l'anniversaire de mon homme. Il adore les framboises et j'avais un moule à utiliser dans mes placards 😊, donc voici un gâteau savoureux qui m'a permis de m'essayer enfin à la pâte à sucre et à l'écriture sur gâteau 😊, ce n'était pas une mince affaire 😛. Cerise sur le gâteau ou plutôt Framboise, je l'ai goûté et trouver très bon. Pour la petite histoire, je détestais les fruits depuis toute petite et depuis quelques années je les cuisine pour faire plaisir à ma famille et mes ami(e)s. Du coup, petit à petit ils s'intègrent mon alimentation après être rentrés dans ma cuisine...comme quoi tout arrive 😊.
 
-**Ingrédients :**  
+**Liste des ingrédients :**
 
 *Génoise:*  
 
@@ -130,4 +133,6 @@ Pas beaucoup de temps pour poster mes recettes ou cuisiner tout court avec la re
 
    [![](/images/071359387c.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxhdCJ7Hvotrtf4jg0-_V2R_KDQLstYN8QVDSjVx0yVf1LsosGB3OItR_TOQ0ds_Ljs39Xn5oA9njCo5NHK50CIB_Znuqnk05GiWxn-Pknv16MfEk8K3VUOBAjiAc-AxnqOy_7eMicbtI/s1600/20160702_183747.jpg)[![](/images/7ff352b98c.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ8Mgn2XECw-IUvYfAgBb3yrjBdFpqgD6dptkvlA9rp7ZHfVdEgO5vE8CpQcR7GMIQFRAxnAmGNNlsSOsk68rka5AywQOrHeIHdOYx1TzpcPAzDo2EGtFjxYo4Hg1JcTAF5psreArpJic/s1600/20160702_220844.jpg)
 
-Recette inspirée du site [Guy Demarle](http://www.guy-demarle.fr/desserts/319-coeur-framboisier.html)
+
+> Recette inspirée du site [Guy Demarle](http://www.guy-demarle.fr/desserts/319-coeur-framboisier.html)
+

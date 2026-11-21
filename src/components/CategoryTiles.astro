@@ -1,0 +1,43 @@
+---
+import { getCategories } from "../utils/recettes";
+const categories = await getCategories();
+---
+<nav class="menu-categories" aria-label="Catégories de recettes">
+  {categories.map((c) => (
+    <a class="tuile" href={`/categorie/${c.slug}/`}>
+      {c.nom}<span class="nb">{c.count}</span>
+    </a>
+  ))}
+</nav>
+
+<style>
+  .menu-categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: .6rem;
+    margin: 1.2rem 0 2rem;
+  }
+  .tuile {
+    display: inline-flex;
+    align-items: center;
+    gap: .5rem;
+    padding: .4rem .9rem;
+    background: var(--surface);
+    border: 1px solid rgba(245, 241, 232, .2);
+    border-radius: 8px;
+    font: 500 1rem/1.2 var(--titre);
+    text-decoration: none;
+    transition: border-color .2s, color .2s, transform .2s;
+  }
+  .tuile:hover {
+    border-color: var(--betterave);
+    color: var(--betterave);
+    transform: translateY(-2px);
+  }
+  .nb {
+    font-size: .8rem;
+    color: var(--curcuma);
+    opacity: .9;
+  }
+</style>
