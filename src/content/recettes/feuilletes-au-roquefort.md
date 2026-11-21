@@ -1,6 +1,6 @@
 ---
 titre: "Feuilletés Au Roquefort"
-categories: ["Apéritif"]
+categories: ["Entrée"]
 themes: []
 regimes: []
 date: 2016-01-30

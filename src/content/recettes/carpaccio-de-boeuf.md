@@ -6,11 +6,12 @@ regimes: []
 date: 2014-08-22
 difficulte: 1
 index_ingredients:
-  - "viande de bœuf coupée en tranches fines"
-  - "mesclun ou Roquette pour accompagner"
+  - "boeuf"
+  - "roquette"
+  - "mesclun"
   - "parmesan"
-  - "huile de Noix"
-  - "vinaigre Balsamique"
+  - "huile de noix"
+  - "vinaigre balsamique"
   - "sel"
   - "poivre"
   - "ciboulette"

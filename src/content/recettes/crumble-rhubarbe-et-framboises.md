@@ -1,6 +1,6 @@
 ---
 titre: "Crumble Rhubarbe et Framboises"
-categories: ["Dessert"]
+categories: ["Dessert","Goûter"]
 themes: []
 regimes: []
 date: 2016-01-27

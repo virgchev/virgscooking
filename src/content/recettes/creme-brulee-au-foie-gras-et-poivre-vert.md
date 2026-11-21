@@ -1,6 +1,6 @@
 ---
 titre: "Crème Brûlée au Foie Gras et Poivre Vert"
-categories: ["Entrée"]
+categories: ["Apéritif", "Entrée", "Plat"]
 themes: []
 regimes: []
 date: 2015-03-14
@@ -9,7 +9,7 @@ index_ingredients:
   - "foie gras"
   - "crème fleurette"
   - "jaunes d’œufs"
-  - "Cassonade"
+  - "cassonade"
   - "Poivre vert"
   - "sel"
 ---
@@ -57,7 +57,7 @@ Après quelques semaines d'inactivité sur la blogosphère, me revoici avec des 
 
   
 
-Puis, à l'aide d'un torche à crème brûlée ou petit chalumeau, venez caraméliser le sucre sur le dessus. Attention de ne pas faire brûler le caramel formé.
+8. Puis, à l'aide d'un torche à crème brûlée ou petit chalumeau, venez caraméliser le sucre sur le dessus. Attention de ne pas faire brûler le caramel formé.
 
 [![](/images/5dc875a98c.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMh1NVGLy4oUiZHLwZNyyyzxTMoLHvr9l90RkaxUhCEHeIds6YCVbcFUuP2soB_l9aooCpV-4XDQRuB5LEE3CIhscI8pHXVVIdmNk_XRX-MS5cYWK7tee_CIHdEovsofSNzvqGShJGqqs/s1600/20141222_215226.jpg)
 

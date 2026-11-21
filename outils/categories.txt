@@ -2,46 +2,45 @@
 # Modifie librement les catégories (ou ajoutes-en), puis lance : python outils/appliquer_categories.py --ecrire
 bouchees-coco ; Dessert,Goûter
 carpaccio-de-boeuf ; Entrée, Plat
-cheese-cake-au-saumon-fume-et-ciboulette ; Apéritif
+cheese-cake-au-saumon-fume-et-ciboulette ; Apéritif, Entrée
 coeur-framboisier ; Dessert
 cookies-aux-olives-noires ; Apéritif
-creme-brulee-au-foie-gras-et-poivre-vert ; Entrée
-crevettes-epicees-flambees-au-whisky ; Entrée
-crumble-rhubarbe-et-framboises ; Dessert
-cupcakes-au-caramel-beurre-sale-dalice ; Dessert,Goûter
-delices-dartichauts ; Apéritif
-doigts-de-sorcieres-ensanglantes ; Dessert,Halloween
+creme-brulee-au-foie-gras-et-poivre-vert ; Apéritif, Entrée, Plat
+crevettes-epicees-flambees-au-whisky ; Apéritif, Entrée
+crumble-rhubarbe-et-framboises ; Dessert, Goûter
+cupcakes-au-caramel-beurre-sale-dalice ; Dessert, Goûter
+delices-dartichauts ; Apéritif, Entrée
+doigts-de-sorcieres-ensanglantes ; Dessert, Goûter
 farfalles-au-ble-complet-aux-epinards-et-viande-des-grisons ; Plat
-feuilletes-au-roquefort ; Apéritif
-financiers-au-matcha ; Dessert,Goûter
-fondants-au-chocolat-creme-de-marrons ; Dessert,Goûter
+feuilletes-au-roquefort ; Entrée
+financiers-au-matcha ; Dessert, Goûter
+fondants-au-chocolat-creme-de-marrons ; Dessert, Goûter
 gaufres-au-pesto-saumon-et-chantilly ; Plat
-gaufres-la-fleur-doranger ; Dessert,Goûter
-je-me-lance-enfin-dans-laventure ;
+gaufres-la-fleur-doranger ; Dessert, Goûter
 le-cannelier ; Dessert
 mille-feuilles-au-chocolat-et-la-framboise ; Dessert
 mini-madeleines-au-chorizo-et-comte ; Apéritif
-mini-tartelettes-au-sirop-derable ; Dessert
-moelleux-chataigne-coeur-michoko ; Dessert
-mousse-de-betterave-chips-vitelotte-et ; Entrée
-muffins-aux-pepites-de-chocolat-blanc ; Dessert
-oeufs-benedicte-et-fines-tranches-de ; Plat
+mini-tartelettes-au-sirop-derable ; Dessert, Goûter
+moelleux-chataigne-coeur-michoko ; Dessert, Goûter
+mousse-de-betterave-chips-vitelotte-et ; Apéritif, Entrée
+muffins-aux-pepites-de-chocolat-blanc ; Dessert, Goûter
+oeufs-benedicte-et-fines-tranches-de ; Brunch
 opera-au-foie-gras-et-figues ; Entrée
-pancakes-au-sirop-derable ; Brunch,Dessert
-petites-momies ; Apéritif,Halloween
-petits-pains-aux-graines ; Pain
+pancakes-au-sirop-derable ; Brunch, Goûter
+petites-momies ; Apéritif
+petits-pains-aux-graines ; Accompagnement
 poelee-de-patisson ; Plat
 pot-au-feu-de-saumon ; Plat
 quiche-minute-poireaux-et-saumon-fume ; Plat
 roti-de-magret-de-canard-aux-oignons-confits ; Plat
-saint-honores-au-nutella ; Dessert
-salade-lyonnaise-legerement-revisitee ; Entrée,Plat
+saint-honores-au-nutella ; Dessert, Goûter
+salade-lyonnaise-legerement-revisitee ; Entrée, Plat
 sorbet-poivron ; Entrée
 tarte-butternut-chevre-et-poitrine-fumee ; Plat
 tarte-roquette-chevre-et-tomates ; Plat
 tarte-tomate-moutarde-et-petits-artichauts ; Plat
-tartelettes-au-citron ; Dessert
+tartelettes-au-citron ; Dessert, Goûter
 tartelettes-aux-ravioles ; Apéritif
 tian-aux-legumes-du-soleil-et-chevre ; Plat
 tiramisu-chocolat-blanc-aux-noisettes-caramelisees ; Dessert
-tourbillons-de-courgette-et-de-dinde ; Plat
+tourbillons-de-courgette-et-de-dinde ; Apéritif, Entrée, Plat

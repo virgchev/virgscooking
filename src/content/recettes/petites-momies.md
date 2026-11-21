@@ -1,6 +1,6 @@
 ---
 titre: "Petites Momies"
-categories: ["Apéritif", "Halloween"]
+categories: ["Apéritif"]
 themes: []
 regimes: []
 date: 2014-11-22

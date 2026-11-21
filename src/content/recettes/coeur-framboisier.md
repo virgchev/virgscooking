@@ -1,12 +1,24 @@
 ---
 titre: "Coeur Framboisier"
 categories: ["Dessert"]
-themes: []
+themes: ["Anniversaire"]
 regimes: []
 date: 2016-07-05
 difficulte: 3
 index_ingredients:
-  - "génoise"
+  - "oeuf"
+  - "purée de framboise"
+  - "sucre"
+  - "farine"
+  - "poudre d'amandes"
+  - "huile de pépins de raisin"
+  - "lait"
+  - "beurre"
+  - "fécule de maïs"
+  - "crème"
+  - "sucre glace"
+  - "framboise"
+
 ---
 
 
@@ -16,49 +28,32 @@ Pas beaucoup de temps pour poster mes recettes ou cuisiner tout court avec la re
 
 **Liste des ingrédients :**
 
-*Génoise:*  
-
+Génoise :
 - 2 oeufs
-
 - 45 g de sucre
-
 - 50 g de farine
-
 - 20 g poudre d'amandes
+- 1 cuillère à soupe d'huile de pépins de raisin
 
-- 1 cuillère à soupe d'huile de pépins de raisins
-
-*Crème mousseline:*
-
+Crème mousseline :
 - 200 g de lait
-
 - 2 jaunes d'oeufs
-
 - 50 g de sucre
-
 - 25 g de fécule de maïs
-
 - 70 g de beurre souple
-
 - 70 g de crème fraîche liquide entière
-
 - 150 g de framboises fraîches
 
-*Sirop de framboise:*
-
+Sirop de framboise :
 - 80 g de sucre de canne liquide
-
 - 80 g de framboises
 
-*Décoration:*
-
+Décoration :
 - 250 g de pâte à sucre blanche
-
 - Colorant alimentaire rose guimauve
-
 - 12 g de blanc d'oeuf
-
 - 72 g de sucre glace
+
 
 1. Préchauffez le four à 180°C. Mélanger au fouet le sucre et les œufs puis mettez au bain-marie jusqu'à ce que le mélange atteigne 50°C.
 

@@ -1,17 +1,17 @@
 ---
 titre: "Tourbillons de Courgettes et de Dinde"
-categories: ["Plat"]
+categories: ["Apéritif", "Entrée", "Plat"]
 themes: []
 regimes: []
 date: 2014-06-24
 difficulte: 2
 index_ingredients:
   - "courgettes"
-  - "dinde fumée"
+  - "dinde"
   - "œufs"
   - "crème fleurette"
-  - "maïzena"
-  - "tomates cerises"
+  - "fécule de maïs"
+  - "tomate cerise"
   - "sel"
 ---
 
@@ -29,13 +29,13 @@ Pour voir la vie en couleurs et s'ouvrir l'appétit, rien de tel que des recette
 - 4 tranches de dinde fumée
 - 2 œufs
 - 20 cl de crème fleurette
-- 1 cuillère à soupe de Maïzena  
+- 1 cuillère à soupe de fécule de maïs 
 - des tomates cerises
 - du sel, du poivre
 
 1. Coupez vos courgettes en lamelle fine, avec un couteau, épluche-légume ou mandoline comme vous préférez 😊.
 2. Roulez ensuite les tranches de dinde avec les courgettes pour faire des petits rouleaux que vous mettrez dans des moules à mini-muffins ou ce que vous avez sous la main 😊.
-3. Dans un petit saladier ou directement dans un verre mesureur, mélangez les 2 œufs, la crème fleurette, du poivre, un peu de sel et une bonne cuillère à soupe de Maïzena (ou fleurs de maïs).
+3. Dans un petit saladier ou directement dans un verre mesureur, mélangez les 2 œufs, la crème fleurette, du poivre, un peu de sel et une bonne cuillère à soupe de fécule de maïs.
 
    [![](/images/4deb1ee555.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik5ZD7zvDBsgjD7UdI6-8zMK0_dEkMYaGguhq0BSQLyZhPMILeavyotnYCgeTKKzbDKretUR_iY_VGRSM-78O0BePQ02Dl_1cegrMx6tKejVuDMIYIpwPziY7uyCKwAQieM24G5A9I-mk/s1600/20140624_211432.jpg)
 

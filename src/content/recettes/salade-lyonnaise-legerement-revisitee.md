@@ -6,12 +6,12 @@ regimes: []
 date: 2014-06-13
 difficulte: 1
 index_ingredients:
-  - "salade verte"
-  - "copeaux de parmesan ou vous les faites vous même avec un économe/épluche-légume"
-  - "petites pommes de terre"
-  - "lardons ou allumettes"
-  - "huile  pour ma part c'est huile d'olive ou huile d'amande"
-  - "vinaigre"
+  - "salade"
+  - "parmesan"
+  - "pomme de terre"
+  - "lardons"
+  - "huile d'olive"
+  - "vinaigre balsamique"
 ---
 
 
@@ -31,7 +31,7 @@ Un jour, une amie Lyonnaise m'a fait découvrir la "salade lyonnaise" et comment
 
 - 100 g de lardons ou allumettes
 
-- huile (celle que vous aimez 😊 pour ma part c'est huile d'olive ou huile d'amande
+- huile (celle que vous aimez 😊 pour ma part c'est huile d'olive ou huile d'amande)
 
 - vinaigre (celui que vous préférez, perso j'adore le balsamique)
 

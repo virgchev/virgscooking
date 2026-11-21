@@ -1,6 +1,6 @@
 ---
 titre: "Moelleux à la Châtaigne au Coeur de Michoko"
-categories: ["Dessert"]
+categories: ["Dessert", "Goûter"]
 themes: []
 regimes: []
 date: 2016-01-25

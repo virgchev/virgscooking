@@ -1,6 +1,6 @@
 ---
 titre: "Oeufs Bénédicte et Fines Tranches de Poitrine Fumée Grillées"
-categories: ["Plat"]
+categories: ["Brunch"]
 themes: []
 regimes: []
 date: 2014-06-01

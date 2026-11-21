@@ -1,6 +1,6 @@
 ---
 titre: "Mini-Tartelettes au Sirop d'Erable"
-categories: ["Dessert"]
+categories: ["Dessert", "Goûter"]
 themes: []
 regimes: []
 date: 2014-09-23

@@ -8,14 +8,14 @@ difficulte: 2
 index_ingredients:
   - "chocolat blanc"
   - "lait"
-  - "oeufs"
+  - "oeuf"
   - "mascarpone"
-  - "biscuits cuillères selon les contenants utilisés pour le service"
-  - "noisettes décortiquées"
-  - "sucre en poudre pour les noisettes + 20 g de sucre pour le sirop"
+  - "biscuits cuillères"
+  - "noisettes"
+  - "sucre"
   - "eau"
   - "rhum brun"
-  - "cacao noir en poudre"
+  - "cacao amer"
 ---
 
 

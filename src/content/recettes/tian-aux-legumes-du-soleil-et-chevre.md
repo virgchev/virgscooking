@@ -7,10 +7,10 @@ date: 2015-06-16
 difficulte: 2
 index_ingredients:
   - "aubergine"
-  - "petite courgette"
-  - "tomates"
-  - "parmesan râpé"
-  - "chèvre frais"
+  - "courgette"
+  - "tomate"
+  - "parmesan"
+  - "fromage de chèvre frais"
   - "ail"
   - "gros oignon"
   - "huile d'olive"

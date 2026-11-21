@@ -7,9 +7,9 @@ date: 2014-08-24
 difficulte: 2
 index_ingredients:
   - "pâte brisée"
-  - "plaques de ravioles"
-  - "crème fleurette"
-  - "comté ou gruyère râpé"
+  - "ravioles"
+  - "crème"
+  - "comté"
 ---
 
 

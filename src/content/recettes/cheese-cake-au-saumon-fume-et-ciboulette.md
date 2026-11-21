@@ -1,20 +1,20 @@
 ---
 titre: "Cheese-Cake au Saumon Fumé et Ciboulette"
-categories: ["Apéritif"]
+categories: ["Apéritif","Entrée"]
 themes: []
 regimes: []
 date: 2014-11-07
 difficulte: 1
 index_ingredients:
-  - "crackers"
+  - "cracker"
   - "fromage frais"
   - "beurre"
   - "fromage blanc"
-  - "œufs"
+  - "œuf"
   - "jus de citron"
-  - "saumon fumé"
+  - "saumon"
   - "poivre"
-  - "botte de ciboulette"
+  - "ciboulette"
 ---
 
 

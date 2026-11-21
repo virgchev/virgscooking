@@ -1,6 +1,6 @@
 ---
 titre: "Mousse de Betterave, Chips Vitelotte et Copeaux de Parmesan"
-categories: ["Entrée"]
+categories: ["Apéritif", "Entrée"]
 themes: []
 regimes: []
 date: 2014-06-02

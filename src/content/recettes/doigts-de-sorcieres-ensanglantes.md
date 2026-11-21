@@ -1,6 +1,6 @@
 ---
 titre: "Doigts de Sorcières Ensanglantés"
-categories: ["Dessert", "Halloween"]
+categories: ["Dessert", "Goûter"]
 themes: []
 regimes: []
 date: 2014-11-02

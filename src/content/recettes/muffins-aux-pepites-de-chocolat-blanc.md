@@ -1,6 +1,6 @@
 ---
 titre: "Muffins aux Pépites de Chocolat Blanc et Cranberries"
-categories: ["Dessert"]
+categories: ["Dessert", "Goûter"]
 themes: []
 regimes: []
 date: 2014-11-01

@@ -27,7 +27,7 @@ header.site img {
   height: auto;    -webkit-mask-image: linear-gradient(to bottom, #000 80%, transparent 100%);
   mask-image: linear-gradient(to bottom, #000 80%, transparent 100%);      /* garde les proportions */
 }
-h1 { font: 800 2rem/1.1 var(--titre); letter-spacing: -.02em; margin: 0 0 .5rem; text-align: center;}
+h1 { font: 800 2rem/1.1 var(--titre); letter-spacing: -.02em; margin: 2.5rem 0 1.5rem; text-align: center;}
 
 .carte { list-style: none; padding: 0; margin: 1.5rem 0 0; }
 .carte li { padding: .9rem 0; }

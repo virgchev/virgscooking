@@ -6,13 +6,13 @@ regimes: []
 date: 2014-11-25
 difficulte: 1
 index_ingredients:
-  - "beurre pommade"
+  - "beurre"
   - "sucre"
   - "œuf"
   - "farine"
-  - "rase de levure chimique"
+  - "levure chimique"
   - "sel"
-  - "olives noires dénoyautées"
+  - "olives noires"
   - "huile d’olive"
   - "tapenade"
 ---

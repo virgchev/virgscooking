@@ -1,6 +1,6 @@
 ---
 titre: "Petits Pains Aux Graines"
-categories: ["Pain"]
+categories: ["Accompagnement"]
 themes: []
 regimes: []
 date: 2014-12-28
