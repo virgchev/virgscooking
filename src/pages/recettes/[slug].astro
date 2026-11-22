@@ -29,24 +29,33 @@ const cat = d.categories[0];
     <h1>{d.titre}</h1>
 
     <div class="infos">
-      <p class="meta">
-        <span class="etiquette">{accord(d.categories.length, 'Catégorie')} :</span> {d.categories.join(' · ')}
-      </p>
-      {d.themes.length > 0 && (
-        <p class="meta">
-          <span class="etiquette">{accord(d.themes.length, 'Thème')} :</span> {d.themes.join(' · ')}
-        </p>
-      )}
-      {d.regimes.length > 0 && (
-        <p class="meta">
-          <span class="etiquette">{accord(d.regimes.length, 'Régime')} :</span> {d.regimes.join(' · ')}
-        </p>
-      )}
-      {d.minutes && (
-        <p class="meta"><span class="etiquette">Temps :</span> {d.minutes} min</p>
-      )}
-      {d.difficulte && <p class="meta"><Difficulte niveau={d.difficulte} /></p>}
-    </div>
+  <p class="meta">
+    <span class="etiquette">{accord(d.categories.length, 'Catégorie')} :</span>
+    {d.categories.map((c, i) => (
+      <>{i > 0 && ' · '}<a href={`/categorie/${slugify(c)}/`}>{c}</a></>
+    ))}
+  </p>
+  {d.themes.length > 0 && (
+    <p class="meta">
+      <span class="etiquette">{accord(d.themes.length, 'Thème')} :</span>
+      {d.themes.map((t, i) => (
+        <>{i > 0 && ' · '}<a href={`/theme/${slugify(t)}/`}>{t}</a></>
+      ))}
+    </p>
+  )}
+  {d.regimes.length > 0 && (
+    <p class="meta">
+      <span class="etiquette">{accord(d.regimes.length, 'Régime')} :</span>
+      {d.regimes.map((g, i) => (
+        <>{i > 0 && ' · '}<a href={`/regime/${slugify(g)}/`}>{g}</a></>
+      ))}
+    </p>
+  )}
+  {d.minutes && (
+    <p class="meta"><span class="etiquette">Temps :</span> {d.minutes} min</p>
+  )}
+  {d.difficulte && <p class="meta"><Difficulte niveau={d.difficulte} /></p>}
+</div>
     {d.ingredients.length > 0 && (
     <section class="ingredients">
       <label>Pour
@@ -99,4 +108,19 @@ const cat = d.categories[0];
     font-weight: 800;
     color: var(--betterave);
   }
+  .infos a {
+  color: inherit;
+  text-decoration: underline dotted rgba(245, 241, 232, .5);
+  text-underline-offset: .2em;
+  transition: color .2s;
+}
+.infos a:hover { color: var(--betterave); text-decoration-style: solid; }
+
+.etiquette {
+  font-family: var(--titre);
+  font-style: normal;
+  font-weight: 800;
+  color: var(--betterave);
+  margin-right: .35em;
+}
 </style>

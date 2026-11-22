@@ -29,11 +29,11 @@ Pas beaucoup de temps pour poster mes recettes ou cuisiner tout court avec la re
 **Liste des ingrédients :**
 
 Génoise :
-- 2 oeufs
 - 45 g de sucre
 - 50 g de farine
 - 20 g poudre d'amandes
 - 1 cuillère à soupe d'huile de pépins de raisin
+- 2 oeufs
 
 Crème mousseline :
 - 200 g de lait

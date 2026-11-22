@@ -1,0 +1,13 @@
+---
+import Base from "../../layouts/Base.astro";
+import ListeRecettes from "../../components/ListeRecettes.astro";
+import { cheminsIndex } from "../../utils/recettes";
+
+export async function getStaticPaths() {
+  return cheminsIndex("themes");
+}
+const { nom, recettes } = Astro.props;
+---
+<Base titre={`${nom} – Virg's Cooking`}>
+  <ListeRecettes nom={nom} recettes={recettes} />
+</Base>

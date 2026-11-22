@@ -2,7 +2,7 @@ import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 
-const THEMES = ['Halloween', 'Noël', 'Saint-Valentin', 'Pâques', 'Anniversaire'] as const;
+const THEMES = ['Halloween', 'Noël', 'Saint-Valentin', 'Pâques', 'Anniversaire', 'Canicule'] as const;
 const REGIMES = ['Sans Gluten', 'Sans Lactose', 'Végétarien', 'Végétalien', 'Sans Œufs'] as const;
 
 const recettes = defineCollection({

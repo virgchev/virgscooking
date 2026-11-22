@@ -1,6 +1,6 @@
 ---
 titre: "Petits Pains Aux Graines"
-categories: ["Accompagnement"]
+categories: ["Brunch"]
 themes: []
 regimes: []
 date: 2014-12-28
@@ -12,6 +12,8 @@ index_ingredients:
   - "huile"
   - "eau tiède"
   - "graines de pavot"
+  - "graines de lin"
+  - "graines de sésame"
 ---
 
 

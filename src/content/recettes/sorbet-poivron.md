@@ -1,7 +1,7 @@
 ---
 titre: "Sorbet poivron"
 categories: ["Entrée"]
-themes: []
+themes: ["Canicule"]
 regimes: []
 date: 2016-08-18
 difficulte: 2

@@ -1,14 +1,20 @@
 ---
-import { getCategories } from "../utils/recettes";
-const categories = await getCategories();
+import { getIndex, type ChampIndex } from "../utils/recettes";
+
+interface Props { champ?: ChampIndex; chemin?: string; titre?: string }
+const { champ = "categories", chemin = "categorie", titre = "Catégories" } = Astro.props;
+const items = await getIndex(champ);
 ---
-<nav class="menu-categories" aria-label="Catégories de recettes">
-  {categories.map((c) => (
-    <a class="tuile" href={`/categorie/${c.slug}/`}>
-      {c.nom}<span class="nb">{c.count}</span>
-    </a>
-  ))}
-</nav>
+{items.length > 0 && (
+  <nav class="menu-categories" aria-label={titre}>
+    <span class="menu-titre">{titre}</span>
+    {items.map((c) => (
+      <a class="tuile" href={`/${chemin}/${c.slug}/`}>
+        {c.nom}<span class="nb">{c.count}</span>
+      </a>
+    ))}
+  </nav>
+)}
 
 <style>
   .menu-categories {
@@ -16,7 +22,15 @@ const categories = await getCategories();
     flex-wrap: wrap;
     justify-content: center;
     gap: .6rem;
-    margin: 1.2rem 0 2rem;
+    margin: 1.2rem 0 1.6rem;
+  }
+  .menu-titre {
+    width: 100%;
+    text-align: center;
+    font: 800 .8rem/1 var(--titre);
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--betterave);
   }
   .tuile {
     display: inline-flex;
@@ -35,9 +49,5 @@ const categories = await getCategories();
     color: var(--betterave);
     transform: translateY(-2px);
   }
-  .nb {
-    font-size: .8rem;
-    color: var(--curcuma);
-    opacity: .9;
-  }
+  .nb { font-size: .8rem; color: var(--curcuma); opacity: .9; }
 </style>
