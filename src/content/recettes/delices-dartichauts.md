@@ -6,13 +6,13 @@ regimes: []
 date: 2015-01-30
 difficulte: 2
 index_ingredients:
-  - "fonds d'artichauts surgelés"
+  - "artichauts"
   - "ricotta"
-  - "basilic ciselé"
-  - "œufs"
-  - "écorces de citron vert râpées"
+  - "basilic"
+  - "œuf"
+  - "citron vert"
   - "sel"
-  - "poivrons marinés pour la décoration ou des tomates confites"
+  - "poivron"
 ---
 
 
@@ -22,7 +22,8 @@ index_ingredients:
 
 Voici une entrée originale toute fraîche et haute en couleurs. J'ai fait cette recette deux fois : en petites bouchées pour un apéritif dînatoire ou en véritable entrée servie avec une salade comme présenté ici. Il faut bien sûr aimer les artichauts 😉. Je les ai décoré avec des poivrons marinés dans l'huile d'olive, thym et ail que j'avais préparé quelques jours auparavant 😊 mais vous pouvez décorez selon vos envies. Bon appétit!
 
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 120 g de fonds d'artichauts surgelés  
 - 400 g de ricotta  
 - 2 cuillères à soupe de basilic ciselé  

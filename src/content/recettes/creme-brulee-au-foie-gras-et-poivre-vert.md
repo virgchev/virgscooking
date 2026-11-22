@@ -7,10 +7,10 @@ date: 2015-03-14
 difficulte: 2
 index_ingredients:
   - "foie gras"
-  - "crème fleurette"
-  - "jaunes d’œufs"
+  - "crème"
+  - "œuf"
   - "cassonade"
-  - "Poivre vert"
+  - "poivre vert"
   - "sel"
 ---
 
@@ -19,7 +19,7 @@ index_ingredients:
 
 Après quelques semaines d'inactivité sur la blogosphère, me revoici avec des petites recettes que je n'avais pas encore publiées. Voici une petite recette pour une entrée en amoureux, si comme moi vous raffolez du foie gras. Vous pouvez faire aussi ces petites crèmes brûlées dans de tout petits plats si vous voulez les servir lors d'un apéritif entre amis.
 
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
 
 - 100 g de foie gras cuit
 

@@ -6,12 +6,13 @@ regimes: []
 date: 2014-09-23
 difficulte: 2
 index_ingredients:
-  - "rouleau de pâte brisée"
+  - "pâte brisée"
   - "sirop d'érable"
-  - "jaunes d’œufs"
+  - "œuf"
   - "fécule de maïs"
-  - "sucre vergeoise ou sucre muscovado"
-  - "crème fleurette entière"
+  - "sucre vergeoise"
+  - "sucre muscovado"
+  - "crème"
   - "sel"
 ---
 
@@ -24,7 +25,8 @@ Pour les accros au sirop d'érable. Voici une petite recette vite prête pour bi
   
   
   
-**Ingrédients pour 24 petites tartelettes:**  
+<p class="titre-liste">Liste des ingrédients pour 24 petites tartelettes:</p>
+
 - 1 rouleau de pâte brisée  
 - 60 g de sirop d'érable  
 - 2 jaunes d’œufs  

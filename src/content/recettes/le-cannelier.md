@@ -7,22 +7,21 @@ date: 2018-02-27
 difficulte: 3
 index_ingredients:
   - "beurre"
-  - "œufs"
-  - "jaunes d’œufs"
+  - "œuf"
+  - "œuf"
   - "sucre"
-  - "poudre d'amandes"
+  - "amande"
   - "sel"
   - "fécule de maïs"
-  - "spéculoos"
-  - "pommes golden"
+  - "spéculos"
+  - "pomme"
   - "eau"
   - "miel d'acacia"
   - "agar-agar"
   - "gélatine"
   - "lait"
-  - "bâton de cannelle"
-  - "cannelle en poudre"
-  - "creme fleurette entière à 30%"
+  - "cannelle"
+  - "crème"
   - "chocolat au lait"
 ---
 
@@ -35,7 +34,8 @@ Me voici de retour avec une petite recette de gâteau digne de ce nom pour les f
 
   
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 160 g de beurre  
 - 4 œufs  
 - 4 jaunes d’œufs  
@@ -43,7 +43,7 @@ Me voici de retour avec une petite recette de gâteau digne de ce nom pour les f
 - 130 g de poudre d'amandes  
 - 2 pincée de sel  
 - 100 g de fécule de maïs  
-- 100 g de spéculoos  
+- 100 g de spéculos  
 - 6 pommes golden  
 - 200 g d'eau  
 - 400 g de miel d'acacia  

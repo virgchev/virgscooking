@@ -9,9 +9,9 @@ index_ingredients:
   - "farine"
   - "pesto"
   - "lait"
-  - "œufs"
-  - "crème fleurette ou liquide entière"
-  - "zeste d'un 1/2 citron"
+  - "œuf"
+  - "crème"
+  - "citron"
   - "sel"
   - "oeuf de saumon"
 ---
@@ -24,7 +24,8 @@ index_ingredients:
 Voici ma petite recette sur le pouce de réveillon du Jour de l'An. Pourquoi ne pas la faire pour un petit brunch aussi ? 😉. Très rapide à faire et c'est très bon.
 
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 125 g de farine  
 - 60 g de pesto  
 - 18 cl de lait  

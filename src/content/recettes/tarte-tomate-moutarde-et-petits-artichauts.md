@@ -6,10 +6,10 @@ regimes: []
 date: 2014-12-10
 difficulte: 2
 index_ingredients:
-  - "tomates"
-  - "petits artichauts natures"
+  - "tomate"
+  - "artichaut"
   - "moutarde"
-  - "comté râpé"
+  - "comté"
   - "pâte feuilletée"
 ---
 
@@ -22,7 +22,7 @@ Voici une recette à réaliser en 10 minutes. Je l'ai faite lundi car j'avais ou
 
   
 
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
 
 - Tomates  
 - Petits artichauts natures  

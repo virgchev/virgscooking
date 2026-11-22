@@ -2,13 +2,13 @@
 titre: "Poêlée de Pâtisson, Lardons et Petits Champignons"
 categories: ["Plat"]
 themes: []
-regimes: []
+regimes: ["Sans Gluten","Sans Lactose"]
 date: 2016-10-02
 difficulte: 1
 index_ingredients:
   - "pâtisson"
-  - "lardons"
-  - "champignons de Paris en boîte"
+  - "lardon"
+  - "champignon"
   - "romarin"
   - "ail"
   - "poivre"
@@ -22,7 +22,7 @@ index_ingredients:
 
 Voici une recette simple pour un légume que vous ne connaissez peut-être pas : le [pâtisson](https://fr.wikipedia.org/wiki/P%C3%A2tisson). Ma sœur, grande spécialiste du jardinage, fait pousser toute sorte de légumes dans son jardin. Elle me donne parfois des légumes oubliés ou sortant de l'ordinaire. Le pâtisson est un une cucurbitacée (courge) blanche, ronde, un peu aplatie qui a un léger goût d'artichaut. J'ai décidé de le faire en poêlée avec une petite escalope hachée de veau, j'avais besoin d'une recette rapide et pas trop compliquée. Vous m'en direz des nouvelles. 😊
 
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
 
 - 1 pâtisson
 

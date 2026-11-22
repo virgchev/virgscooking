@@ -6,14 +6,13 @@ regimes: []
 date: 2014-12-28
 difficulte: 2
 index_ingredients:
-  - "farine à pain"
+  - "farine"
   - "levure boulangère"
   - "sel"
   - "huile"
-  - "eau tiède"
-  - "graines de pavot"
-  - "graines de lin"
-  - "graines de sésame"
+  - "graine de pavot"
+  - "graine de lin"
+  - "graine de sésame"
 ---
 
 
@@ -25,7 +24,8 @@ Plus de pain à la maison un soir, mais du bon fromage que faire ? Faire ses pet
 
   
 
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 500 g de farine à pain  
 - 2 sachets de levure boulangère  
 - 1 cuillère à café de sel  

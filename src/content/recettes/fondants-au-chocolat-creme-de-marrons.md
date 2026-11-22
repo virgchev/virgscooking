@@ -6,11 +6,11 @@ regimes: []
 date: 2015-06-19
 difficulte: 1
 index_ingredients:
-  - "œufs"
+  - "œuf"
   - "chocolat noir"
   - "beurre"
   - "crème de marrons"
-  - "rase de farine"
+  - "farine"
 ---
 
 
@@ -21,18 +21,12 @@ Pour le goûter, ça vous dit des fondants au chocolat à la crème de marrons. 
   
   
 
-**Liste des ingrédients :**
-
-  
+<p class="titre-liste">Liste des ingrédients :</p>
 
 - 3 œufs
-
 - 200 g de chocolat noir
-
 - 125 g de beurre
-
 - 200 g de crème de marrons
-
 - 1 cuillère à soupe rase de farine
 
   

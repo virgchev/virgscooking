@@ -1,7 +1,7 @@
 ---
 titre: "Cookies aux Olives Noires"
 categories: ["Apéritif"]
-themes: []
+themes: ["Halloween"]
 regimes: []
 date: 2014-11-25
 difficulte: 1
@@ -12,7 +12,7 @@ index_ingredients:
   - "farine"
   - "levure chimique"
   - "sel"
-  - "olives noires"
+  - "olive noire"
   - "huile d’olive"
   - "tapenade"
 ---
@@ -26,12 +26,13 @@ index_ingredients:
 Voici une petite recette originale de cookies salés à déguster pour l'apéritif. On peut imaginer ajouter du parmesan, des tomates confites ou des petites graines diverses (sésame, pignons de pin, graines de lin...) ou tout ce qui vous passe par la tête 😉.
 
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 125 g de beurre pommade  
 - 30 g de sucre  
 - 1 œuf  
 - 150 g de farine  
-- 1 cuillère à café rase de levure chimique   
+- 1 cuillère à café rase de levure chimique   
 - Sel, poivre  
 - 50 g d’olives noires dénoyautées  
 - 2 cuillères à soupe d’huile d’olive  

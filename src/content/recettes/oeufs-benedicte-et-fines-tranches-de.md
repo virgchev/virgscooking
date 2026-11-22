@@ -6,10 +6,10 @@ regimes: []
 date: 2014-06-01
 difficulte: 3
 index_ingredients:
-  - "muffins anglais nature ou complet selon votre envie"
-  - "œufs"
-  - "sauce hollandaise que vous faites vous même ou que vous achetez en brique au rayon sauce et épices"
-  - "fines tranches de poitrine fumée"
+  - "muffins"
+  - "œuf"
+  - "sauce hollandaise"
+  - "poitrine fumée"
 ---
 
 
@@ -19,14 +19,11 @@ index_ingredients:
 
 Levé(e) tard en ce dimanche ??? Rien de tel qu'un petit brunch avec des œufs Bénédicte...je les ai découvert lors d'un voyage à Edinburgh. Personnellement, c'est mon plat préféré concernant les œufs 😊. Ici pas de grande cuisine, juste un petit peu de préparation.
 
-**Ingrédients pour 2 œufs** :
+<p class="titre-liste">Liste des ingrédients pour 2 œufs :</p>
 
 - 2 muffins anglais nature ou complet selon votre envie
-
 - 2 œufs
-
 - Sauce hollandaise que vous faites vous même ou que vous achetez en brique au rayon sauce et épices
-
 - 7 ou 8 fines tranches de poitrine fumée
 
   

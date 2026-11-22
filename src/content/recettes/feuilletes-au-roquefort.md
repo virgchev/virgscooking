@@ -7,9 +7,9 @@ date: 2016-01-30
 difficulte: 1
 index_ingredients:
   - "roquefort"
-  - "crème entière semi-épaisse"
+  - "crème"
   - "poivre"
-  - "rouleau de Pâte Feuilletée"
+  - "pâte Feuilletée"
   - "œuf"
 ---
 
@@ -21,7 +21,8 @@ index_ingredients:
 En panne d'inspiration ce soir pour le dîner, j'ai trouvé un morceau de roquefort et une pâte feuilletée et hop, c'était parti. Je me suis un peu amusée pour la déco en utilisant enfin un de mes ustensiles insolites que je n'avais pas encore testé 😉. Il faut bien sûr que vous aimiez le roquefort, moi j'adore 😊. C'est tout simplement délicieux avec une petite salade. Pour plus de craquant, vous pouvez ajouter des noix ou des pignons de pin.
 
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 75 g de Roquefort  
 - 10 cl de crème entière semi-épaisse  
 - Poivre  

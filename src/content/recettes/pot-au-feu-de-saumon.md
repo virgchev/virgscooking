@@ -1,24 +1,23 @@
 ---
 titre: "Pot-au-Feu de Saumon"
 categories: ["Plat"]
-themes: []
+themes: ["Noël"]
 regimes: []
 date: 2014-12-22
 difficulte: 2
 index_ingredients:
-  - "rouleaux de pâtes feuilletée"
+  - "pâte feuilletée"
   - "œuf"
-  - "jaune œuf"
   - "oignon"
-  - "garni"
-  - "gros sel"
-  - "grains de poivre"
-  - "grosses carottes"
-  - "petites pommes de terres à chair ferme"
+  - "bouquet garni"
+  - "sel"
+  - "poivre"
+  - "carotte"
+  - "pomme de terre"
   - "navet"
   - "poireau"
-  - "botte d'aneth"
-  - "pavé de saumon"
+  - "aneth"
+  - "saumon"
 ---
 
 
@@ -28,36 +27,22 @@ index_ingredients:
 
 Les températures commencent à descendre? Vous avez besoin d'un plat qui vous réchauffe les papilles et le corps. Voici une recette revisitée du célèbre Pot-au-feu. Beaucoup plus savoureux et odorant que le plat traditionnel. Nous nous sommes régalés 😊. Pour ma part, rien que l’agréable fumet se dégageant dans la cuisine lors de la préparation et l'ouverture du four m'a pleinement réchauffé le cœur...
 
-**Ingrédients pour 5 pots :**  
+<p class="titre-liste">Liste des ingrédients pour 5 pots :</p>  
 
-- 2 rouleaux de pâtes feuilletée
-
+- 2 rouleaux de pâte feuilletée
 - 1 œuf
-
 - 1 jaune œuf
-
 - 1 oignon
-
 - 1,5 litre de fumet de poisson
-
 - 1,5 cuillère à soupe de citronnelle surgelée
-
 - 1 bouquet garni
-
 - 2 g de gros sel
-
 - 3 grains de poivre
-
 - 3 grosses carottes
-
 - 10 petites pommes de terres à chair ferme
-
 - 1 navet
-
 - 1 poireau
-
 - 1/2 botte d'aneth
-
 - 450 g de pavé de saumon
 
 1. Humidifiez un des rouleaux de pâte feuilletée avec un peu d’eau à l'aide d'un pinceau. Collez ensuite l'autre pâte feuilletée dessus. Grâce à l'eau elles vont bien se souder. Découpez à l'emporte-pièce 5 cercles de 9,5 cm de diamètre.  

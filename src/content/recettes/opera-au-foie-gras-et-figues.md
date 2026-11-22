@@ -1,26 +1,23 @@
 ---
 titre: "Opéra au Foie Gras et Figues"
 categories: ["Entrée"]
-themes: []
+themes: ["Noël"]
 regimes: []
 date: 2014-12-20
 difficulte: 4
 index_ingredients:
-  - "bloc de foie gras"
-  - "crème fleurette à 30% MG"
-  - "figues fraîches ou décongelées"
-  - "poudre d'amande"
+  - "foie gras"
+  - "crème"
+  - "figue"
+  - "amande"
   - "sucre glace"
   - "farine"
-  - "généreuse de mélange à pain d'épices"
+  - "gmélange à pain d'épices"
   - "fécule de Maïs"
-  - "œufs"
-  - "blancs d’œufs"
-  - "sucre en poudre"
-  - "sel fin"
+  - "œuf"
+  - "sucre"
+  - "sel"
   - "beurre"
-  - "figues fraîche"
-  - "confit de figue"
 ---
 
 
@@ -30,13 +27,16 @@ index_ingredients:
 
 Et oui c'est bientôt Noël, ce n'est peut-être pas un opéra classique que vous servirez en dessert pour Noël cette année mais un opéra au foie gras en entrée 😊.  cela changera de la traditionnelle terrine que l'on prépare habituellement pour nos fêtes de fin d'année et vous impressionnerez vos convives. J'ai fait cette recette pour ma soirée jeu mensuelle avec mes amis. J'adore le foie gras et je voulais changer un peu et tester cette nouvelle recette. On a adoré ! 😊
 
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 ***Mousse de foie gras***  
+
 - 300 g de bloc de foie gras  
 - 250 g de crème fleurette à 30% MG  
 - 5 figues fraîches ou décongelées  
   
 ***Biscuit au pain d'épices***  
+
 - 90 g de poudre d'amande  
 - 20 g de sucre glace  
 - 30 g de farine  
@@ -49,6 +49,7 @@ Et oui c'est bientôt Noël, ce n'est peut-être pas un opéra classique que vou
 - 30 g de beurre  
   
 ***Décoration :***  
+
 - figues fraîche  
 - confit de figue  
   

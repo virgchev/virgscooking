@@ -7,7 +7,7 @@ date: 2014-08-24
 difficulte: 2
 index_ingredients:
   - "pâte brisée"
-  - "ravioles"
+  - "raviole"
   - "crème"
   - "comté"
 ---
@@ -17,14 +17,11 @@ index_ingredients:
 
 Voici une recette de tartelettes pour l'apéritif que j'ai découvert lors d'un atelier de cuisine chez la voisine d'une amie. La première fois, je me suis dit : "ça risque d'être un peu lourd " et en fait pas du tout. Ça se mange sans faim, vous êtes sûr(e) de faire un succès. En plus, c'est très rapide à faire. Sur la photo, j'ai fait deux fournées soit 48 tartelettes 😉. Recette idéale dans un buffet dînatoire et vous pouvez variez les goûts avec des ravioles au basilic que j'ai testé, mais aussi au chèvre etc...
 
-**Ingrédients pour 24 tartelettes:**  
+<p class="titre-liste">Liste des ingrédients pour 24 tartelettes:</p>  
 
 - 1 pâte brisée en rouleau ou vous pouvez la faire aussi 😉
-
 - 2 plaques de ravioles
-
 - Crème fleurette
-
 - Comté ou gruyère râpé
 
 1. Préchauffez le four à 200°C

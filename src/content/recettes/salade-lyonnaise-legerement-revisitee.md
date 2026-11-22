@@ -2,14 +2,14 @@
 titre: "Salade Lyonnaise Légèrement Revisitée"
 categories: ["Entrée", "Plat"]
 themes: []
-regimes: []
+regimes: ["Sans Gluten"]
 date: 2014-06-13
 difficulte: 1
 index_ingredients:
   - "salade"
   - "parmesan"
   - "pomme de terre"
-  - "lardons"
+  - "lardon"
   - "huile d'olive"
   - "vinaigre balsamique"
 ---
@@ -21,20 +21,14 @@ Un jour, une amie Lyonnaise m'a fait découvrir la "salade lyonnaise" et comment
 
   
 
-**Ingrédients pour 1 assiette :**
+<p class="titre-liste">Liste des ingrédients pour 1 assiette :</p>
 
 - salade verte
-
 - copeaux de parmesan ou vous les faites vous même avec un économe/épluche-légume
-
 - 3 ou 4 petites pommes de terre
-
 - 100 g de lardons ou allumettes
-
 - huile (celle que vous aimez 😊 pour ma part c'est huile d'olive ou huile d'amande)
-
 - vinaigre (celui que vous préférez, perso j'adore le balsamique)
-
 - 1 (ou 2 œufs pour les gourmands)
 
 1. Coupez les pommes de terre en petits cubes. Faites-les revenir dans une poêle avec un peu d'huile et de beurre. En principe cela prend 20-25 min en remuant très régulièrement.

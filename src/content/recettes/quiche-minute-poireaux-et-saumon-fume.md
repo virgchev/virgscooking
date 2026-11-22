@@ -6,13 +6,13 @@ regimes: []
 date: 2014-06-04
 difficulte: 1
 index_ingredients:
-  - "poireaux congelés environ : c'est tout ce qui me restait 😊"
-  - "petit peu de vin blanc"
-  - "peu de beurre doux pour la poêle"
-  - "œufs"
-  - "crème fleurette 12%"
+  - "poireau"
+  - "vin blanc"
+  - "beurre"
+  - "œuf"
+  - "crème"
   - "poivre"
-  - "peu de comté râpé"
+  - "comté"
   - "saumon fumé"
   - "pâte feuilletée"
 ---
@@ -27,7 +27,7 @@ Voici une recette improvisée pour ce midi, un reste de poireaux dans le congél
   
   
 
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
 
 - 200 g de poireaux congelés environ : c'est tout ce qui me restait 😊
 

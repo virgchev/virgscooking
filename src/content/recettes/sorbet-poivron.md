@@ -2,15 +2,15 @@
 titre: "Sorbet poivron"
 categories: ["Entrée"]
 themes: ["Canicule"]
-regimes: []
+regimes: ["Sans Gluten"]
 date: 2016-08-18
 difficulte: 2
 index_ingredients:
-  - "poivrons rouges"
-  - "jus de citron vert"
+  - "poivron"
+  - "citron vert"
   - "sauce soja"
   - "eau"
-  - "sucre en poudre"
+  - "sucre"
 ---
 
 
@@ -20,7 +20,8 @@ index_ingredients:
 Envie de fraîcheur, voici une petite entrée facile à faire par grande chaleur. Pour ma part, cela m'a permis de sortir ma sorbetière de mes placards et faire des heureux. 😊  
   
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 3 poivrons rouges  
 - 1 cuillère à soupe de jus de citron vert  
 - 1 cuillère à café de sauce soja  

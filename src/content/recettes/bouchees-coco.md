@@ -7,7 +7,7 @@ date: 2014-06-07
 difficulte: 1
 index_ingredients:
   - "noix de coco"
-  - "blancs d'oeufs"
+  - "oeuf"
   - "sucre"
 ---
 
@@ -19,7 +19,8 @@ index_ingredients:
 Il vous reste des blancs d'oeufs dont vous ne savez que faire. Voici une recette simple et rapide pour peu que vous aimiez la noix de coco bien sûr 😉.  
   
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 140 g de noix de coco râpée  
 - 2 blancs d'oeufs  
 - 100 g de sucre  
@@ -33,10 +34,6 @@ Il vous reste des blancs d'oeufs dont vous ne savez que faire. Voici une recette
 5. A la sortie du four, laissez refroidir 10 min pour que les bouchées se démoulent bien.
 
 Bon goûter!!! 😊
-
-  
-  
-  
   
 
 > Recette inspirée du livre de recette Demarle Petits et grands gourmands.

@@ -9,9 +9,9 @@ index_ingredients:
   - "farine"
   - "beurre"
   - "sucre"
-  - "œufs"
+  - "œuf"
   - "lait"
-  - "crème fleurette entière"
+  - "crème"
   - "levure chimique"
   - "michokos au chocolat noir"
 ---
@@ -23,7 +23,8 @@ index_ingredients:
 Aujourd'hui quelques douceurs pour le goûter, c'est une petite recette que nous avons faite la première fois en atelier de cuisine entre copines. Nous l'avions réalisée avec des caramels un peu plus durs mais avec des Michokos c'est beaucoup plus fondant et en prime une petite pointe de chocolat pour les gourmands 😉.  
   
 
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 200 g de farine  
 - 60 g de beurre  
 - 80 g de sucre  

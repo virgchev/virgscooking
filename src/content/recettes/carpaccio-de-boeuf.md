@@ -23,7 +23,8 @@ index_ingredients:
   
 Voici un petit plat rapide, enfin si votre viande est déjà coupée 😊. Depuis quelques mois, je raffole de ce plat et pourtant pendant des années, je mangeais ma viande de bœuf façon semelle 😃. Après avoir goûter des carpaccios de bœuf dans plusieurs restaurants, pourquoi ne pas essayer à la maison 😉. Ce n'est pas de la grande cuisine mais c'est délicieux pour peu que vous aimez la viande crue 😊.   
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 200 g de viande de bœuf coupée en tranches fines  
 - Mesclun ou Roquette pour accompagner  
 - Parmesan  

@@ -6,12 +6,12 @@ regimes: []
 date: 2014-06-03
 difficulte: 2
 index_ingredients:
-  - "oeufs"
+  - "œuf"
   - "farine"
-  - "comté rapé"
-  - "beurre salé"
+  - "comté"
+  - "beurre"
   - "levure chimique"
-  - "chorizo plus ou moins fort selon votre goût"
+  - "chorizo"
 ---
 
 
@@ -20,23 +20,14 @@ index_ingredients:
   
 J'aime beaucoup le principe de partir de recettes sucrées classiques pour trouver des idées pour l'apéritif et autant vous dire que le parfum de ces mini-madeleines lors de la cuisson vont vous ravir. Le plus dur est de les garder intactes en attendant vos amis...;-)  
   
-  
-  
-  
-  
 
-**Ingrédients** :
+<p class="titre-liste">Liste des ingrédients :</p>
 
 - 3 oeufs
-
 - 110 g de farine
-
 - 40 g de comté rapé
-
 - 80 g de beurre salé
-
 - 5 g de levure chimique (1/2 sachet environ)
-
 - 1/2 chorizo plus ou moins fort selon votre goût
 
 [![](/images/7325e26c12.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMqjppWD8CHuliWKTkfKH92vR6x2MpYlm-wm8j9dxabXYjEOpvFhn6thGhzUrUVOcK3Gxeo6lJ-0-jEcJGRhTlpwsSeb0pDE9vyCU6wHyhvvsNUrYyNL3ZejfQfyuTBG-U6MDkn2ON9Mw/s1600/20140510_132445.jpg)
@@ -51,9 +42,6 @@ J'aime beaucoup le principe de partir de recettes sucrées classiques pour trouv
 8. Démoulez les madeleines à la sortie du four
 
 Petit conseil : Servez-les tièdes, c'est bien meilleur 😊
-
-  
-  
 
 
 > Recette inspirée de la [Recette de Martin Sophie sur le site de 750g](http://www.750g.com/madeleines-au-chorizo-r26220.htm)

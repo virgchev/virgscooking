@@ -6,10 +6,10 @@ regimes: []
 date: 2016-01-24
 difficulte: 2
 index_ingredients:
-  - "rouleau de pâte feuilletée"
-  - "petite courge butternut"
-  - "poitrine fumée coupée finement"
-  - "chèvre frais"
+  - "pâte feuilletée"
+  - "butternut"
+  - "poitrine fumée"
+  - "fromage de chèvre frais"
   - "romarin"
 ---
 
@@ -20,16 +20,11 @@ index_ingredients:
 
 Après des mois d'absence et un bébé plus tard, je commence à me remettre aux fourneaux et tester des recettes ; pas facile de trouver du temps pour cuisiner et publier des recettes dans mon nouvel emploi du temps de Maman 😉. Voici la recette qu'un couple d'amis m'a fait goûter, il y a déjà quelques temps. Ma maman m'ayant donné une courge butternut, il fallait trouver une recette pour la consommer. Cette tarte est vraiment très bonne avec le fromage de chèvre frais et la poitrine fumée un peu croustillante. j'espère que vous vous régalerez 😉.
 
-**Ingrédients :**  
-
+<p class="titre-liste">Liste des ingrédients :</p>  
 - 1 rouleau de pâte feuilletée
-
 - 1 petite courge butternut
-
 - 200 g  poitrine fumée coupée finement
-
 - 400 g de chèvre frais
-
 - du romarin
 
 1. Pelez, épépinez et coupez la courge butternut en fine lamelle pour faciliter la cuisson.

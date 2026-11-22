@@ -7,17 +7,16 @@ date: 2016-07-05
 difficulte: 3
 index_ingredients:
   - "oeuf"
-  - "purée de framboise"
+  - "framboise"
   - "sucre"
   - "farine"
-  - "poudre d'amandes"
+  - "amande"
   - "huile de pépins de raisin"
   - "lait"
   - "beurre"
   - "fécule de maïs"
   - "crème"
   - "sucre glace"
-  - "framboise"
 
 ---
 
@@ -26,9 +25,10 @@ index_ingredients:
 
 Pas beaucoup de temps pour poster mes recettes ou cuisiner tout court avec la reprise du travail et bébé. Je ne reviens donc qu'épisodiquement sur mon blog, cela me manque je dois dire. Me revoilà aujourd'hui pour l'anniversaire de mon homme. Il adore les framboises et j'avais un moule à utiliser dans mes placards 😊, donc voici un gâteau savoureux qui m'a permis de m'essayer enfin à la pâte à sucre et à l'écriture sur gâteau 😊, ce n'était pas une mince affaire 😛. Cerise sur le gâteau ou plutôt Framboise, je l'ai goûté et trouver très bon. Pour la petite histoire, je détestais les fruits depuis toute petite et depuis quelques années je les cuisine pour faire plaisir à ma famille et mes ami(e)s. Du coup, petit à petit ils s'intègrent mon alimentation après être rentrés dans ma cuisine...comme quoi tout arrive 😊.
 
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
 
 Génoise :
+
 - 45 g de sucre
 - 50 g de farine
 - 20 g poudre d'amandes
@@ -36,6 +36,7 @@ Génoise :
 - 2 oeufs
 
 Crème mousseline :
+
 - 200 g de lait
 - 2 jaunes d'oeufs
 - 50 g de sucre
@@ -45,10 +46,12 @@ Crème mousseline :
 - 150 g de framboises fraîches
 
 Sirop de framboise :
+
 - 80 g de sucre de canne liquide
 - 80 g de framboises
 
 Décoration :
+
 - 250 g de pâte à sucre blanche
 - Colorant alimentaire rose guimauve
 - 12 g de blanc d'oeuf

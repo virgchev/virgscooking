@@ -9,7 +9,7 @@ index_ingredients:
   - "pâte à tartiner"
   - "mascarpone"
   - "farine"
-  - "œufs"
+  - "œuf"
 ---
 
 
@@ -19,7 +19,7 @@ index_ingredients:
 Pour les gourmands et fan de Nutella, voici une recette super facile et un pur délice. Mais attention aux calories 😊  
   
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
 
 - 400g de Nutella ou autres pâtes à tartiner à la noisette et chocolat.  
 - 250g de mascarpone  

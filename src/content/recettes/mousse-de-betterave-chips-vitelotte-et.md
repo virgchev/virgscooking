@@ -2,17 +2,17 @@
 titre: "Mousse de Betterave, Chips Vitelotte et Copeaux de Parmesan"
 categories: ["Apéritif", "Entrée"]
 themes: []
-regimes: []
+regimes: ["Sans Gluten"]
 date: 2014-06-02
 difficulte: 2
 index_ingredients:
-  - "betteraves cuites"
+  - "betterave"
   - "fromage blanc"
   - "vinaigre balsamique"
-  - "chips Vitelotte"
-  - "copeaux de Parmesan"
-  - "crème fraîche épaisse"
-  - "graines de pavot pour la décoration"
+  - "chips vitelotte"
+  - "parmesan"
+  - "crème"
+  - "graine de pavot"
 ---
 
 
@@ -22,14 +22,15 @@ index_ingredients:
 Envie d'une petite recette pour l'apéritif toute en fraîcheur et en couleurs 😊  
   
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 500 g de betteraves cuites  
 - 500 g de fromage blanc  
 - 2 cuillères à soupe de vinaigre balsamique  
 - Chips Vitelotte  
 - Copeaux de Parmesan  
 - Crème fraîche épaisse (facultatif)  
-- Graines de pavot pour la décoration (facultatif)  
+- Graines de pavot pour la décoration (facultatif)  
 - 2 cuillères à soupe de vinaigre balsamique  
   
   

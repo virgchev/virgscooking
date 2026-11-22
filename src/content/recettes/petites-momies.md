@@ -1,7 +1,7 @@
 ---
 titre: "Petites Momies"
 categories: ["Apéritif"]
-themes: []
+themes: ["Halloween"]
 regimes: []
 date: 2014-11-22
 difficulte: 1
@@ -18,7 +18,8 @@ index_ingredients:
   
 Voici une autre petite recette à faire pour Halloween ou pour l'apéritif avec effet garanti. Elle est toute simple mais armez-vous de patience car enrubanner ces petits momies demandent un peu de temps. 😊  
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 10 saucisses de strasbourg ou knackis  
 - une pâte brisée   
 - 1 jaune d'œuf  

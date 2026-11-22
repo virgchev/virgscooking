@@ -6,17 +6,16 @@ regimes: []
 date: 2015-02-01
 difficulte: 4
 index_ingredients:
-  - "rouleau de pâte feuilletée"
-  - "sucre semoule"
+  - "pâte feuilletée"
+  - "sucre"
   - "sucre glace"
   - "lait"
-  - "sucre"
-  - "jaunes d’œuf"
+  - "œuf"
   - "fécule de maïs"
-  - "crème fleurette entière"
+  - "crème"
   - "chocolat noir"
-  - "coulis de framboises"
-  - "poudre de beurre de cacao"
+  - "framboise"
+  - "beurre de cacao"
 ---
 
 
@@ -26,46 +25,32 @@ Voici enfin la recette de mon dessert réalisé pour Noël, un peu long à faire
 
   
   
-**Ingrédients pour 6 feuilletés :**  
-**Feuilletage caramélisé :**  
+<p class="titre-liste">Ingrédients pour 6 feuilletés :</p>  
+
+Feuilletage caramélisé :  
 - 1 rouleau de pâte feuilletée  
 - 1 cuillère à soupe de sucre semoule  
 - 1 cuillère à soupe de sucre glace  
   
-  
-
-**Crème pâtissière :**
-
+Crème pâtissière :
 - 20 cl de lait
-
 - 60 g de sucre
-
 - 2 jaunes d’œuf
-
 - 20 g de fécule de maïs
-
 - 10 cl de crème fleurette entière
 
-**Ganache au chocolat noir :**
-
+Ganache au chocolat noir :
 - 90 g de chocolat noir
-
 - 60 g de crème fleurette entière
 
-**Ganache au chocolat et framboise :**
-
+Ganache au chocolat et framboise :
 - 90 g de chocolat noir
-
 - 90 g de crème fleurette entière
-
 - 30 g de coulis de framboises
 
-**Décor :**
-
+Décor :
 - 250 g de chocolat noir
-
 - 6 g de poudre de beurre de cacao (Mycryo®)
-
 - 125 g de coulis de framboises
 
 1. Préchauffez votre four à 180°C. Placez sur une plaque perforée, une toile en silicone et déposez votre pâte feuilleté saupoudrée de sucre semoule. Faites cuire 5 min à 180°c, puis mettez une autre toile dessus et continuez à faire cuire 10 min. Attention que le feuilletage de lève pas trop, utilisez quelque chose pour faire un peu de poids si besoin.

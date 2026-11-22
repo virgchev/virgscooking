@@ -2,17 +2,17 @@
 titre: "Rôti de Magret de Canard Aux Oignons Confits"
 categories: ["Plat"]
 themes: []
-regimes: []
+regimes: ["Sans Gluten"]
 date: 2015-01-18
 difficulte: 2
 index_ingredients:
   - "magrets de canard"
-  - "oignons"
-  - "noix de beurre"
+  - "oignon"
+  - "beurre"
   - "huile d'olive"
   - "vinaigre balsamique"
   - "sauce soja"
-  - "vinaigre de vin rouge vieilli en fût"
+  - "vinaigre de vin rouge"
   - "miel"
   - "sel"
   - "poivre"
@@ -26,7 +26,8 @@ index_ingredients:
 Si comme moi vous adorez le magret de canard et le sucré-salé, voici une recette que j'ai faite pour le Noël avec ma famille. Un pure délice servi avec des frites de patates douces et des haricots verts 😊, nous nous sommes régalés. C'est une recette qui trouvera sa place sans difficulté sur nos tables pour changer des traditionnels rôtis du dimanche sur nos tables familiales.
 
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 2 magrets de canard  
 - 4 oignons (j'ai mis 3 blancs et 1 rouge pour renforcer le goût sucré et doux)  
 - 1 noix de beurre  

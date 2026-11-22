@@ -7,11 +7,11 @@ date: 2014-05-31
 difficulte: 2
 index_ingredients:
   - "pâte brisée"
-  - "roquette préalablement lavée si elle vient de votre jardin 😉"
-  - "œufs"
-  - "crème fleurette à 12%"
+  - "roquette"
+  - "œuf"
+  - "crème"
   - "fromage de chèvre frais"
-  - "tomates ou plus selon votre goût"
+  - "tomate"
   - "sel"
 ---
 
@@ -23,7 +23,8 @@ index_ingredients:
 Ma roquette poussant à vue d’œil sur mon balcon, il faut bien trouver une recette qui permettra de la couper un peu et d'apprécier son goût.  
   
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 1 pâte brisée  
 - 100 g de roquette préalablement lavée si elle vient de votre jardin 😉  
 - 3 œufs  

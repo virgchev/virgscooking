@@ -9,8 +9,8 @@ index_ingredients:
   - "farine"
   - "beurre"
   - "sucre"
-  - "oeufs"
-  - "eau de fleur d'oranger ou plus selon votre goût"
+  - "oeuf"
+  - "eau de fleur d'oranger"
   - "sel"
 ---
 
@@ -24,6 +24,7 @@ Avec la neige dehors, on a envie de rester au chaud avec des petits douceurs et 
   
   
 **Ingrédients (15 gaufres environ):**  
+
 - 250 g de farine  
 - 75 g de beurre  
 - 25 g de sucre  

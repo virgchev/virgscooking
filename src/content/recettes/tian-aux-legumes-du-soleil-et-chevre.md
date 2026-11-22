@@ -2,7 +2,7 @@
 titre: "Tian aux Légumes du Soleil et Chèvre façon Elodie"
 categories: ["Plat"]
 themes: []
-regimes: []
+regimes: ["Sans Gluten"]
 date: 2015-06-16
 difficulte: 2
 index_ingredients:
@@ -12,7 +12,7 @@ index_ingredients:
   - "parmesan"
   - "fromage de chèvre frais"
   - "ail"
-  - "gros oignon"
+  - "oignon"
   - "huile d'olive"
   - "sel"
   - "poivre"
@@ -26,26 +26,17 @@ index_ingredients:
 
 Me revoilà avec une recette que j'adore. Il s'agit de la recette familiale du tian de mon amie Elodie qu'elle m'a fait découvrir le jour de mon anniversaire l'année dernière : un vrai délice. C'est celui que je trouve le plus savoureux, les légumes fondants et la présentation est très belle. Le petit truc en plus : du fromage de chèvre frais 😉 et un plat à terrine pour la cuisson au four. Une petite dédicace à Elodie et sa maman pour cette merveilleuse recette que je n'arrête pas de refaire.
 
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
 
 - 1 kg d'Aubergine
-
 - 1 Petite courgette
-
 - 1 ou 2 Tomates
-
 - Parmesan râpé
-
 - 150 g de Chèvre frais
-
 - 1 Gousse d'ail
-
 - 1 Gros oignon
-
 - Huile d'olive
-
 - Sel
-
 - Poivre
 
 1. Émincez l'oignon et écrasez la gousse d'ail, puis faites-les revenir dans une cuillère à soupe d'huile d'olive dans une sauteuse.

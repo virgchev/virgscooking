@@ -6,12 +6,12 @@ regimes: []
 date: 2014-06-24
 difficulte: 2
 index_ingredients:
-  - "courgettes"
+  - "courgette"
   - "dinde"
-  - "œufs"
-  - "crème fleurette"
+  - "œuf"
+  - "crème"
   - "fécule de maïs"
-  - "tomate cerise"
+  - "tomate"
   - "sel"
 ---
 
@@ -23,7 +23,7 @@ index_ingredients:
 
 Pour voir la vie en couleurs et s'ouvrir l'appétit, rien de tel que des recettes toutes simples et colorées. Voici une petite recette à réaliser vite prête mais qui fait son effet 😉.
 
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
 
 - 1 ou 2 courgettes  
 - 4 tranches de dinde fumée

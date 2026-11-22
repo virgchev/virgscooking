@@ -7,14 +7,13 @@ date: 2014-11-09
 difficulte: 2
 index_ingredients:
   - "sucre"
-  - "beurre salé"
-  - "beurre doux"
-  - "crème fleurette entière"
-  - "œufs"
-  - "beurre mou"
+  - "beurre"
+  - "crème"
+  - "œuf"
   - "lait"
-  - "farine complète"
-  - "sucre blanc ou cassonade"
+  - "farine"
+  - "sucre" 
+  - "cassonade"
   - "levure chimique"
   - "sel"
 ---
@@ -26,14 +25,15 @@ index_ingredients:
 
 Voici des cupcakes au goût inimitable. Si comme moi, vous êtes une fondue de caramel au beurre salé, vous allez craquer. Pour la petite histoire, je les ai fait après avoir raté mon caramel au beurre salé pour mes macarons, raté c'est vite dit mais il y avait des petits cristaux de sucre et du coup j'avais rajouté un peu de crème en espérant les faire fondre, ce qui fait que mon caramel a fini par être trop liquide pour fourrer les macarons. Le caramel était quand même très bon. Du coup, en discutant cuisine avec une collègue et amie, Alice (d'où ma petite dédicace), je me suis dit que je pourrais faire vite fait des cupcakes et utiliser le caramel pour le glaçage (ou topping pour les experts du cupcake) 😉.  J'espère qu'ils vous plairont 😊
 
-**Ingrédients pour le caramel au beurre salé :**  
+<p class="titre-liste">Liste des ingrédients</p>
 
+pour le caramel au beurre salé :
 - 180 g de sucre  
 - 80 g de beurre salé  
 - 120 g de beurre doux  
 - 10 cl de crème fleurette entière
 
-**Ingrédients pour 12 cupcakes :**
+pour la pâte pour les 12 cupcakes :
 
 - 2 œufs  
 - 120 g de beurre mou  
@@ -78,10 +78,6 @@ Voici des cupcakes au goût inimitable. Si comme moi, vous êtes une fondue de c
   
 9. Pour décorer, remplissez une poche à douille et utiliser une douille en forme d'étoile. Faites plein de petits tas 😊. Vous pouvez décorer comme vous le souhaitez.
 
-     
-
    [![](/images/3c37512ff5.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHql8NBQF5XqUh4Rl6GlgmZMBDyjK0KJ0gvrvyu5LEV_hJYAAWL9ia5VyTfK70RJoX3Xk9rJzESTjj_8A2461_6BdzIQYL7YfW9E3kvcc9QaY27TFq83PETQQcaNBO7M9GsZxgKzhCv5A/s1600/20141021_011808.jpg)
-
-  
 
 Amusez-vous 😊

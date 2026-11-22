@@ -6,11 +6,11 @@ regimes: []
 date: 2016-01-27
 difficulte: 1
 index_ingredients:
-  - "rhubarbe en tronçons"
-  - "framboises"
+  - "rhubarbe"
+  - "framboise"
   - "cassonade"
   - "farine"
-  - "poudre d'amande"
+  - "amande"
   - "beurre"
 ---
 
@@ -21,7 +21,7 @@ index_ingredients:
 
 Dans l'optique de vider mon congélateur, j'ai improvisé cette petite recette pour utiliser les framboises et la rhubarbe que j'avais. Le résultat n'était pas mal du tout, ce dessert n'était pas trop sucré, et aide a digérer avec la légère acidité de la rhubarbe. J'espère que vous aimerez 😉.
 
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
 
 - 1 kg de rhubarbe en tronçons
 

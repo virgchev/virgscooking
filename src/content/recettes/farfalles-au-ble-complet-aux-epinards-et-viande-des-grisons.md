@@ -6,13 +6,13 @@ regimes: []
 date: 2014-09-22
 difficulte: 1
 index_ingredients:
-  - "pâtes au blé complet"
-  - "viande des Grisons ( viande séchée de bœuf"
-  - "copeaux de parmesan ou parmesan râpé"
-  - "peu de crème fraîche )"
-  - "feuilles d’épinard fraîches ou surgelées"
-  - "pignons de pin"
-  - "peu d'ail"
+  - "pâtes"
+  - "viande des Grisons"
+  - "parmesan"
+  - "crème"
+  - "épinard"
+  - "pignon de pin"
+  - "ail"
   - "huile d'olive"
 ---
 
@@ -25,24 +25,15 @@ En panne d'idée pour un petit repas du soir ou le déjeuner ??? voici une idée
 
   
 
-**Ingrédients pour une assiette pour 1 ou 2 personnes :**
-
-  
+<p class="titre-liste">Liste des ingrédients pour une assiette pour 1 ou 2 personnes :</p>
 
 - 250 g de pâtes au blé complet
-
 - 8 tranches de viande des Grisons ( viande séchée de bœuf
-
 - des copeaux de parmesan ou parmesan râpé
-
 - un peu de crème fraîche (ou mascarpone comme dans mon cas 😊
-
 - des feuilles d’épinard fraîches ou surgelées
-
 - des pignons de pin
-
 - un peu d'ail
-
 - de l'huile d'olive
 
 1. Faites bouillir un grand volume d'eau salée. Plongez les pâtes dans l'eau bouillante et faites cuire pendant le temps indiqué sur le paquet (ici c'était 13 min).
@@ -54,7 +45,5 @@ En panne d'idée pour un petit repas du soir ou le déjeuner ??? voici une idée
 4. Quand les pâtes sont cuites, égouttez-les et disposez-les au centre de l'assiette, ajoutez le mélange épinard-pignons sur le dessus ou mélangez les avec vos pâtes en fonction de votre goût. Tant que votre poêle est encore chaude, mettez un peu de crème fraîche (ou mascarpone) et portez à ébullition pour éviter de refroidir votre plat de pâtes avec de une crème trop froide. Versez la crème sur vos pâtes.
 5. Ajoutez des copeaux de parmesan ou du parmesan râpé sur le dessus et voilà c'est prêt!
 
-  
-  
 
 Bon appétit 😊

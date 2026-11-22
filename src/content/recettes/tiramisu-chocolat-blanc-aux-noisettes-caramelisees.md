@@ -10,7 +10,7 @@ index_ingredients:
   - "lait"
   - "oeuf"
   - "mascarpone"
-  - "biscuits cuillères"
+  - "biscuit cuillère"
   - "noisettes"
   - "sucre"
   - "eau"
@@ -27,7 +27,8 @@ Voici une recette de tiramisu pour ceux qui n'aiment pas le café 😉. J'ai dé
 
   
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 100 g de chocolat blanc  
 - 3 cuillères à soupe de lait  
 - 3 oeufs  

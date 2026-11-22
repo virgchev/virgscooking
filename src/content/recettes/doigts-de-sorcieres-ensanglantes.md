@@ -7,13 +7,13 @@ date: 2014-11-02
 difficulte: 2
 index_ingredients:
   - "farine"
-  - "sucre roux"
-  - "beurre mou"
+  - "cassonade"
+  - "beurre"
   - "lait"
   - "sucre vanillé"
-  - "amandes"
+  - "amande"
   - "sirop de grenadine"
-  - "peu de colorant rouge"
+  - "colorant rouge"
 ---
 
 
@@ -23,7 +23,7 @@ index_ingredients:
 
 Vous pensiez que j'avais oublié Halloween et bien non 😊, je n'avais juste pas le temps de les faire le jour J...voici une petite recette que j'ai faite pour mes collègues car ils m'ont gentillement offert il y a quelques mois un livre de recette "Fêtes Maison" pour mon anniversaire et j'avais flashé sur cette recette. Je leur avais parié que je la ferai pour Halloween. C'est chose faite 😊, elle a besoin d'être un peu améliorée à mon avis mais c'est un bon début...:)
 
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
 
 - 120 g de farine
 

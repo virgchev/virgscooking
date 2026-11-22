@@ -6,13 +6,13 @@ regimes: []
 date: 2014-07-13
 difficulte: 1
 index_ingredients:
-  - "beurre salé"
+  - "beurre"
   - "sucre"
-  - "poudre d'amande"
-  - "œufs"
+  - "amande"
+  - "œuf"
   - "farine"
   - "thé vert Matcha"
-  - "framboises pour la déco"
+  - "framboise"
 ---
 
 
@@ -22,7 +22,8 @@ index_ingredients:
 Voici une petite recette que j'adore, je l'ai découverte lors d'un atelier Demarle chez moi en début d'année. Le seul souci c'est que dès qu'on en finit un, on a envie d'en reprendre un deuxième et c'est sans fin 😊. Depuis le début de l'année je l'ai faite des dizaines de fois sous forme de muffins, de mini-madeleines, de fingers, vous pouvez faire les formes que vous souhaitez, ici de ce sont des petits dômes savarins. je vous laisse découvrir cette petite recette.  
   
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 170 g de beurre salé  
 - 100 g de sucre  
 - 125 g de poudre d'amande  

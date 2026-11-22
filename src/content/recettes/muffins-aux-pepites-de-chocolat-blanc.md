@@ -10,11 +10,11 @@ index_ingredients:
   - "sel"
   - "levure chimique"
   - "cassonade"
-  - "œufs"
+  - "œuf"
   - "beurre"
   - "lait"
   - "chocolat blanc"
-  - "cranberries séchées"
+  - "cranberries"
 ---
 
 
@@ -25,7 +25,8 @@ index_ingredients:
 Etant invitée pour le goûter, je ne pouvais pas venir sans rien 😉 Je regarde dans mes placards, aucune envie de se casser la tête et de refaire une recette que j'ai déjà faite des dizaines de fois...Et là, qu'est-ce que je trouve dans le placard : des cranberries séchées qui étaient destinées à de futurs cookies mais aucune envie de faire des cookies. En pleine période cupcakes, pourquoi pas des muffins avec pépites au chocolat blanc et des cranberries, ma voisine m'en avait fait une fois...et hop me voilà partie 😊 et 45 min plus tard, voilà un petit goûter qui sort de l'ordinaire...Alors n'hésitez pas, laissez-vous tenter 😊
 
   
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
+
 - 275 g de farine  
 - 1/2 cuilère à café de sel  
 - 1 sachet de levure chimique  

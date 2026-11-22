@@ -13,7 +13,7 @@ index_ingredients:
   - "lait"
   - "œuf"
   - "sel"
-  - "peu d'huile pour la cuisson"
+  - "huile"
   - "sirop d'érable"
 ---
 
@@ -27,7 +27,7 @@ En ce dimanche, pourquoi pas un petit brunch avec des pancakes au sirop d'érabl
   
   
 
-**Liste des ingrédients :**
+<p class="titre-liste">Liste des ingrédients :</p>
 
 - 120 g de farine
 
