@@ -2,7 +2,7 @@
 titre: "Crumble Rhubarbe et Framboises"
 categories: ["Dessert","Goûter"]
 themes: []
-regimes: []
+regimes: ["Végétarien"]
 date: 2016-01-27
 difficulte: 1
 index_ingredients:

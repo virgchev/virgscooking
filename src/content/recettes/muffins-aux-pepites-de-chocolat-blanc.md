@@ -2,7 +2,7 @@
 titre: "Muffins aux Pépites de Chocolat Blanc et Cranberries"
 categories: ["Dessert", "Goûter"]
 themes: []
-regimes: []
+regimes: ["Végétarien"]
 date: 2014-11-01
 difficulte: 1
 index_ingredients:

@@ -2,7 +2,7 @@
 titre: "Gaufres à la Fleur d'Oranger"
 categories: ["Dessert", "Goûter"]
 themes: []
-regimes: []
+regimes: ["Végétarien"]
 date: 2015-01-31
 difficulte: 1
 index_ingredients:

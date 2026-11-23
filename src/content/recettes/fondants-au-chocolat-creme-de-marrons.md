@@ -2,7 +2,7 @@
 titre: "Fondants au Chocolat à la Crème de Marrons"
 categories: ["Dessert", "Goûter"]
 themes: []
-regimes: []
+regimes: ["Végétarien"]
 date: 2015-06-19
 difficulte: 1
 index_ingredients:

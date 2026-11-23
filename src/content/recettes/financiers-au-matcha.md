@@ -2,7 +2,7 @@
 titre: "Petits Financiers au Thé Vert"
 categories: ["Dessert", "Goûter"]
 themes: []
-regimes: []
+regimes: ["Végétarien"]
 date: 2014-07-13
 difficulte: 1
 index_ingredients:

@@ -1,8 +1,8 @@
 ---
 titre: "Mille-Feuilles au Chocolat et à la Framboise"
 categories: ["Dessert"]
-themes: []
-regimes: []
+themes: ["Noël"]
+regimes: ["Végétarien"]
 date: 2015-02-01
 difficulte: 4
 index_ingredients:

@@ -2,7 +2,7 @@
 titre: "Tiramisu Chocolat Blanc aux Noisettes Caramelisées"
 categories: ["Dessert"]
 themes: []
-regimes: []
+regimes: ["Végétarien"]
 date: 2014-08-21
 difficulte: 2
 index_ingredients:

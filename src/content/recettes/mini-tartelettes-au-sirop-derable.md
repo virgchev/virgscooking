@@ -2,7 +2,7 @@
 titre: "Mini-Tartelettes au Sirop d'Erable"
 categories: ["Dessert", "Goûter"]
 themes: []
-regimes: []
+regimes: ["Végétarien"]
 date: 2014-09-23
 difficulte: 2
 index_ingredients:

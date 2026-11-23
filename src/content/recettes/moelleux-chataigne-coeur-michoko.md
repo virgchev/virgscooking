@@ -2,7 +2,7 @@
 titre: "Moelleux à la Châtaigne au Coeur de Michoko"
 categories: ["Dessert", "Goûter"]
 themes: []
-regimes: []
+regimes: ["Végétarien"]
 date: 2016-01-25
 difficulte: 2
 index_ingredients:

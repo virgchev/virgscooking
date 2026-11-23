@@ -2,7 +2,7 @@
 titre: "Coeur Framboisier"
 categories: ["Dessert"]
 themes: ["Anniversaire"]
-regimes: []
+regimes: ["Végétarien"]
 date: 2016-07-05
 difficulte: 3
 index_ingredients:

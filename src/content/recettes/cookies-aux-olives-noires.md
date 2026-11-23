@@ -2,7 +2,7 @@
 titre: "Cookies aux Olives Noires"
 categories: ["Apéritif"]
 themes: ["Halloween"]
-regimes: []
+regimes: ["Végétarien"]
 date: 2014-11-25
 difficulte: 1
 index_ingredients:
@@ -35,7 +35,7 @@ Voici une petite recette originale de cookies salés à déguster pour l'apérit
 - 1 cuillère à café rase de levure chimique   
 - Sel, poivre  
 - 50 g d’olives noires dénoyautées  
-- 2 cuillères à soupe d’huile d’olive  
+- 2 cuillères à soupe d’huile d’olive 
 - 50 g de tapenade  
   
   

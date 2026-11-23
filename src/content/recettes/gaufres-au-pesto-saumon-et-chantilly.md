@@ -1,6 +1,6 @@
 ---
 titre: "Gaufres Au Pesto, Saumon et Chantilly Citronnée"
-categories: ["Plat"]
+categories: ["Entrée","Plat"]
 themes: []
 regimes: []
 date: 2015-01-01

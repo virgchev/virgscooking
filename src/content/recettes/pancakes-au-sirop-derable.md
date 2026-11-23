@@ -2,7 +2,7 @@
 titre: "Pancakes au Sirop d'Erable"
 categories: ["Brunch", "Goûter"]
 themes: []
-regimes: []
+regimes: ["Végétarien"]
 date: 2014-06-15
 difficulte: 1
 index_ingredients:

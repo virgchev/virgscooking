@@ -2,7 +2,7 @@
 titre: "Tartelettes au citron"
 categories: ["Dessert","Goûter"]
 themes: []
-regimes: []
+regimes: ["Végétarien"]
 date: 2014-09-21
 difficulte: 2
 index_ingredients:

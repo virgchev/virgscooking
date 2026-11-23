@@ -1,8 +1,8 @@
 ---
 titre: "Doigts de Sorcières Ensanglantés"
 categories: ["Dessert", "Goûter"]
-themes: []
-regimes: []
+themes: [Halloween]
+regimes: ["Végétarien"]
 date: 2014-11-02
 difficulte: 2
 index_ingredients:

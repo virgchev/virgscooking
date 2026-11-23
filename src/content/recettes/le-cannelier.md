@@ -1,7 +1,7 @@
 ---
 titre: "Le Cannelier"
 categories: ["Dessert"]
-themes: []
+themes: ["Anniversaire"]
 regimes: []
 date: 2018-02-27
 difficulte: 3

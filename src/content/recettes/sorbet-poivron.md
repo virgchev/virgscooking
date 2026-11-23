@@ -2,7 +2,7 @@
 titre: "Sorbet poivron"
 categories: ["Entrée"]
 themes: ["Canicule"]
-regimes: ["Sans Gluten"]
+regimes: ["Sans Gluten","Sans Lactose","Végétarien","Végétalien"]
 date: 2016-08-18
 difficulte: 2
 index_ingredients:

@@ -2,7 +2,7 @@
 titre: "Cupcakes au Caramel Beurre Salé d'Alice"
 categories: ["Dessert", "Goûter"]
 themes: []
-regimes: []
+regimes: ["Végétarien"]
 date: 2014-11-09
 difficulte: 2
 index_ingredients:

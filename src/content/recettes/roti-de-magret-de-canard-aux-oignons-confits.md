@@ -2,7 +2,7 @@
 titre: "Rôti de Magret de Canard Aux Oignons Confits"
 categories: ["Plat"]
 themes: []
-regimes: ["Sans Gluten"]
+regimes: ["Sans Gluten","Sans Lactose"]
 date: 2015-01-18
 difficulte: 2
 index_ingredients:

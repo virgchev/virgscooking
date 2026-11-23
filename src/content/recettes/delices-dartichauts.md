@@ -1,8 +1,8 @@
 ---
 titre: "Délices d'Artichauts"
 categories: ["Apéritif", "Entrée"]
-themes: []
-regimes: []
+themes: ["Canicule"]
+regimes: ["Végétarien"]
 date: 2015-01-30
 difficulte: 2
 index_ingredients:

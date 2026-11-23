@@ -2,7 +2,7 @@
 titre: "Petits Pains Aux Graines"
 categories: ["Brunch"]
 themes: []
-regimes: []
+regimes: ["Végétarien"]
 date: 2014-12-28
 difficulte: 2
 index_ingredients:

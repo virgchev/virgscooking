@@ -2,7 +2,7 @@
 titre: "Bouchées coco"
 categories: ["Dessert","Goûter"]
 themes: []
-regimes: ["Sans Gluten"]
+regimes: ["Sans Gluten","Végétarien"]
 date: 2014-06-07
 difficulte: 1
 index_ingredients:

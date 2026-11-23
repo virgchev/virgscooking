@@ -2,7 +2,7 @@
 titre: "Saint Honorés Au Nutella"
 categories: ["Dessert","Goûter"]
 themes: []
-regimes: []
+regimes: ["Végétarien"]
 date: 2017-03-25
 difficulte: 1
 index_ingredients:
@@ -28,7 +28,7 @@ Pour les gourmands et fan de Nutella, voici une recette super facile et un pur d
   
   
 
-1. Mélangez 250g de Nutella avec les œufs et la farine.
+1. Mélangez 250g de pâte à tartiner avec les œufs et la farine.
 
 [![](/images/23b6f46863.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdfY4m1IBVoOiHiBqHy30352zC2anBK4fbPtsU_DedNpYyUBPi3toMEheT2DfhN1b0xygdj2Ue8DHMi1HUM7-AHGExZ6KVnD2V23s9S6nXt7fWwx_IKTJ18qP6Js-yyW7RHzS18QudFok/s1600/20161221_201516.jpg)
 

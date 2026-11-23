@@ -1,7 +1,7 @@
 ---
 titre: "Cheese-Cake au Saumon Fumé et Ciboulette"
 categories: ["Apéritif","Entrée"]
-themes: []
+themes: ["Canicule"]
 regimes: []
 date: 2014-11-07
 difficulte: 1
